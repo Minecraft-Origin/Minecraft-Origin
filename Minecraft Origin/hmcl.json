@@ -1,0 +1,19 @@
+{
+  "last": "Default",
+  "enableShadow": false,
+  "enableBlur": false,
+  "enableAnimation": true,
+  "decorated": false,
+  "theme": "green",
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "selectedMinecraftVersion": "1.12.2",
+      "gameDir": ".minecraft",
+      "global": {
+        "usesGlobal": false
+      }
+    }
+  }
+}
