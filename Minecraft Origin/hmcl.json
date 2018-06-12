@@ -1,5 +1,6 @@
 {
   "last": "Default",
+  "proxyType": 0,
   "enableShadow": false,
   "enableBlur": false,
   "enableAnimation": true,
@@ -11,8 +12,14 @@
     "Default": {
       "selectedMinecraftVersion": "1.12.2",
       "gameDir": ".minecraft",
+      "noCommon": false,
       "global": {
-        "usesGlobal": false
+        "usesGlobal": false,
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 0,
+        "gameDirType": 0
       }
     }
   }
