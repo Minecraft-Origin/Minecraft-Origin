@@ -12,7 +12,7 @@
     "Default": {
       "selectedMinecraftVersion": "1.12.2",
       "gameDir": ".minecraft",
-      "noCommon": false,
+      "noCommon": true,
       "global": {
         "usesGlobal": false,
         "fullscreen": false,
