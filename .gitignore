@@ -20,3 +20,6 @@ Minecraft Origin/.minecraft/versions/1.12.2-forge*/1.12.2-forge*natives
 Minecraft Origin/.minecraft/config/forge.cfg
 Minecraft Origin/.minecraft/config/forgeChunkLoading.cfg
 Minecraft Origin/.minecraft/config/splash.properties
+
+Minecraft Origin/.minecraft/config/InvTweaksRules.txt
+Minecraft Origin/.minecraft/config/InvTweaksTree.txt
