@@ -40,13 +40,13 @@ ofVignette:1
 ofChunkUpdates:1
 ofChunkUpdatesDynamic:false
 ofTime:0
-ofClearWater:false
+ofClearWater:true
 ofAaLevel:0
 ofAfLevel:1
 ofProfiler:false
 ofBetterSnow:false
 ofSwampColors:true
-ofRandomEntities:true
+ofRandomEntities:false
 ofSmoothBiomes:true
 ofCustomFonts:true
 ofCustomColors:true
@@ -66,6 +66,6 @@ ofCustomGuis:true
 ofShowGlErrors:true
 ofFullscreenMode:Default
 ofFastMath:true
-ofFastRender:true
-ofTranslucentBlocks:0
-key_of.key.zoom:46
+ofFastRender:false
+ofTranslucentBlocks:1
+key_of.key.zoom:29
