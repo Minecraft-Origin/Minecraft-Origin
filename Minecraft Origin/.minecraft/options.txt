@@ -52,8 +52,8 @@ enableWeakAttacks:false
 autoJump:false
 narrator:0
 tutorialStep:none
-key_key.attack:-100
-key_key.use:-99
+key_key.attack:-99
+key_key.use:-100
 key_key.forward:17
 key_key.left:30
 key_key.back:31
@@ -88,6 +88,7 @@ key_key.hotbar.9:10
 key_of.key.zoom:29
 key_FpsReducer.key.guiOpen:0
 key_invtweaks.key.sort:19
+key_key.carry.desc:42
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
