@@ -88,6 +88,14 @@ key_key.hotbar.9:10
 key_of.key.zoom:29
 key_FpsReducer.key.guiOpen:0
 key_invtweaks.key.sort:19
+key_key.jei.toggleOverlay:0
+key_key.jei.focusSearch:0
+key_key.jei.toggleCheatMode:0
+key_key.jei.showRecipe:34
+key_key.jei.showUses:33
+key_key.jei.recipeBack:0
+key_key.jei.previousPage:0
+key_key.jei.nextPage:0
 key_key.minimap.voxelmapmenu:50
 key_key.minimap.waypointmenu:0
 key_key.minimap.zoom:44
