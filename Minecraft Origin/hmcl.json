@@ -10,7 +10,7 @@
   "downloadtype": 0,
   "configurations": {
     "Default": {
-      "selectedMinecraftVersion": "1.12.2-forge1.12.2-14.23.4.2729",
+      "selectedMinecraftVersion": "1.12.2-forge1.12.2-14.23.4.2736",
       "gameDir": ".minecraft",
       "noCommon": true,
       "global": {
