@@ -7,3 +7,4 @@ git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/c
 git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/config/5.5/journeymap.topo.config"
 git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/config/5.5/journeymap.waypoint.config"
 git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/config/5.5/journeymap.webmap.config"
+git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/config/veinminer/tools-and-blocks.json"
