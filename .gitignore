@@ -6,6 +6,8 @@ Minecraft Origin/.minecraft/NVIDIA
 Minecraft Origin/.minecraft/crash-reports
 Minecraft Origin/.minecraft/.mixin.out
 Minecraft Origin/.minecraft/liteconfig
+Minecraft Origin/.minecraft/servers.dat
+
 
 Minecraft Origin/.minecraft/usercache.json
 Minecraft Origin/.minecraft/usernamecache.json
@@ -39,3 +41,7 @@ Minecraft Origin/.minecraft/journeymap/journeymap.log
 Minecraft Origin/.minecraft/journeymap/colorpalette.html
 Minecraft Origin/.minecraft/journeymap/colorpalette.json
 Minecraft Origin/.minecraft/config/journeymap_ModInfo.cfg
+
+Minecraft Origin/.minecraft/crafttweaker.log
+Minecraft Origin/.minecraft/scripts/MineTweakerRecipeMaker.zs
+
