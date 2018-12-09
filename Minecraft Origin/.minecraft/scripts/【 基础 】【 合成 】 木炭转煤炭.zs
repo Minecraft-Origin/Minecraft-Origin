@@ -1,1 +1,3 @@
-recipes.addShapeless(<minecraft:coal>, [<minecraft:coal:1>]);
+recipes.addShapeless(<minecraft:coal>, [
+    <minecraft:coal:1>
+]);
