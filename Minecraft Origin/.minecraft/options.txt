@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:80
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:false
@@ -91,7 +91,6 @@ key_neat.keybind.toggle:0
 key_smoothfont.key.guiOpen:0
 key_FpsReducer.key.guiOpen:0
 key_invtweaks.key.sort:19
-key_key.carry.desc:42
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
@@ -100,6 +99,12 @@ key_key.jei.showUses:33
 key_key.jei.recipeBack:0
 key_key.jei.previousPage:0
 key_key.jei.nextPage:0
+key_key.carry.desc:42
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
 key_key.journeymap.zoom_in:13:SHIFT
 key_key.journeymap.zoom_out:12:SHIFT
 key_key.journeymap.minimap_type:0
