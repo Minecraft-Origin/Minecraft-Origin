@@ -1,1 +1,105 @@
-[]
+[
+  {
+    "title": "僵尸/尸壳/牛/羊/猪 - 骨头",
+    "mob": [
+      "minecraft:zombie", "minecraft:husk",
+      "minecraft:cow", "minecraft:sheep", "minecraft:pig"
+    ],
+    "item": "minecraft:bone",
+    "itemcount": "3-6"
+  },
+
+
+  {
+    "title": "僵尸/尸壳 - 腐肉",
+    "mob": [ "minecraft:zombie", "minecraft:husk" ],
+    "item": "minecraft:rotten_flesh",
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "骷髅 - 骨头",
+    "mob": "minecraft:skeleton",
+    "item": "minecraft:bone",
+    "itemcount": "6-12"
+  },
+  {
+    "title": "骷髅 - 箭",
+    "mob": "minecraft:skeleton",
+    "item": "minecraft:arrow",
+    "itemcount": "1-2"
+  },
+
+  {
+    "title": "爬行者 - 火药",
+    "mob": "minecraft:creeper",
+    "item": "minecraft:gunpowder",
+    "itemcount": "6-12"
+  },
+  {
+    "title": "爬行者 - TNT",
+    "mob": "minecraft:creeper",
+    "item": "minecraft:tnt",
+    "itemcount": "1-2"
+  },
+
+  {
+    "title": "蜘蛛/洞穴蜘蛛 - 线",
+    "mob": [ "minecraft:spider", "minecraft:cave_spider" ],
+    "item": "minecraft:string",
+    "itemcount": "6-12"
+  },
+  {
+    "title": "蜘蛛/洞穴蜘蛛 - 蜘蛛眼",
+    "mob": [ "minecraft:spider", "minecraft:cave_spider" ],
+    "item": "minecraft:spider_eye",
+    "itemcount": "3-6"
+  },
+  {
+    "title": "蜘蛛/洞穴蜘蛛 - 蜘蛛网",
+    "mob": [ "minecraft:spider", "minecraft:cave_spider" ],
+    "item": "minecraft:web",
+    "itemcount": "1-2"
+  },
+
+  {
+    "title": "牛 - 牛肉/皮革",
+    "mob": "minecraft:cow",
+    "item": [ "minecraft:beef", "minecraft:leather" ],
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "羊 - 羊肉",
+    "mob": "minecraft:sheep",
+    "item": "minecraft:mutton",
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "猪 - 猪肉",
+    "mob": "minecraft:pig",
+    "item": "minecraft:porkchop",
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "鸡 - 鸡肉/骨头",
+    "mob": "minecraft:chicken",
+    "item": [ "minecraft:chicken", "minecraft:bone" ],
+    "itemcount": "1-2"
+  },
+  {
+    "title": "鸡 - 羽毛",
+    "mob": "minecraft:chicken",
+    "item": "minecraft:feather",
+    "itemcount": "3-6"
+  },
+
+  {
+    "title": "蝙蝠 - 皮革",
+    "mob": "minecraft:bat",
+    "item": "minecraft:leather",
+    "itemcount": "1-2"
+  }
+]
