@@ -20,6 +20,8 @@ Minecraft Origin/.minecraft/versions/1.12.2/hmclversion.cfg
 
 Minecraft Origin/.minecraft/versions/1.12.2-forge*/1.12.2-forge*natives
 
+Minecraft Origin/.minecraft/assets/skins/
+
 Minecraft Origin/.minecraft/config/forge.cfg
 Minecraft Origin/.minecraft/config/forgeChunkLoading.cfg
 Minecraft Origin/.minecraft/config/splash.properties
