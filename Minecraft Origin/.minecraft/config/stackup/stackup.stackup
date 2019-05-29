@@ -4,6 +4,7 @@ id = "minecraft:minecart" -> 6400000
 id = "minecraft:saddle" -> 6400000
 id = "minecraft:boat" -> 6400000
 id = "minecraft:cake" -> 6400000
+id = "minecraft:bed" -> 6400000
 id ~= "minecraft:*_minecart" -> 6400000
 id ~= "minecraft:*_boat" -> 6400000
 id ~= "minecraft:*_bucket" -> 6400000
