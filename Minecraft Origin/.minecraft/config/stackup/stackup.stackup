@@ -1,1 +1,11 @@
 size > 1 -> 6400000
+id = "minecraft:enchanted_book" -> 6400000
+id = "minecraft:minecart" -> 6400000
+id = "minecraft:saddle" -> 6400000
+id = "minecraft:boat" -> 6400000
+id = "minecraft:cake" -> 6400000
+id ~= "minecraft:*_minecart" -> 6400000
+id ~= "minecraft:*_boat" -> 6400000
+id ~= "minecraft:*_bucket" -> 6400000
+id ~= "minecraft:*_horse_armor" -> 6400000
+id ~= "minecraft:record_*" -> 6400000
