@@ -1,0 +1,1 @@
+furnace.addRecipe( <minecraft:leather> * 1, <minecraft:rotten_flesh>, 1 );
