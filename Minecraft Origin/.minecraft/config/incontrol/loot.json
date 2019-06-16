@@ -1,31 +1,30 @@
 [
   {
-    "title": "僵尸/尸壳/牛/羊/猪 - 骨头",
+    "title": "僵尸/尸壳/僵尸马/僵尸猪人/僵尸村民/牛/羊/猪 - 骨头",
     "mob": [
-      "minecraft:zombie", "minecraft:husk",
+      "minecraft:zombie", "minecraft:husk", "minecraft:zombie_horse", "minecraft:zombie_pigman", "minecraft:zombie_villager",
       "minecraft:cow", "minecraft:sheep", "minecraft:pig"
     ],
     "item": "minecraft:bone",
     "itemcount": "3-6"
   },
 
-
   {
-    "title": "僵尸/尸壳 - 腐肉",
-    "mob": [ "minecraft:zombie", "minecraft:husk" ],
+    "title": "僵尸/尸壳/僵尸马/僵尸猪人/僵尸村民 - 腐肉",
+    "mob": [ "minecraft:zombie", "minecraft:husk", "minecraft:zombie_horse", "minecraft:zombie_pigman", "minecraft:zombie_villager" ],
     "item": "minecraft:rotten_flesh",
     "itemcount": "6-12"
   },
 
   {
-    "title": "骷髅 - 骨头",
-    "mob": "minecraft:skeleton",
+    "title": "骷髅/骷髅马/流髑/凋零骷髅 - 骨头",
+    "mob": [ "minecraft:skeleton", "minecraft:skeleton_horse", "minecraft:stray", "minecraft:wither_skeleton" ],
     "item": "minecraft:bone",
     "itemcount": "6-12"
   },
   {
-    "title": "骷髅 - 箭",
-    "mob": "minecraft:skeleton",
+    "title": "骷髅/流髑 - 箭",
+    "mob": [ "minecraft:skeleton", "minecraft:stray" ],
     "item": "minecraft:arrow",
     "itemcount": "1-2"
   },
@@ -63,9 +62,16 @@
   },
 
   {
-    "title": "牛 - 牛肉/皮革",
-    "mob": "minecraft:cow",
-    "item": [ "minecraft:beef", "minecraft:leather" ],
+    "title": "牛/驴/马/羊驼/骡子/哞菇 - 皮革",
+    "mob": [ "minecraft:cow", "minecraft:donkey", "minecraft:horse", "minecraft:llama", "minecraft:mule", "minecraft:mooshroom" ],
+    "item": "minecraft:leather",
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "牛/哞菇 - 牛肉",
+    "mob": [ "minecraft:cow", "minecraft:mooshroom" ],
+    "item": "minecraft:beef",
     "itemcount": "6-12"
   },
 
@@ -100,6 +106,110 @@
     "title": "蝙蝠 - 皮革",
     "mob": "minecraft:bat",
     "item": "minecraft:leather",
+    "itemcount": "1-2"
+  },
+
+  {
+    "title": "烈焰人 - 烈焰棒",
+    "mob": "minecraft:blaze",
+    "item": "minecraft:blaze_rod",
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "远古守卫者 - 湿海绵/海晶碎片/生鱼/海晶沙粒",
+    "mob": "minecraft:elder_guardian",
+    "item": [ "minecraft:sponge@1", "minecraft:prismarine_shard", "minecraft:fish", "minecraft:prismarine_crystals" ],
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "守卫者 - 海晶碎片/生鱼/海晶沙粒",
+    "mob": "minecraft:guardian",
+    "item": [ "minecraft:prismarine_shard", "minecraft:fish", "minecraft:prismarine_crystals" ],
+    "itemcount": "3-6"
+  },
+
+  {
+    "title": "末影人 - 末影珍珠",
+    "mob": "minecraft:enderman",
+    "item": "minecraft:ender_pearl",
+    "itemcount": "3-6"
+  },
+
+  {
+    "title": "唤魔者/卫道士 - 绿宝石",
+    "mob": [ "minecraft:evocation_illager", "minecraft:vindication_illager" ],
+    "item": "minecraft:emerald",
+    "itemcount": "3-6"
+  },
+
+  {
+    "title": "恶魂 - 恶魂之泪",
+    "mob": "minecraft:ghast",
+    "item": "minecraft:ghast_tear",
+    "itemcount": "3-6"
+  },
+  {
+    "title": "恶魂 - 火药",
+    "mob": "minecraft:ghast",
+    "item": "minecraft:gunpowder",
+    "itemcount": "6-12"
+  },
+
+  {
+    "title": "岩浆怪 - 岩浆膏",
+    "mob": "minecraft:magma_cube",
+    "item": "minecraft:magma_cream",
+    "itemcount": "1-2"
+  },
+
+  {
+    "title": "史莱姆 - 粘液球",
+    "mob": "minecraft:slime",
+    "item": "minecraft:slime_ball",
+    "itemcount": "1-2"
+  },
+
+  {
+    "title": "北极熊 - 生鱼/生鲑鱼",
+    "mob": "minecraft:polar_bear",
+    "item": [ "minecraft:fish", "minecraft:fish@1" ],
+    "itemcount": "3-6"
+  },
+
+  {
+    "title": "兔子 - 兔肉/兔子皮/兔子脚",
+    "mob": "minecraft:rabbit",
+    "item": [ "minecraft:rabbit", "minecraft:rabbit_hide", "minecraft:rabbit_foot" ],
+    "itemcount": "2-4"
+  },
+
+  {
+    "title": "潜影贝 - 潜影壳",
+    "mob": "minecraft:shulker",
+    "item": "minecraft:shulker_shell",
+    "itemcount": "1"
+  },
+
+  {
+    "title": "鱿鱼 - 墨囊",
+    "mob": "minecraft:squid",
+    "item": "minecraft:dye",
+    "itemcount": "1"
+  },
+
+  {
+    "title": "凋零骷髅 - 煤炭",
+    "mob": "minecraft:wither_skeleton",
+    "item": "minecraft:coal",
+    "itemcount": "1-2"
+  },
+
+  {
+    "title": "僵尸猪人 - 金粒",
+    "mob": "minecraft:zombie_pigman",
+    "item": "minecraft:gold_nugget",
     "itemcount": "1-2"
   }
 ]
