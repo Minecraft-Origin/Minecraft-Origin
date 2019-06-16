@@ -5,7 +5,6 @@ Minecraft Origin/.minecraft/saves
 Minecraft Origin/.minecraft/NVIDIA
 Minecraft Origin/.minecraft/crash-reports
 Minecraft Origin/.minecraft/.mixin.out
-Minecraft Origin/.minecraft/liteconfig
 Minecraft Origin/.minecraft/servers.dat
 
 
@@ -58,3 +57,9 @@ Minecraft Origin/.minecraft/config/FlatBedrock/dimensions/overworld.json
 Minecraft Origin/.minecraft/config/craftingtweaks.cfg
 
 Minecraft Origin/.minecraft/mods/memory_repo/
+
+Minecraft Origin/.minecraft/liteconfig/liteloader.log
+Minecraft Origin/.minecraft/liteconfig/liteloader.properties
+Minecraft Origin/.minecraft/liteconfig/liteloader.profiles.json
+Minecraft Origin/.minecraft/liteconfig/common/liteloader.keys.properties
+Minecraft Origin/.minecraft/liteconfig/common/autofish_clearlag
