@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -89,6 +89,7 @@ key_of.key.zoom:29
 key_taboverlay.keybind.overlay:15
 key_veinminer.key.enable:41
 key_neat.keybind.toggle:0
+key_Autofish GUI:47
 key_smoothfont.key.guiOpen:0
 key_FpsReducer.key.guiOpen:0
 key_invtweaks.key.sort:19
