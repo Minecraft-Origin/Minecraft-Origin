@@ -17,7 +17,7 @@ recipes.addShapeless(
                     return null;
                 }
 
-                var bookEnchantments as IData = bookTag.StoredEnchantments;
+                var bookEnchantments = bookTag.StoredEnchantments;
                 var bookEnchantmentsLength = bookEnchantments.length;
 
                 # 只允许有多个附魔属性的附魔书进行分解
@@ -83,14 +83,11 @@ recipes.addShapeless(
             return null;
         }
 
-        var firstEnchantment = bookEnchantments[0];
-
         # 返回首个附魔属性的附魔书
         return out.withTag({
-            StoredEnchantments: [{
-                id: firstEnchantment.id,
-                lvl: firstEnchantment.lvl
-            }]
+            StoredEnchantments: [
+                bookEnchantments[0]
+            ]
         });
 
     },
