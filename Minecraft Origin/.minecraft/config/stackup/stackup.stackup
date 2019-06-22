@@ -1,6 +1,5 @@
 size > 1 -> 6400000
 id = "minecraft:totem_of_undying" -> 6400000
-id = "minecraft:enchanted_book" -> 6400000
 id = "minecraft:minecart" -> 6400000
 id = "minecraft:saddle" -> 6400000
 id = "minecraft:boat" -> 6400000
