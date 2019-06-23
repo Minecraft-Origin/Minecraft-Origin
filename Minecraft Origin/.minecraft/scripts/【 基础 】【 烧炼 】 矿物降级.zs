@@ -1,3 +1,7 @@
+# Author: Zhang-Wei-666
+# Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
+
+
 var LvBaoShi = <minecraft:emerald>;
 var Zhuan    = <minecraft:diamond>;
 var Jing     = <minecraft:gold_ingot>;

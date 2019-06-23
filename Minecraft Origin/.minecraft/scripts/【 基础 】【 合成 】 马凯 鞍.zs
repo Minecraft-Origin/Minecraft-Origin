@@ -1,3 +1,7 @@
+# Author: Zhang-Wei-666
+# Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
+
+
 recipes.remove(<minecraft:saddle>);
 recipes.remove(<minecraft:iron_horse_armor>);
 recipes.remove(<minecraft:diamond_horse_armor>);

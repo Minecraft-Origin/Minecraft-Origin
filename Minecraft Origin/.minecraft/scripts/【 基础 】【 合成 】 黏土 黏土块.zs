@@ -1,3 +1,7 @@
+# Author: Zhang-Wei-666
+# Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
+
+
 recipes.addShapeless(<minecraft:clay_ball> * 4, [
     <minecraft:clay>
 ]);

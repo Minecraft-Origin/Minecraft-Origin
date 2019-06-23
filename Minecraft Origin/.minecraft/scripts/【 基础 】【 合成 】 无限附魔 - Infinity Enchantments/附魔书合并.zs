@@ -1,3 +1,7 @@
+# Author: Zhang-Wei-666
+# Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
+
+
 var book = <minecraft:enchanted_book>;
 
 recipes.addShapeless(
