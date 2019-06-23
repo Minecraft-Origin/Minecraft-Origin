@@ -39,6 +39,11 @@ recipes.addShapeless(
             return null;
         }
 
+        # 只允许最高等级大于一级的附魔属性的附魔书进行合并
+        if( ( scripts.const.enchantmentsMap in oneEnchantment.id ) & scripts.const.enchantmentsMap[ oneEnchantment.id ].maxLevel == 1 ){
+            return null;
+        }
+
         # 返回新等级的附魔书
         return out.withTag({
             StoredEnchantments: [{
