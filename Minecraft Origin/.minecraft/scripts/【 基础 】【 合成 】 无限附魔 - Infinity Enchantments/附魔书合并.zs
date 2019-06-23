@@ -21,16 +21,13 @@ recipes.addShapeless(
             return null;
         }
 
-        var oneEnchantments = oneTag.StoredEnchantments;
-        var twoEnchantments = twoTag.StoredEnchantments;
-
         # 只允许单附魔属性的附魔书进行合并
-        if( oneEnchantments.length != 1 | twoEnchantments.length != 1 ){
+        if( oneTag.StoredEnchantments.length != 1 | twoTag.StoredEnchantments.length != 1 ){
             return null;
         }
 
-        var oneEnchantment = oneEnchantments[0];
-        var twoEnchantment = twoEnchantments[0];
+        var oneEnchantment = oneTag.StoredEnchantments[0];
+        var twoEnchantment = twoTag.StoredEnchantments[0];
 
         # 只允许相同附魔属性的附魔书进行合并
         if( oneEnchantment.id != twoEnchantment.id ){
