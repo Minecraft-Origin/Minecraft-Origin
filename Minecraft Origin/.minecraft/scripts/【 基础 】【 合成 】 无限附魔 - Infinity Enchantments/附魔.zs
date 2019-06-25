@@ -3,7 +3,6 @@
 
 
 import crafttweaker.enchantments.IEnchantment;
-import crafttweaker.enchantments.IEnchantmentDefinition;
 
 
 /******************* 所有物品的矿物词典 *******************/
