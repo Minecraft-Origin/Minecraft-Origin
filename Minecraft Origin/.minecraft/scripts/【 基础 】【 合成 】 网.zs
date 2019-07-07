@@ -2,7 +2,10 @@
 # Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
 
 
-recipes.addShaped(<minecraft:web>, [
+recipes.remove( <minecraft:web> );
+
+
+recipes.addShaped( <minecraft:web>, [
     [<minecraft:string>, null, <minecraft:string>],
     [null, <minecraft:string>, null],
     [<minecraft:string>, null, <minecraft:string>]
