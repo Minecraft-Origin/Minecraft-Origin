@@ -2,7 +2,7 @@
 # Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
 
 
-recipes.remove(<minecraft:spawn_egg:*>);
+recipes.remove( <minecraft:spawn_egg:*> );
 
 
 var Egg = <minecraft:egg>;
