@@ -2,7 +2,5 @@
 # Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
 
 
-var time = 1600;
-
-furnace.setFuel(<minecraft:flint>,time*3);
-furnace.setFuel(<minecraft:gunpowder>,time*6);
+furnace.setFuel( <minecraft:flint>, 1600 * 3 );
+furnace.setFuel( <minecraft:gunpowder>, 1600 * 6 );
