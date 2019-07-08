@@ -3,10 +3,19 @@
 
 
 var book = <minecraft:enchanted_book>;
+var tips = <minecraft:book>.withTag({
+    display: {
+        Name: "< 无限附魔 - 附魔书合并 > 使用说明",
+        Lore: [
+            "可以对相同属性相同等级的单属性附魔书进行合成, 从而得到更高等级的附魔书"
+        ]
+    }
+});
+
 
 recipes.addShapeless(
     "Infinity Enchantments - Enchanted Book Merge",
-    book,
+    tips,
     [
         book.marked("one"),
         book.marked("two")
@@ -45,7 +54,7 @@ recipes.addShapeless(
         }
 
         # 返回新等级的附魔书
-        return out.withTag({
+        return <minecraft:enchanted_book>.withTag({
             StoredEnchantments: [{
                 id: oneEnchantment.id,
                 lvl: oneEnchantment.lvl + 1
