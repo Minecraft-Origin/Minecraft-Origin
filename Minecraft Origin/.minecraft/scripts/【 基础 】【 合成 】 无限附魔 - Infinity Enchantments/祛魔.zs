@@ -6,12 +6,19 @@ import crafttweaker.enchantments.IEnchantment;
 
 
 var ore = <ore:minecraft_origin_infinity_enchantments_zhang_wei_666>;
-var book = <minecraft:enchanted_book>;
+var tips = <minecraft:book>.withTag({
+    display: {
+        Name: "< 无限附魔 - 祛魔 > 使用说明",
+        Lore: [
+            "可以对满耐久的附魔物品进行逐个祛魔"
+        ]
+    }
+});
 
 
 recipes.addShapeless(
     "Infinity Enchantments - Remove Enchantment",
-    book,
+    tips,
     [
         # 只有满耐久的物品才能进行祛魔, 就当做限制吧
         # 没办法, 矿物词典不能用 anyDamage 匹配条件
@@ -49,7 +56,7 @@ recipes.addShapeless(
             return null;
         }
 
-        return out.withTag({
+        return <minecraft:enchanted_book>.withTag({
             StoredEnchantments: [{
                 id: itemEnchantments[0].definition.id,
                 lvl: itemEnchantments[0].level
