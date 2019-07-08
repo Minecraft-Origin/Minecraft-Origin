@@ -18,9 +18,19 @@ import crafttweaker.enchantments.IEnchantment;
 /******************* 所有物品的矿物词典 *******************/
 
 
+var tips = <minecraft:book>.withTag({
+    display: {
+        Name: "< 无限附魔 - 附魔 > 使用说明",
+        Lore: [
+            "可以对满耐久的物品进行附魔, 相同的附魔种类会被覆盖"
+        ]
+    }
+});
+
+
 recipes.addShapeless(
     "Infinity Enchantments - Enchanting",
-    book,
+    tips,
     [
         # 只有满耐久的物品才能参与合成, 就当做限制吧
         # 没办法, 矿物词典不能用 anyDamage 匹配条件
