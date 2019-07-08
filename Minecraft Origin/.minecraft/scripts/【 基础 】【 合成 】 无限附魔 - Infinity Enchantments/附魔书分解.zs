@@ -6,10 +6,19 @@ import crafttweaker.data.IData;
 
 
 var book = <minecraft:enchanted_book>;
+var tips = <minecraft:book>.withTag({
+    display: {
+        Name: "< 无限附魔 - 附魔书分解 > 使用说明",
+        Lore: [
+            "可以对多属性的附魔书进行逐个分解"
+        ]
+    }
+});
+
 
 recipes.addShapeless(
     "Infinity Enchantments - Enchanted Book Disintegration",
-    book,
+    tips,
     [
         book.marked('book')
             .transformNew(function( itemBook ){
@@ -86,7 +95,7 @@ recipes.addShapeless(
         }
 
         # 返回首个附魔属性的附魔书
-        return out.withTag({
+        return <minecraft:enchanted_book>.withTag({
             StoredEnchantments: [
                 bookTag.StoredEnchantments[0]
             ]
