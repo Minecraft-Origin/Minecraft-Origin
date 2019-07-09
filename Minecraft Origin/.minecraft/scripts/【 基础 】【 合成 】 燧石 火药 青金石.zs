@@ -21,3 +21,12 @@ recipes.addShaped(
         [ <minecraft:flint>, <minecraft:flint>, <minecraft:flint> ]
     ]
 );
+
+recipes.addShaped(
+    <minecraft:dye:4> * 8,
+    [
+        [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ],
+        [ <minecraft:redstone>, <minecraft:gunpowder>, <minecraft:redstone> ],
+        [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ]
+    ]
+);
