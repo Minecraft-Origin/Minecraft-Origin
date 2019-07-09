@@ -2,6 +2,9 @@
 # Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
 
 
+recipes.remove( <minecraft:quartz> );
+
+
 recipes.addShapeless( <minecraft:quartz> * 4, [
     <minecraft:quartz_block>
 ]);
