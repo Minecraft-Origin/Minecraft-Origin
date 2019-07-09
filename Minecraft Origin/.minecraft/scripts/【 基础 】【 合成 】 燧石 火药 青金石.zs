@@ -6,27 +6,18 @@ recipes.remove( <minecraft:flint> );
 recipes.remove( <minecraft:gunpowder> );
 
 
-recipes.addShaped(
-    <minecraft:flint> * 2,
-    [
-        [ null, <minecraft:redstone>, null ],
-        [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ]
-    ]
-);
+recipes.addShaped( <minecraft:flint> * 2, [
+    [ null, <minecraft:redstone>, null ],
+    [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ]
+]);
 
-recipes.addShaped(
-    <minecraft:gunpowder> * 2,
-    [
-        [ null, <minecraft:flint>, null ],
-        [ <minecraft:flint>, <minecraft:flint>, <minecraft:flint> ]
-    ]
-);
+recipes.addShaped( <minecraft:gunpowder> * 2, [
+    [ null, <minecraft:flint>, null ],
+    [ <minecraft:flint>, <minecraft:flint>, <minecraft:flint> ]
+]);
 
-recipes.addShaped(
-    <minecraft:dye:4> * 8,
-    [
-        [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ],
-        [ <minecraft:redstone>, <minecraft:gunpowder>, <minecraft:redstone> ],
-        [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ]
-    ]
-);
+recipes.addShaped( <minecraft:dye:4> * 8, [
+    [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ],
+    [ <minecraft:redstone>, <minecraft:gunpowder>, <minecraft:redstone> ],
+    [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ]
+]);
