@@ -6,7 +6,7 @@ recipes.remove( <minecraft:web> );
 
 
 recipes.addShaped( <minecraft:web>, [
-    [<minecraft:string>, null, <minecraft:string>],
-    [null, <minecraft:string>, null],
-    [<minecraft:string>, null, <minecraft:string>]
+    [ <minecraft:string>, null, <minecraft:string> ],
+    [ null, <minecraft:string>, null ],
+    [ <minecraft:string>, null, <minecraft:string> ]
 ]);
