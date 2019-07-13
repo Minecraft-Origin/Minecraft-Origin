@@ -54,7 +54,7 @@ events.onPlayerLoggedIn(
                     }
                     # 保护
                     else{
-                        item.addEnchantment( <enchantment:minecraft:protection> * 10 );
+                        item.addEnchantment( <enchantment:minecraft:protection> * 5 );
                     }
                 }
 
