@@ -3,7 +3,6 @@
 
 
 import crafttweaker.item.IItemStack;
-import crafttweaker.data.IData;
 
 
 events.onPlayerLoggedIn(
