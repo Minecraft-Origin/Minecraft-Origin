@@ -38,22 +38,22 @@ events.onPlayerLoggedIn(
             ];
 
             for index, item in items{
-                if( index <= 6 ){
+                if( index < 7 ){
                     # 经验修补
                     item.addEnchantment( <enchantment:minecraft:mending> * 1 );
                     # 耐久
                     item.addEnchantment( <enchantment:minecraft:unbreaking> * 10 );
 
                     # 锋利
-                    if( index <= 1 ){
+                    if( index == 0 ){
                         item.addEnchantment( <enchantment:minecraft:sharpness> * 5 );
                     }
                     # 效率
-                    if( index <= 2 ){
+                    if( index == 1 || index == 2 ){
                         item.addEnchantment( <enchantment:minecraft:efficiency> * 5 );
                     }
                     # 保护
-                    else{
+                    if( index > 2 ){
                         item.addEnchantment( <enchantment:minecraft:protection> * 5 );
                     }
                 }
