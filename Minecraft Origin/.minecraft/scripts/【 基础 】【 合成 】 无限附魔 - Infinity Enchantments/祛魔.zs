@@ -5,7 +5,9 @@
 import crafttweaker.enchantments.IEnchantment;
 
 
+# 除附魔书外的所有物品的矿物词典
 var ore = <ore:minecraft_origin_infinity_enchantments_zhang_wei_666>;
+# 使用说明书
 var tips = <minecraft:book>.withTag({
     display: {
         Name: "< 无限附魔 - 祛魔 > 使用说明",
