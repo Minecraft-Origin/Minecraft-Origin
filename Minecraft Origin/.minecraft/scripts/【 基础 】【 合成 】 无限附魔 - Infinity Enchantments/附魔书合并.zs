@@ -2,7 +2,9 @@
 # Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
 
 
+# 附魔书
 var book = <minecraft:enchanted_book>;
+# 使用说明书
 var tips = <minecraft:book>.withTag({
     display: {
         Name: "< 无限附魔 - 附魔书合并 > 使用说明",
