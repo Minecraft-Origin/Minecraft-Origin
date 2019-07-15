@@ -88,7 +88,6 @@ var configs as IData[] = [
 for index, config in configs{
     var item = items[ index ];
     var itemWithTag = item.withTag( config.tag );
-    var itemOnlyWithTag = item.onlyWithTag( config.tag );
 
     recipes.addShapeless(
         itemWithTag,
@@ -99,7 +98,7 @@ for index, config in configs{
     );
 
     furnace.setFuel(
-        itemOnlyWithTag,
+        itemWithTag,
         1600 * config.time
     );
 }
