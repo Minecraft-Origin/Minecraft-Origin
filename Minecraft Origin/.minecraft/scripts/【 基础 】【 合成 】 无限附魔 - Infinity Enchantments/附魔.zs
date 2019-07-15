@@ -18,6 +18,7 @@ import crafttweaker.enchantments.IEnchantment;
 /******************* 所有物品的矿物词典 *******************/
 
 
+# 使用说明书
 var tips = <minecraft:book>.withTag({
     display: {
         Name: "< 无限附魔 - 附魔 > 使用说明",
