@@ -5,6 +5,26 @@
 import crafttweaker.enchantments.IEnchantment;
 
 
+/******************* 祛魔石 *******************/
+/**/ var stone = <minecraft:dye:4>.withTag({
+/**/    author: "Zhang-Wei-666",
+/**/    display: {
+/**/        Name: "祛魔石"
+/**/    }
+/**/ });
+/**/ 
+/**/ stone.addTooltip(
+/**/     format.gold("用于给物品祛魔的辅助道具")
+/**/ );
+/**/ 
+/**/ recipes.addShaped( stone, [
+/**/     [ <minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget> ],
+/**/     [ <minecraft:iron_nugget>, <minecraft:dye:4>, <minecraft:iron_nugget> ],
+/**/     [ <minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget> ]
+/**/ ]);
+/******************* 祛魔石 *******************/
+
+
 # 除附魔书外的所有物品的矿物词典
 var ore = <ore:minecraft_origin_infinity_enchantments_zhang_wei_666>;
 # 使用说明书
@@ -25,24 +45,25 @@ recipes.addShapeless(
         # 只有满耐久的物品才能进行祛魔, 就当做限制吧
         # 没办法, 矿物词典不能用 anyDamage 匹配条件
         # 也可能是我没用对哈哈
-        ore.marked("item")
-           .transformNew(function( item ){
+        ore.marked("item").transformNew(function( item ){
 
-                var newItem = item.definition.makeStack();
-                var itemEnchantments as IEnchantment[] = [];
+            var newItem = item.definition.makeStack();
+            var itemEnchantments as IEnchantment[] = [];
 
-                for enchantment in item.enchantments{
-                    itemEnchantments += enchantment;
+            for enchantment in item.enchantments{
+                itemEnchantments += enchantment;
+            }
+
+            for index, enchantment in itemEnchantments{
+                if( index != 0 ){
+                    newItem.addEnchantment( enchantment );
                 }
+            }
 
-                for index, enchantment in itemEnchantments{
-                    if( index != 0 ){
-                        newItem.addEnchantment( enchantment );
-                    }
-                }
-
-                return newItem;
-           })
+            return newItem;
+        }),
+        # 配合辅助道具祛魔石进行祛魔
+        stone
     ],
     function( out, ins, info ){
 
