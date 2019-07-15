@@ -5,7 +5,9 @@
 import crafttweaker.data.IData; 
 
 
+# 附魔书
 var book = <minecraft:enchanted_book>;
+# 使用说明书
 var tips = <minecraft:book>.withTag({
     display: {
         Name: "< 无限附魔 - 附魔书分解 > 使用说明",
