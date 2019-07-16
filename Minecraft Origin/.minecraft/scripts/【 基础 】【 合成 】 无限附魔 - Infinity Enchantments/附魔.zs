@@ -70,7 +70,7 @@ recipes.addShapeless(
             return null;
         }
 
-        var newItem = item.definition.makeStack();
+        var newItem = scripts.const.copy( item );
         var itemEnchantments as IEnchantment[] = [];
 
         # 取出原物品上除了附魔书上附魔属性的所有附魔属性
