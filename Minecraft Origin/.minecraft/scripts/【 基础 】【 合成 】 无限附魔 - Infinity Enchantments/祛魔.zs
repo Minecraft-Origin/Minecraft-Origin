@@ -17,6 +17,10 @@ import crafttweaker.enchantments.IEnchantment;
 /**/     format.gold("用于给物品祛魔的辅助道具")
 /**/ );
 /**/ 
+/**/ stone.addEnchantment(
+/**/     <enchantment:minecraft:knockback> * 1
+/**/ );
+/**/ 
 /**/ recipes.addShaped( stone, [
 /**/     [ <minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget> ],
 /**/     [ <minecraft:iron_nugget>, <minecraft:dye:4>, <minecraft:iron_nugget> ],
