@@ -51,7 +51,7 @@ recipes.addShapeless(
         # 也可能是我没用对哈哈
         ore.marked("item").transformNew(function( item ){
 
-            var newItem = item.definition.makeStack();
+            var newItem = scripts.const.copy( item );
             var itemEnchantments as IEnchantment[] = [];
 
             for enchantment in item.enchantments{
