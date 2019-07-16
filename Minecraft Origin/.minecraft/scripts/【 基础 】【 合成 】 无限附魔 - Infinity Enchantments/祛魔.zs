@@ -71,6 +71,14 @@ recipes.addShapeless(
     ],
     function( out, ins, info ){
 
+        var item = ins.item;
+        var itemTag = item.tag;
+
+        # 不允许对矿物煤或者祛魔石进行祛魔
+        if( ( itemTag in "author" ) && itemTag.author == "Zhang-Wei-666" ){
+            return null;
+        }
+
         var itemEnchantments as IEnchantment[] = [];
 
         for enchantment in ins.item.enchantments{
