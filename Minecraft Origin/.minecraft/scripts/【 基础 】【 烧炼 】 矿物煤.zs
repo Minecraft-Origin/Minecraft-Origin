@@ -17,69 +17,33 @@ var items as IItemStack[] = [
 
 var configs as IData[] = [
     {
-        tag: {
-            display: {
-                Name: "铁煤",
-                Lore: [
-                    "燃烧时间是普通煤炭的 3 倍"
-                ]
-            }
-        },
+        name: "铁煤",
+        tooltip: "燃烧时间是普通煤炭的 3 倍",
         time: 3
     },
     {
-        tag: {
-            display: {
-                Name: "金煤",
-                Lore: [
-                    "燃烧时间是铁煤的 6 倍"
-                ]
-            }
-        },
+        name: "金煤",
+        tooltip: "燃烧时间是铁煤的 6 倍",
         time: 18
     },
     {
-        tag: {
-            display: {
-                Name: "钻石煤",
-                Lore: [
-                    "燃烧时间是金煤的 6 倍"
-                ]
-            }
-        },
+        name: "钻石煤",
+        tooltip: "燃烧时间是金煤的 6 倍",
         time: 108
     },
     {
-        tag: {
-            display: {
-                Name: "绿宝石煤",
-                Lore: [
-                    "燃烧时间是钻石煤的 6 倍"
-                ]
-            }
-        },
+        name: "绿宝石煤",
+        tooltip: "燃烧时间是钻石煤的 6 倍",
         time: 648
     },
     {
-        tag: {
-            display: {
-                Name: "下界之星煤",
-                Lore: [
-                    "燃烧时间是绿宝石煤的 6 倍"
-                ]
-            }
-        },
+        name: "下界之星煤",
+        tooltip: "燃烧时间是绿宝石煤的 6 倍",
         time: 3888
     },
     {
-        tag: {
-            display: {
-                Name: "龙蛋煤",
-                Lore: [
-                    "燃烧时间是下界之星煤的 6 倍"
-                ]
-            }
-        },
+        name: "龙蛋煤",
+        tooltip: "燃烧时间是下界之星煤的 6 倍",
         time: 23328
     }
 ];
@@ -87,7 +51,16 @@ var configs as IData[] = [
 
 for index, config in configs{
     var item = items[ index ];
-    var itemWithTag = item.withTag( config.tag );
+    var itemWithTag = item.withTag({
+        author: "Zhang-Wei-666",
+        display: {
+            Name: config.name
+        }
+    });
+
+    itemWithTag.addTooltip(
+        format.gold( config.tooltip as string )
+    );
 
     recipes.addShapeless(
         itemWithTag,
