@@ -3,6 +3,7 @@
 
 
 import crafttweaker.enchantments.IEnchantmentDefinition;
+import crafttweaker.item.IItemStack;
 
 
 /******************* 所有的附魔定义 *******************/
@@ -55,3 +56,14 @@ import crafttweaker.enchantments.IEnchantmentDefinition;
 /**/     enchantmentsMap[ enchantment.id ] = enchantment;
 /**/ }
 /******************* 所有的附魔的 ID 与对应的附魔定义映射 *******************/
+
+
+/******************* 对物品进行拷贝的方法 *******************/
+/**/ function copy( item as IItemStack ) as IItemStack {
+/**/     var newItem = item.definition.makeStack(
+/**/         item.metadata
+/**/     );
+/**/ 
+/**/     return newItem;
+/**/ }
+/******************* 对物品进行拷贝的方法 *******************/
