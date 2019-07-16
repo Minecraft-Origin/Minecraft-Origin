@@ -62,6 +62,10 @@ for index, config in configs{
         format.gold( config.tooltip as string )
     );
 
+    itemWithTag.addEnchantment(
+        <enchantment:minecraft:knockback> * 1
+    );
+
     recipes.addShapeless(
         itemWithTag,
         [
