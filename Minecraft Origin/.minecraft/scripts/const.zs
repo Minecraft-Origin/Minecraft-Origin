@@ -64,6 +64,9 @@ import crafttweaker.item.IItemStack;
 /**/         item.metadata
 /**/     );
 /**/ 
+/**/     newItem.displayName = item.displayName;
+/**/ 
+/**/ 
 /**/     return newItem;
 /**/ }
 /******************* 对物品进行拷贝的方法 *******************/
