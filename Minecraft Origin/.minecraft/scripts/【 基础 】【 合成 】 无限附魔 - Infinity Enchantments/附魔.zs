@@ -42,6 +42,13 @@ recipes.addShapeless(
     function( out, ins, info ){
 
         var item = ins.item;
+        var itemTag = item.tag;
+
+        # 不允许对矿物煤或者祛魔石进行附魔
+        if( ( itemTag in "author" ) && itemTag.author == "Zhang-Wei-666" ){
+            return null;
+        }
+
         var bookTag = ins.book.tag;
 
         # 只允许和有附魔属性的附魔书进行附魔
