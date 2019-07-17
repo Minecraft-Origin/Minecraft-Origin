@@ -100,7 +100,7 @@ key_key.jei.showUses:33
 key_key.jei.recipeBack:0
 key_key.jei.previousPage:0
 key_key.jei.nextPage:0
-key_key.jei.bookmark:0
+key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
