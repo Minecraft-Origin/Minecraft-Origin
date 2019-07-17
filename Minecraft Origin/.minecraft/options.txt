@@ -118,6 +118,19 @@ key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:0
 key_key.craftingtweaks.refill_last_stack:0
 key_key.carry.desc:42
+key_nei.options.keys.gui.enchant:0
+key_nei.options.keys.gui.potion:0
+key_nei.options.keys.gui.prev:0
+key_nei.options.keys.gui.next:0
+key_nei.options.keys.world.chunkoverlay:67
+key_nei.options.keys.world.moboverlay:65
+key_nei.options.keys.world.dawn:0
+key_nei.options.keys.world.noon:0
+key_nei.options.keys.world.dusk:0
+key_nei.options.keys.world.midnight:0
+key_nei.options.keys.world.rain:0
+key_nei.options.keys.world.heal:0
+key_nei.options.keys.world.creative:0
 key_key.hudtoggle:0
 key_Dynamic Lights toggle:0
 key_waila.keybind.wailaconfig:82
