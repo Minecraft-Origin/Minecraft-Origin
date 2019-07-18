@@ -1,5 +1,5 @@
-<h1 style="text-align:center">Minecraft Origin</h1>
-<p style="text-align:center">一款开源的 Minecraft 整合包，整合包有多个版本可供选择，面向不同人群</p>
+<h1 align="center">Minecraft Origin</h1>
+<p align="center">一款开源的 Minecraft 整合包，整合包有多个版本可供选择，面向不同人群</p>
 
 <br>
 
