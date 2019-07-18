@@ -4,7 +4,7 @@
 <br>
 
 <b>
-游戏版本：1.12.2
+游 戏 版 本：1.12.2
 
 整合包版本：[基础](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/基础) |
            增强 ( 制作中 ) |
