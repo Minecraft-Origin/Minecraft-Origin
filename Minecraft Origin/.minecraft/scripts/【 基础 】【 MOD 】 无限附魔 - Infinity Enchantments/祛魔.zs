@@ -6,7 +6,7 @@ import crafttweaker.enchantments.IEnchantment;
 
 
 /******************* 祛魔石 *******************/
-/**/ var stone = <minecraft:dye:4>.withTag({
+/**/ var stone = <minecraft:flint>.withTag({
 /**/    author: "Zhang-Wei-666",
 /**/    display: {
 /**/        Name: "祛魔石"
@@ -23,7 +23,7 @@ import crafttweaker.enchantments.IEnchantment;
 /**/ 
 /**/ recipes.addShaped( stone, [
 /**/     [ <minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget> ],
-/**/     [ <minecraft:iron_nugget>, <minecraft:dye:4>, <minecraft:iron_nugget> ],
+/**/     [ <minecraft:iron_nugget>, <minecraft:flint>, <minecraft:iron_nugget> ],
 /**/     [ <minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget> ]
 /**/ ]);
 /******************* 祛魔石 *******************/
