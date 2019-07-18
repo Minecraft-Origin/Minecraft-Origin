@@ -45,7 +45,7 @@ events.onPlayerLoggedIn(
                     item.addEnchantment( <enchantment:minecraft:unbreaking> * 10 );
 
                     # 锋利
-                    if( index == 0 ){
+                    if( index == 0 || index == 1 ){
                         item.addEnchantment( <enchantment:minecraft:sharpness> * 5 );
                     }
                     # 效率
