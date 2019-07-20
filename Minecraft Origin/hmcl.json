@@ -15,7 +15,7 @@
       "noCommon": true,
       "global": {
         "usesGlobal": false,
-        "maxMemory": "1024",
+        "maxMemory": "1280",
         "fullscreen": false,
         "noJVMArgs": false,
         "notCheckGame": false,
