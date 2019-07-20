@@ -65,3 +65,10 @@ Minecraft Origin/.minecraft/config/codechickenlib.cfg
 Minecraft Origin/.minecraft/config/codechicken/
 
 Minecraft Origin/.minecraft/CustomSkinLoader/
+
+Minecraft Origin/.minecraft/config/dynamiclights.cfg
+Minecraft Origin/.minecraft/config/dynamiclights_dropitems.cfg
+Minecraft Origin/.minecraft/config/dynamiclights_floodlights.cfg
+Minecraft Origin/.minecraft/config/dynamiclights_mobequipment.cfg
+Minecraft Origin/.minecraft/config/dynamiclights_otherplayers.cfg
+Minecraft Origin/.minecraft/config/dynamiclights_theplayer.cfg
