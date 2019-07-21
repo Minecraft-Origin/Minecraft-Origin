@@ -21,8 +21,8 @@
 
 | 名称 | 地址 | 介绍 | 备注 |
 | :-: | :- | :- | :- |
-| 物品管理器 | [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | Minecraft 物品合成配方查看 | 鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式<br>鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
-|  |  |  |  |
+| 物品管理器 ( JEI ) | [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成配方查看 | 鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式<br>鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
+| 物品管理器扩展 ( NEI ) | [Not Enough Items](https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8) | 对 JEI 补充 NEI 的诸多功能 | 仅保留了按 <b>F7</b> 显示刷怪区域和按 <b>F9</b> 显示区块边界的功能 |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
