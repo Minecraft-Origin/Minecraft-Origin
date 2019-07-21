@@ -23,3 +23,21 @@
 | :- | :- | :- |
 | 物品管理器 ( JEI )<br>[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成配方查看 | 鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式<br>鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
 | 物品管理器扩展 ( NEI )<br>[Not Enough Items](https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8) | 对 JEI 补充 NEI 的诸多功能 | 仅保留了按 <b>F7</b> 显示刷怪区域和按 <b>F9</b> 显示区块边界的功能 |
+| FPS 减速器<br>[FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) | 一段时间不操作将降低 FPS 节省电脑资源 | 一分钟后将降低到 24FPS |
+| 更好的 FPS<br>[Better Fps](https://www.curseforge.com/minecraft/mc-mods/betterfps) | 对游戏进行性能优化 | - |
+| 泡沫修复<br>[Foam Fix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft) | 减少游戏的内存使用 | - |
+| 高清修复<br>[OptiFine](https://optifine.net/home) | 游戏画质方面的优化 | - |
+| 第三人称视角修复<br>[f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 | - |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
