@@ -28,6 +28,9 @@
 | 更好的 FPS<br>[Better Fps](https://www.curseforge.com/minecraft/mc-mods/betterfps) | 对游戏进行性能优化 | - |
 | 高清修复<br>[OptiFine](https://optifine.net/home) | 游戏画质方面的优化 | - |
 | 平滑字体<br>[Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 游戏内字体优化 | - |
+| 合成界面调整<br>[Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | 更实用的合成界面 | - |
+| R 键整理<br>[Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 更方便的背包整理 | - |
+| 动态光源<br>[Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights) | 使发光物品在任何时候都能发光 | - |
 | 第三人称视角修复<br>[f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 | - |
 | 小地图<br>[VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 小地图 | - |
 | 万用皮肤补丁<br>[CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | 加载玩家皮肤, 不仅仅是史蒂夫了 | - |
@@ -36,5 +39,5 @@
 | 耐久度显示<br>[Durability Show](https://www.curseforge.com/minecraft/mc-mods/durability-show) | 生存模式左下方显示当前穿戴装备的耐久度 | - |
 | 血条<br>[Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 为其他生物显示血条 | - |
 | 苹果皮<br>[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | 食品的饱食度饱腹度预览 | - |
-| 苹果核<br>[AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) | AppleSkin 等 MOD 的前置 MOD | - |
-| 鸡骨头核心<br>[CodeChickenLib](http://chickenbones.net/Pages/links.html) | NEI 等 MOD 的前置 MOD | - |
+| [ 前置 ] 苹果核<br>[AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) | AppleSkin 等 MOD 的前置 MOD | - |
+| [ 前置 ] 鸡骨头核心<br>[CodeChickenLib](http://chickenbones.net/Pages/links.html) | NEI 等 MOD 的前置 MOD | - |
