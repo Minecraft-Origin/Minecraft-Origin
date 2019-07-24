@@ -41,3 +41,36 @@
 | 苹果皮<br>[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | 食品的饱食度饱腹度预览 | - |
 | [ 前置 ] 苹果核<br>[AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) | AppleSkin 等 MOD 的前置 MOD | - |
 | [ 前置 ] 鸡骨头核心<br>[CodeChickenLib](http://chickenbones.net/Pages/links.html) | NEI 等 MOD 的前置 MOD | - |
+
+<h3 align="center">
+    <b>基础</b>
+</h3>
+
+| MOD 名称 | 功能介绍 | 备注 |
+| :- | :- | :- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
