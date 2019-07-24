@@ -105,7 +105,8 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:0
-key_veinminer.key.enable:41
+key_oreexcavation.key.excavate:41
+key_oreexcavation.key.shape:0
 key_neat.keybind.toggle:0
 key_Autofish GUI:47
 key_smoothfont.key.guiOpen:0
@@ -136,7 +137,6 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:0
 key_key.craftingtweaks.refill_last_stack:0
-key_key.carry.desc:42
 key_nei.options.keys.gui.enchant:0
 key_nei.options.keys.gui.potion:0
 key_nei.options.keys.gui.prev:0
@@ -150,8 +150,9 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-key_key.hudtoggle:0
+key_key.carry.desc:42
 key_Dynamic Lights toggle:0
+key_key.hudtoggle:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
