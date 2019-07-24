@@ -21,7 +21,7 @@
 
 | MOD 名称 | 功能介绍及备注 |
 | :- | :- |
-| 物品管理器 ( JEI ) - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成配方查看<br>鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式 - 鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
+| 物品管理器 ( JEI ) - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成配方查看<br>鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式<br>鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
 | 物品管理器扩展 ( NEI ) - [Not Enough Items](https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8) | 对 JEI 补充 NEI 的诸多功能<br>仅保留了按 <b>F7</b> 显示刷怪区域和按 <b>F9</b> 显示区块边界的功能 |
 | FPS 减速器 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) | 一段时间不操作将降低 FPS 节省电脑资源<br>一分钟后将降低到 24FPS |
 | 泡沫修复 - [Foam Fix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft) | 减少游戏的内存使用 |
