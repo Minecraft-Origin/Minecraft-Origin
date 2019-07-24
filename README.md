@@ -21,29 +21,29 @@
 
 | MOD 名称 | 功能介绍 | 备注 |
 | :- | :- | :- |
-| 物品管理器 ( JEI )<br>[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成配方查看 | 鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式<br>鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
-| 物品管理器扩展 ( NEI )<br>[Not Enough Items](https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8) | 对 JEI 补充 NEI 的诸多功能 | 仅保留了按 <b>F7</b> 显示刷怪区域和按 <b>F9</b> 显示区块边界的功能 |
-| FPS 减速器<br>[FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) | 一段时间不操作将降低 FPS 节省电脑资源 | 一分钟后将降低到 24FPS |
-| 泡沫修复<br>[Foam Fix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft) | 减少游戏的内存使用 | - |
-| 更好的 FPS<br>[Better Fps](https://www.curseforge.com/minecraft/mc-mods/betterfps) | 对游戏进行性能优化 | - |
-| 高清修复<br>[OptiFine](https://optifine.net/home) | 游戏画质方面的优化 | - |
-| 平滑字体<br>[Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 游戏内字体优化 | - |
-| 合成界面调整<br>[Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | 更实用的合成界面 | - |
-| R 键整理<br>[Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 更方便的背包整理 | - |
-| 动态光源<br>[Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights) | 使发光物品在任何时候都能发光 | - |
-| 第三人称视角修复<br>[f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 | - |
-| 小地图<br>[VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 小地图 | - |
-| 万用皮肤补丁<br>[CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | 加载玩家皮肤, 不仅仅是史蒂夫了 | - |
-| 高亮显示<br>[Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) | 屏幕上方显示鼠标指向的物品的信息 | - |
-| 高亮显示 - 加强<br>[Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at) | 更加详细的物品信息显示 | - |
-| 耐久度显示<br>[Durability Show](https://www.curseforge.com/minecraft/mc-mods/durability-show) | 生存模式左下方显示当前穿戴装备的耐久度 | - |
-| 血条<br>[Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 为其他生物显示血条 | - |
-| 苹果皮<br>[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | 食品的饱食度饱腹度预览 | - |
-| [ 前置 ] 苹果核<br>[AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) | AppleSkin 等 MOD 的前置 MOD | - |
-| [ 前置 ] 鸡骨头核心<br>[CodeChickenLib](http://chickenbones.net/Pages/links.html) | NEI 等 MOD 的前置 MOD | - |
+| 物品管理器 ( JEI ) - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成配方查看 | 鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式 - 鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
+| 物品管理器扩展 ( NEI ) - [Not Enough Items](https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8) | 对 JEI 补充 NEI 的诸多功能 | 仅保留了按 <b>F7</b> 显示刷怪区域和按 <b>F9</b> 显示区块边界的功能 |
+| FPS 减速器 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) | 一段时间不操作将降低 FPS 节省电脑资源 | 一分钟后将降低到 24FPS |
+| 泡沫修复 - [Foam Fix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft) | 减少游戏的内存使用 | - |
+| 更好的 FPS - [Better Fps](https://www.curseforge.com/minecraft/mc-mods/betterfps) | 对游戏进行性能优化 | - |
+| 高清修复 - [OptiFine](https://optifine.net/home) | 游戏画质方面的优化 | - |
+| 平滑字体 - [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 游戏内字体优化 | - |
+| 合成界面调整 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | 更实用的合成界面 | - |
+| R 键整理 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 更方便的背包整理 | - |
+| 动态光源 - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights) | 使发光物品在任何时候都能发光 | - |
+| 第三人称视角修复 - [f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 | - |
+| 小地图 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 小地图 | - |
+| 万用皮肤补丁 - [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | 加载玩家皮肤, 不仅仅是史蒂夫了 | - |
+| 高亮显示 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) | 屏幕上方显示鼠标指向的物品的信息 | - |
+| 高亮显示 - 加强 - [Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at) | 更加详细的物品信息显示 | - |
+| 耐久度显示 - [Durability Show](https://www.curseforge.com/minecraft/mc-mods/durability-show) | 生存模式左下方显示当前穿戴装备的耐久度 | - |
+| 血条 - [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 为其他生物显示血条 | - |
+| 苹果皮 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | 食品的饱食度饱腹度预览 | - |
+| [ 前置 ] 苹果核 - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) | AppleSkin 等 MOD 的前置 MOD | - |
+| [ 前置 ] 鸡骨头核心 - [CodeChickenLib](http://chickenbones.net/Pages/links.html) | NEI 等 MOD 的前置 MOD | - |
 
 <h3 align="center">
-    <b>基础</b>
+    <b>基础+</b>
 </h3>
 
 | MOD 名称 | 功能介绍 | 备注 |
