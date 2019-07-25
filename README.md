@@ -48,6 +48,7 @@
 
 | MOD 名称 | 功能介绍及备注 |
 | :- | :- |
+| 合成修改 - [CraftTweaker2](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) | |
 | 矿物开凿 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) | 一直按住键盘 <b>`~`</b> 键可以连锁 [ 挖矿 / 砍树 / 收获 ] |
 | 经典战斗 - [Classic Combat](https://www.curseforge.com/minecraft/mc-mods/classic-combat) | 攻击不再有冷却时间 |
 | 穿草攻击 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) | 攻击不再会被花草阻挡 |
@@ -74,3 +75,19 @@
 |  |  |
 |  |  |
 |  |  |
+
+
+<table>
+    <thead>
+        <tr>
+            <th align="left">MOD 名称</th>
+            <th align="left">功能介绍及备注</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">123</td>
+            <td align="left">456</td>
+        </tr>
+    </tbody>
+</table>
