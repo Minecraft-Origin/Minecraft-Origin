@@ -46,31 +46,31 @@
     <b>基础+</b>
 </h3>
 
-| MOD 名称 | 功能介绍 | 备注 |
-| :- | :- | :- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| MOD 名称 | 功能介绍及备注 |
+| :- | :- |
+| 矿物开凿 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) | 一直按住键盘 <b>`~`</b> 键可以连锁 [ 挖矿 / 砍树 / 收获 ] |
+| 经典战斗 - [Classic Combat](https://www.curseforge.com/minecraft/mc-mods/classic-combat) | 攻击不再有冷却时间 |
+| 穿草攻击 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) | 攻击不再会被花草阻挡 |
+| 无限弓修复 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | 拥有无限附魔的弓不再需要身上带着箭了 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
