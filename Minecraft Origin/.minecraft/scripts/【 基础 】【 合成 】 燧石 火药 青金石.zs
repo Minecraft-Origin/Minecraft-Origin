@@ -10,6 +10,9 @@ recipes.addShaped( <minecraft:flint> * 2, [
     [ null, <minecraft:redstone>, null ],
     [ <minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone> ]
 ]);
+recipes.addShapeless( <minecraft:flint>, [
+    <minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>
+]);
 
 recipes.addShaped( <minecraft:gunpowder> * 2, [
     [ null, <minecraft:flint>, null ],
