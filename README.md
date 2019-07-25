@@ -76,8 +76,7 @@
 |  |  |
 |  |  |
 
-
-<table>
+<table style="display: table;">
     <thead>
         <tr>
             <th align="left">MOD 名称</th>
