@@ -49,7 +49,7 @@
 | 模组名称 | 功能介绍及备注 |
 | :- | :- |
 | 合成修改 - [CraftTweaker2](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) | 为整合包提供添加合成配方和冶炼配方的能力<br>可以善用 JEI 查看物品的合成方式哦, 很多你认为不能合成的都能合成了呢 |
-| 无限附魔 | 原创 CraftTweaker2 模组, 完全颠覆了游戏的附魔体验<br>附魔书合并: 可以对相同属性相同等级的单属性附魔书进行合成, 从而得到更高等级的附魔书<br>附魔书分解: 可以对多属性的附魔书进行逐个分解<br>附魔: 可以对满耐久的物品使用附魔书进行附魔, 相同的附魔种类会被覆盖<br>祛魔: 可以对满耐久的附魔物品进行逐个祛魔 |
+| 无限附魔 | 原创 CraftTweaker2 模组, 完全颠覆了游戏的附魔体验<br>附魔书合并: 可以对相同属性相同等级的单属性附魔书合成得到更高等级的附魔书<br>附魔书分解: 可以对多属性的附魔书进行逐个分解<br>附魔: 可以对满耐久的物品使用附魔书进行附魔, 相同的附魔种类会被覆盖<br>祛魔: 可以对满耐久的附魔物品进行逐个祛魔 |
 | 新手礼包 | 原创 CraftTweaker2 模组, 玩家首次进入游戏会给予玩家一批新手物资<br>不同整合包版本, 新手物资也是不一样的 |
 | 矿物开凿 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) | 按住键盘 <b>`~`</b> 键可以连锁 [ 挖矿 / 砍树 / 收获 ] |
 | 经典战斗 - [Classic Combat](https://www.curseforge.com/minecraft/mc-mods/classic-combat) | 攻击不再有冷却时间 |
