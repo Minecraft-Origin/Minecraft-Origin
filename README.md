@@ -48,45 +48,30 @@
 
 | MOD 名称 | 功能介绍及备注 |
 | :- | :- |
-| 合成修改 - [CraftTweaker2](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) | |
-| 矿物开凿 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) | 一直按住键盘 <b>`~`</b> 键可以连锁 [ 挖矿 / 砍树 / 收获 ] |
+| 合成修改 - [CraftTweaker2](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) | 为整合包提供添加合成配方和冶炼配方的能力<br>原创了许多物品的合成配方和几个颠覆性游戏体验的功能<br>比如 < 无限附魔 >, < 新手礼包 > |
+| 矿物开凿 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) | 按住键盘 <b>`~`</b> 键可以连锁 [ 挖矿 / 砍树 / 收获 ] |
 | 经典战斗 - [Classic Combat](https://www.curseforge.com/minecraft/mc-mods/classic-combat) | 攻击不再有冷却时间 |
 | 穿草攻击 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) | 攻击不再会被花草阻挡 |
-| 无限弓修复 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | 拥有无限附魔的弓不再需要身上带着箭了 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-<table style="display: table;">
-    <thead>
-        <tr>
-            <th align="left">MOD 名称</th>
-            <th align="left">功能介绍及备注</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">123</td>
-            <td align="left">456</td>
-        </tr>
-    </tbody>
-</table>
+| 控制 - [incontrol](https://www.curseforge.com/minecraft/mc-mods/in-control) | 为整合包提供控制怪物所有参数及行为的能力<br>在 [ 基础+ ] 版本中, 使用此模组完全重新定义了怪物掉落物的数量, 且怪物掉落经验双倍 |
+| 无限弓修复 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | 使用拥有无限附魔的弓时不再需要身上带着箭了 |
+| 更大堆叠数量 - [StackUp](https://www.curseforge.com/minecraft/mc-mods/stackup) | 使物品的 <b>最大堆叠数量值</b> 可以超过 64<br>目前物品的最大堆叠数量值为 6400000 |
+| 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 6400000 |
+| 快速落叶 - [Quick Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) | 树叶腐烂速度加快 |
+| 更好的骨粉 - [ExpandedBonemeal](https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal) | 使骨粉可以催熟的植物更多 |
+| 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 `shift` 可以对树苗施肥 |
+| 收获经验 - [XP From Harvest](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest) | 1. 收获农作物将得到经验<br>2. 单击成熟作物将直接收获并重新种植 |
+| 防止踩踏 - [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper) | 耕地不会因踩踏而损坏 |
+| 保持库存 - [KeepingInventory](https://www.curseforge.com/minecraft/mc-mods/keeping-inventory) | 自动开启死亡不掉落和爆炸保护 |
+| 和平的饥饿 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace) | 和平模式也会消耗饱食度了 |
+| 越过围栏 - [Fence Jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper) | 使玩家可以越过栅栏和圆石墙等 1.5 格高的方块 |
+| 更好的破坏半砖 - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) | 按住 `shift` 破坏由两块半砖叠成的方块时可以只破坏鼠标指向的那块半砖 |
+| 快乐着陆 - [Happy Landings](https://www.curseforge.com/minecraft/mc-mods/happy-landings) | 防止玩家在飞行时撞墙造成的伤害 |
+| 无限岩浆 - [InstantLava](https://craft.mystia.org/InstantLava/) | 赋予岩浆和无限水一样的特性 |
+| 席地而坐 - [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) | 使玩家可以坐在半砖或台阶上 |
+| 基岩平铺 - [FlatBedrock](https://www.curseforge.com/minecraft/mc-mods/flatbedrockx) | 使游戏内的基岩不在坑坑洼洼 |
+| 搬运 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | 按住 `shift` 点击箱子可以对箱子进行搬运, 动物也可以<br>还有一些其他的方块比如熔炉,刷怪笼等等也可以搬运, 可以自行尝试 |
+| 悬挂火把 - [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) | 使火把及红石火把可以向下垂直安放 |
+| 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
+| 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
+| 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>在 [ 基础+ ] 版本中, 只启用了一些实用性功能, 其他功能均被禁用 |
+| [ 前置 ] AutoRegLib- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置 |
