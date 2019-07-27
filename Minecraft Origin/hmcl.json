@@ -1,5 +1,7 @@
 {
   "last": "Default",
+  "commonpath": "C:\\Users\\Zw\\AppData\\Roaming\\.minecraft",
+  "clientToken": "cdd2936d-067d-4d7e-b433-07f2e5cab716",
   "proxyType": 0,
   "enableShadow": false,
   "enableBlur": false,
@@ -15,7 +17,13 @@
       "noCommon": true,
       "global": {
         "usesGlobal": false,
+        "minecraftArgs": "",
         "maxMemory": "1024",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_191",
+        "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
         "notCheckGame": false,
@@ -23,5 +31,19 @@
         "gameDirType": 0
       }
     }
-  }
+  },
+  "auth": {
+    "yggdrasil": {
+      "IAuthenticator_UserName": ""
+    },
+    "offline": {
+      "uuidMap": {
+        "Zw": "75e7295067c8bd1e17b63ff02667b9e0"
+      },
+      "IAuthenticator_UserName": "Zw"
+    }
+  },
+  "fontFamily": "Consolas",
+  "fontSize": 12,
+  "logLines": 100
 }
