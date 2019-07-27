@@ -18,7 +18,7 @@
       "global": {
         "usesGlobal": false,
         "minecraftArgs": "",
-        "maxMemory": "1024",
+        "maxMemory": "1536",
         "javaDir": "",
         "precalledCommand": "",
         "serverIp": "",
