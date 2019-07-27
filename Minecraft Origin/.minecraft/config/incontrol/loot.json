@@ -139,6 +139,13 @@
   },
 
   {
+    "title": "狼 - 皮革",
+    "mob": "minecraft:wolf",
+    "item": "minecraft:leather",
+    "itemcount": "3-6"
+  },
+
+  {
     "title": "烈焰人 - 烈焰棒",
     "mob": "minecraft:blaze",
     "item": "minecraft:blaze_rod",
