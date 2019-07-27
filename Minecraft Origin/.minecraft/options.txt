@@ -86,6 +86,7 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_of.key.zoom:29
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -104,7 +105,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_neat.keybind.toggle:0
@@ -158,6 +158,7 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_key.control:0
 key_key.minimap.voxelmapmenu:50
 key_key.minimap.waypointmenu:0
 key_key.minimap.zoom:44
