@@ -128,8 +128,8 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-key_key.hudtoggle:0
 key_Dynamic Lights toggle:0
+key_key.hudtoggle:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
@@ -138,7 +138,7 @@ key_waila.keybind.usage:75
 key_key.minimap.voxelmapmenu:50
 key_key.minimap.waypointmenu:0
 key_key.minimap.zoom:44
-key_key.minimap.togglefullscreen:0
+key_key.minimap.togglefullscreen:45
 key_key.minimap.waypointhotkey:49
 key_key.minimap.togglemobs:0
 key_key.minimap.toggleingamewaypoints:0
