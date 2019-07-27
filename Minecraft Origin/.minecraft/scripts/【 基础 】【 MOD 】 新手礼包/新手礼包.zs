@@ -34,7 +34,8 @@ events.onPlayerLoggedIn(
                     display: { Name: '新手靴子' }
                 }),
                 <minecraft:torch> * 64,
-                <minecraft:bread> * 32
+                <minecraft:bread> * 32,
+                <minecraft:white_shulker_box>
             ];
 
             for index, item in items{
