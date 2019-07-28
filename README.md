@@ -85,5 +85,6 @@
 | 模组名称 | 功能介绍及备注 |
 | :- | :- |
 | 更多箱子 - [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 一些更高容量的箱子 |
+| 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
 | 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
 | 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 6400000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
