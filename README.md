@@ -77,3 +77,11 @@
 | 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
 | 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>在 [ 基础+ ] 版本中, 只启用了一些实用性功能, 其他功能均被禁用 |
 | [ 前置 ] AutoRegLib- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置模组 |
+
+<h3 align="center">
+    <b>增强</b>
+</h3>
+
+| 模组名称 | 功能介绍及备注 |
+| :- | :- |
+| 锯子切片 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
