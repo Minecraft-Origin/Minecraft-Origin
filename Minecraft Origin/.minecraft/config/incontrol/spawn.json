@@ -1,1 +1,9 @@
-[]
+[
+    {
+       "title": "所有生物 - 血量及伤害翻 3 倍",
+       "result": "default",
+       "mob": "minecraft:*",
+       "healthmultiply": 3,
+       "damagemultiply": 3
+    }
+]
