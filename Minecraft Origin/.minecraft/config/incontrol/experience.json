@@ -1,7 +1,6 @@
 [
   {
-    "title": "所有生物 - 经验翻倍",
-    "mob": "minecraft:*",
-    "multxp": "2"
+    "title": "所有生物 - 经验翻 4 倍",
+    "multxp": 4
   }
 ]
