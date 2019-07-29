@@ -138,7 +138,7 @@ key_waila.keybind.usage:75
 key_key.minimap.voxelmapmenu:50
 key_key.minimap.waypointmenu:0
 key_key.minimap.zoom:44
-key_key.minimap.togglefullscreen:45
+key_key.minimap.togglefullscreen:0
 key_key.minimap.waypointhotkey:49
 key_key.minimap.togglemobs:0
 key_key.minimap.toggleingamewaypoints:0
