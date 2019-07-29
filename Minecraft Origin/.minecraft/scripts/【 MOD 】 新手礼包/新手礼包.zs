@@ -12,29 +12,29 @@ events.onPlayerLoggedIn(
 
         if( ( data in "loginCount" ) == false ){
             var items as IItemStack[] = [
-                <minecraft:wooden_sword>.withTag({
-                    display: { Name: '新手木剑' }
+                <minecraft:stone_sword>.withTag({
+                    display: { Name: '新手石剑' }
                 }),
-                <minecraft:wooden_axe>.withTag({
-                    display: { Name: '新手木斧' }
+                <minecraft:stone_axe>.withTag({
+                    display: { Name: '新手石斧' }
                 }),
-                <minecraft:wooden_pickaxe>.withTag({
-                    display: { Name: '新手木镐' }
+                <minecraft:stone_pickaxe>.withTag({
+                    display: { Name: '新手石镐' }
                 }),
-                <minecraft:leather_helmet>.withTag({
+                <minecraft:chainmail_helmet>.withTag({
                     display: { Name: '新手帽子' }
                 }),
-                <minecraft:leather_chestplate>.withTag({
+                <minecraft:chainmail_chestplate>.withTag({
                     display: { Name: '新手外套' }
                 }),
-                <minecraft:leather_leggings>.withTag({
+                <minecraft:chainmail_leggings>.withTag({
                     display: { Name: '新手裤子' }
                 }),
-                <minecraft:leather_boots>.withTag({
+                <minecraft:chainmail_boots>.withTag({
                     display: { Name: '新手靴子' }
                 }),
                 <minecraft:torch> * 64,
-                <minecraft:bread> * 32,
+                <minecraft:cooked_fish:1> * 32,
                 <minecraft:white_shulker_box>
             ];
 
