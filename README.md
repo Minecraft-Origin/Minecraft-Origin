@@ -76,7 +76,7 @@
 | 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
 | 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
 | 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>在 [ 基础+ ] 版本中, 只启用了一些实用性功能, 其他功能均被禁用 |
-| [ 前置 ] AutoRegLib- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置模组 |
+| [ 前置 ] AutoRegLib - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置模组 |
 
 <h3 align="center">
     <b>增强</b>
@@ -91,3 +91,4 @@
 | 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
 | 雕刻工艺 [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) | 新增了凿子工具, 可以将方块雕刻成任何形状 |
 | 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 6400000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| [ 前置 ] CXLibrary - [CXLibrary](https://www.curseforge.com/minecraft/mc-mods/cxlibrary) | 多页箱子模组的前置模组 |
