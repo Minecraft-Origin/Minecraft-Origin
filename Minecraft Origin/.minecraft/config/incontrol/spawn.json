@@ -1,6 +1,7 @@
 [
     {
        "title": "所有生物 - 血量及伤害翻 3 倍",
+       "onjoin": true,
        "result": "default",
        "mob": "minecraft:*",
        "healthmultiply": 3,
