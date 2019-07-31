@@ -104,7 +104,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_neat.keybind.toggle:0
