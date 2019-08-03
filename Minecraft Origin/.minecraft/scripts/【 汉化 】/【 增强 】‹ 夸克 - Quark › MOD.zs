@@ -19,8 +19,8 @@ game.setLocalization( "zh_cn", "tile.quark:paper_lantern_sakura.name", "装饰�
 game.setLocalization( "zh_cn", "tile.quark:rope.name", "绳圈" );
 game.setLocalization( "zh_cn", "tile.quark:grate.name", "铁栅栏" );
 game.setLocalization( "zh_cn", "tile.quark:redstone_inductor.name", "红石感应器" );
+
 game.setLocalization( "zh_cn", "item.quark:chain.name", "铁锁链" );
-game.setLocalization( "zh_cn", "item.quark:archaeologist_hat.name", "考古学家的帽子" );
 
 game.setLocalization( "zh_cn", "entity.quark:pickarang.name", "回旋镖" );
 game.setLocalization( "zh_cn", "item.quark:pickarang.name", "回旋镖" );
@@ -32,3 +32,4 @@ game.setLocalization( "zh_cn", "tile.quark:slime_magenta.name", "紫色粘液块
 game.setLocalization( "zh_cn", "tile.quark:slime_yellow.name", "黄色粘液块" );
 
 game.setLocalization( "zh_cn", "entity.quark:archaeologist.name", "考古学家" );
+game.setLocalization( "zh_cn", "item.quark:archaeologist_hat.name", "考古学家的帽子" );
