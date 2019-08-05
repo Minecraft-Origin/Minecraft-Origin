@@ -150,6 +150,10 @@ key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
 key_key.carry.desc:42
+key_key.keyExtraInvo:19
+key_key.keyWheel:0
+key_key.keyExtraCraftin:0
+key_key.keySkills:0
 key_bbw.key.mode:34
 key_bbw.key.fluidmode:35
 key_mod.chiselsandbits.chiselmode.single:0
