@@ -1,14 +1,14 @@
 <h1 align="center">Minecraft Origin ( 1.12.2 )</h1>
-<p align="center">一款开源的 Minecraft 模组整合包，整合包有多个版本可供选择，面向不同人群</p>
+<p align="center">一款开源的 Minecraft 模组整合包, 整合包有多个版本可供选择, 面向不同人群</p>
 
 <br>
 
 ## 整合包列表
 | 整合包版本 | 整合包的方向 | 整合目标 |
 | :-: | :- | :- |
-| [基础](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/基础) | 原版 | 不对原版进行任何修改，进行游戏体验及界面视听进行优化，可以直接进入纯净服 |
-| [基础+](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/基础+) | 原版扩展 | 不对游戏添加任何物品，对游戏玩法进行大幅改善优化，降低游戏难度，获得全新的体验 |
-| 增强 | 游戏增强 | 添加各种模组，对游戏各个方面进行强化, 同时增强游戏难度 |
+| [基础](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/基础) | 原版 | 不对原版进行任何修改, 进行游戏体验及界面视听进行优化, 可以直接进入纯净服 |
+| [基础+](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/基础+) | 原版扩展 | 不对游戏添加任何物品, 对游戏玩法进行大幅改善优化, 降低游戏难度, 获得全新的体验 |
+| 增强 | 游戏增强 | 添加各种模组, 对游戏各个方面进行强化, 同时增强游戏难度 |
 | 极限 | 科技 | 添加大量科技模组, 再度增强游戏难度 |
 
 <br>
@@ -23,6 +23,7 @@
 | :- | :- |
 | 物品管理器 ( JEI ) - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成配方查看<br>鼠标悬停在物品上按 <b>G</b> 查看物品的合成方式<br>鼠标悬停在物品上按 <b>F</b> 查看物品可参与的合成 |
 | 物品管理器扩展 ( NEI ) - [Not Enough Items](https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8) | 对 JEI 补充 NEI 的诸多功能<br>仅保留了按 <b>F7</b> 显示刷怪区域和按 <b>F9</b> 显示区块边界的功能 |
+| 拼音搜索 - [JustEnoughCharacters](https://www.curseforge.com/minecraft/mc-mods/just-enough-characters) | 可以在大多数文本过滤的场所使用拼音进行搜索 |
 | FPS 减速器 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) | 一段时间不操作将降低 FPS 节省电脑资源<br>一分钟后将降低到 24FPS |
 | 泡沫修复 - [Foam Fix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft) | 减少游戏的内存使用 |
 | 更好的 FPS - [Better Fps](https://www.curseforge.com/minecraft/mc-mods/betterfps) | 对游戏进行性能优化 |
@@ -75,5 +76,24 @@
 | 悬挂火把 - [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) | 使火把及红石火把可以向下垂直安放 |
 | 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
 | 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
-| 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>在 [ 基础+ ] 版本中, 只启用了一些实用性功能, 其他功能均被禁用 |
-| [ 前置 ] AutoRegLib- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置模组 |
+| 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>[ 基础+ ]: 只启用了一些实用性功能, 其他功能均被禁用<br>[ 增强 ]: 只启用了一些对原版道具的补充或升级的功能或道具 |
+| [ 前置 ] AutoRegLib - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置模组 |
+
+<h3 align="center">
+    <b>增强</b>
+</h3>
+
+| 模组名称 | 功能介绍及备注 |
+| :- | :- |
+| 更多箱子 - [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 一些更高容量的箱子 |
+| 多页箱子 - [Multi Page Chest](https://www.curseforge.com/minecraft/mc-mods/multi-page-chest) | 一个五页储存空间的超大箱子 |
+| 存储抽屉 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | 视觉上更直观的储物系统, 且存储容量可变 |
+| 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
+| 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
+| 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
+| 雕刻工艺 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) | 新增了凿子工具, 可以将方块雕刻成任何形状 |
+| 更好的建筑魔杖 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands) | 新增了建筑魔杖工具, 可以根据已放置的方块批量放置方块<br>手持建筑魔杖使用 `G` 键可以切换放置模式<br>手持建筑魔杖使用 `H` 键可以切换对水流处理模式 |
+| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 6400000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
+| [ 前置 ] CXLibrary - [CXLibrary](https://www.curseforge.com/minecraft/mc-mods/cxlibrary) | 多页箱子模组的前置模组 |
+| [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
