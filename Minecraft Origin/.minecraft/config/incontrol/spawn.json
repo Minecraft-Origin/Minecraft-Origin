@@ -1,10 +1,11 @@
 [
     {
-       "title": "所有生物 - 血量及伤害翻 3 倍",
+       "title": "所有生物 - 全面加强",
        "onjoin": true,
        "result": "default",
-       "mob": "minecraft:*",
-       "healthmultiply": 3,
-       "damagemultiply": 3
+       "potion": [
+           "minecraft:resistance,1000000,3",
+           "minecraft:strength,1000000,3"
+       ]
     }
 ]
