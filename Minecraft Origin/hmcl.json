@@ -16,6 +16,8 @@
       "global": {
         "usesGlobal": false,
         "maxMemory": "3072",
+        "width": "1066",
+        "height": "600",
         "fullscreen": false,
         "noJVMArgs": false,
         "notCheckGame": false,
