@@ -77,6 +77,7 @@
 | 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
 | 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
 | 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>[ 基础+ ]: 只启用了一些实用性功能, 其他功能均被禁用<br>[ 增强 ]: 只启用了一些对原版道具的补充或升级的功能或道具 |
+| 自我控制 - [Self Control](https://www.curseforge.com/minecraft/mc-mods/self-control) | 禁止通过创建局域网的方式开启作弊模式 |
 | [ 前置 ] AutoRegLib - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置模组 |
 
 <h3 align="center">
