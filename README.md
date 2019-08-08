@@ -77,6 +77,8 @@
 | 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
 | 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
 | 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>[ 基础+ ]: 只启用了一些实用性功能, 其他功能均被禁用<br>[ 增强 ]: 只启用了一些对原版道具的补充或升级的功能或道具 |
+| 随意的微调 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks) | 优化游戏的各种细节部分及添加了大量功能 |
+| 自我控制 - [Self Control](https://www.curseforge.com/minecraft/mc-mods/self-control) | 禁止通过创建局域网的方式开启作弊模式 |
 | [ 前置 ] AutoRegLib - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) | 夸克模组的前置模组 |
 
 <h3 align="center">
@@ -89,11 +91,14 @@
 | 多页箱子 - [Multi Page Chest](https://www.curseforge.com/minecraft/mc-mods/multi-page-chest) | 一个五页储存空间的超大箱子 |
 | 存储抽屉 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | 视觉上更直观的储物系统, 且存储容量可变 |
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
+| 更好的附魔 - [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 添加了高级附魔台, 用于给武器及工具添加指定附魔 |
 | 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
 | 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
 | 雕刻工艺 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) | 新增了凿子工具, 可以将方块雕刻成任何形状 |
 | 更好的建筑魔杖 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands) | 新增了建筑魔杖工具, 可以根据已放置的方块批量放置方块<br>手持建筑魔杖使用 `G` 键可以切换放置模式<br>手持建筑魔杖使用 `H` 键可以切换对水流处理模式 |
 | 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 6400000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
+| 树木盆栽 - [bonsaitrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | 使用盆栽很方便地种树或进行观赏 |
 | [ 前置 ] CXLibrary - [CXLibrary](https://www.curseforge.com/minecraft/mc-mods/cxlibrary) | 多页箱子模组的前置模组 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
+| [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
