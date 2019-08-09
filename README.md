@@ -102,6 +102,7 @@
 | 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 6400000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
 | 树木盆栽 - [bonsaitrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | 使用盆栽很方便地种树或进行观赏 |
+| 无限红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
 | [ 前置 ] CXLibrary - [CXLibrary](https://www.curseforge.com/minecraft/mc-mods/cxlibrary) | 多页箱子模组的前置模组 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
