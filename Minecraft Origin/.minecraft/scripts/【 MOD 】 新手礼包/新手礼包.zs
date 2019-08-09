@@ -35,7 +35,10 @@ events.onPlayerLoggedIn(
                 }),
                 <minecraft:torch> * 64,
                 <minecraft:cooked_fish:1> * 32,
-                <minecraft:white_shulker_box>
+                <minecraft:white_shulker_box>,
+                <compactmachines3:machine:5>,
+                <compactmachines3:psd>,
+                <chickenchunks:chunk_loader:1> * 6
             ];
 
             for index, item in items{
