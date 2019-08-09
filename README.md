@@ -90,9 +90,11 @@
 | 更多箱子 - [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 一些更高容量的箱子 |
 | 多页箱子 - [Multi Page Chest](https://www.curseforge.com/minecraft/mc-mods/multi-page-chest) | 一个五页储存空间的超大箱子 |
 | 存储抽屉 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | 视觉上更直观的储物系统, 且存储容量可变 |
+| 末影存储 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) | 新增了可跨世界的物品存储及液体存储<br>记得配合区块加载使用哦 |
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
 | 更好的附魔 - [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 添加了高级附魔台, 用于给武器及工具添加指定附魔 |
 | 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
+| 区块加载 - [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8) | 添加了区块加载器, 可以对非出生点区块进行强制加载 |
 | 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
 | 雕刻工艺 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) | 新增了凿子工具, 可以将方块雕刻成任何形状 |
 | 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
