@@ -41,7 +41,7 @@
 | 血条 - [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 为其他生物显示血条 |
 | 苹果皮 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | 食品的饱食度饱腹度预览 |
 | [ 前置 ] 苹果核 - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) | AppleSkin 等模组的前置模组 |
-| [ 前置 ] 鸡骨头核心 - [CodeChickenLib](http://chickenbones.net/Pages/links.html) | NEI 等模组的前置模组 |
+| [ 前置 ] 鸡骨头核心 - [CodeChickenLib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) | NEI 等模组的前置模组 |
 
 <h3 align="center">
     <b>基础+</b>
