@@ -1,6 +1,7 @@
 # Author: Zhang-Wei-666
 # Homepage: https://github.com/Minecraft-Origin/Minecraft-Origin
 
+
 game.setLocalization( "zh_cn", "tile.quark:cobblestone_mossy_slab.name", "苔石台阶" );
 game.setLocalization( "zh_cn", "tile.quark:cobblestone_mossy_stairs.name", "苔石楼梯" );
 
