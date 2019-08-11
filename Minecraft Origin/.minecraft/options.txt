@@ -106,6 +106,7 @@ key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
+key_keybind.baublesinventory:0
 key_neat.keybind.toggle:0
 key_Autofish GUI:47
 key_smoothfont.key.guiOpen:0
