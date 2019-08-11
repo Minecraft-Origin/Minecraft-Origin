@@ -88,7 +88,6 @@
 | 模组名称 | 功能介绍及备注 |
 | :- | :- |
 | 更多箱子 - [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 一些更高容量的箱子 |
-| 多页箱子 - [Multi Page Chest](https://www.curseforge.com/minecraft/mc-mods/multi-page-chest) | 一个五页储存空间的超大箱子 |
 | 存储抽屉 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | 视觉上更直观的储物系统, 且存储容量可变 |
 | 末影存储 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) | 新增了可跨世界的物品存储及液体存储<br>记得配合区块加载使用哦 |
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
@@ -105,6 +104,5 @@
 | 无线红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
 | 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
 | 迷你刷怪场 - [Tiny Mob Farm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm) | 另一种全自动刷怪系统 |
-| [ 前置 ] CXLibrary - [CXLibrary](https://www.curseforge.com/minecraft/mc-mods/cxlibrary) | 多页箱子模组的前置模组 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
