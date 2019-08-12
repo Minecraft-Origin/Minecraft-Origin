@@ -106,5 +106,6 @@
 | 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
 | 迷你刷怪场 - [Tiny Mob Farm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm) | 另一种全自动刷怪系统 |
 | 鸡窝 - [Roost](https://www.curseforge.com/minecraft/mc-mods/roost) | 鸡的繁殖生产自动化 |
+| 鸡 - [Chickens](https://www.curseforge.com/minecraft/mc-mods/chickens) | 增加各种类型的鸡, 与鸡窝模组联动使用 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
