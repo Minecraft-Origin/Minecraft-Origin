@@ -1,11 +1,11 @@
 [
     {
-       "title": "所有生物 - 全面加强",
-       "onjoin": true,
-       "result": "default",
-       "potion": [
-           "minecraft:resistance,1000000,3",
-           "minecraft:strength,1000000,3"
-       ]
+        "title": "所有生物 - 全面加强",
+        "onjoin": true,
+        "result": "default",
+        "potion": [
+            "minecraft:resistance,1000000,3",
+            "minecraft:strength,1000000,3"
+        ]
     }
 ]
