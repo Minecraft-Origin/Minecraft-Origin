@@ -2,8 +2,8 @@
   "extraRodIDs": "Mariculture:rod_wood,Mariculture:rod_reed,Mariculture:rod_titanium,Mariculture:rod_flux,Aquaculture:item.fishingRod,Aquaculture:item.IronFishingRod,Aquaculture:item.GoldFishingRod,Aquaculture:item.DiamondFishingRod",
   "recast_delay_milliseconds": 1500,
   "isAutofishEnabled": true,
-  "useSoundDetection": true,
-  "useClearLagDoubleCast": true,
+  "useSoundDetection": false,
+  "useClearLagDoubleCast": false,
   "multiRod": true,
   "noBreak": true
 }
