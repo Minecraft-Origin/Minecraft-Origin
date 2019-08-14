@@ -111,5 +111,6 @@
 | 鸡窝 - [Roost](https://www.curseforge.com/minecraft/mc-mods/roost) | 鸡的繁殖生产自动化 |
 | 鸡 - [Chickens](https://www.curseforge.com/minecraft/mc-mods/chickens) | 增加各种类型的鸡, 与鸡窝模组联动使用 |
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
+| 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 有几率生成超大的树木 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
