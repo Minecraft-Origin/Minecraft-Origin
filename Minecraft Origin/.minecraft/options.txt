@@ -109,6 +109,9 @@ key_oreexcavation.key.shape:0
 key_keybind.baublesinventory:0
 key_key.fart.desc:0
 key_neat.keybind.toggle:0
+key_openblocks.keybind.vario_switch:0
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_Autofish GUI:47
 key_smoothfont.key.guiOpen:0
 key_FpsReducer.key.guiOpen:0
