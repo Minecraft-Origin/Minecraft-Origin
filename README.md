@@ -108,6 +108,7 @@
 | 无线红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
 | 树木盆栽 - [bonsaitrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | 使用盆栽很方便地种树或进行观赏 |
 | 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
+| Dark 实用设备 - [DarkUtils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 另一个和刷怪塔相关的使用设备 |
 | 迷你刷怪场 - [Tiny Mob Farm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm) | 另一种全自动刷怪系统 |
 | 鸡窝 - [Roost](https://www.curseforge.com/minecraft/mc-mods/roost) | 鸡的繁殖生产自动化 |
 | 鸡 - [Chickens](https://www.curseforge.com/minecraft/mc-mods/chickens) | 增加各种类型的鸡, 与鸡窝模组联动使用 |
