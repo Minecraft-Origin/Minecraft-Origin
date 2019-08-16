@@ -55,7 +55,7 @@
 | 矿物开凿 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) | 按住键盘 <b>`~`</b> 键可以连锁 [ 挖矿 / 砍树 / 收获 ] |
 | 经典战斗 - [Classic Combat](https://www.curseforge.com/minecraft/mc-mods/classic-combat) | 攻击不再有冷却时间 |
 | 穿草攻击 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) | 攻击不再会被花草阻挡 |
-| 控制 - [incontrol](https://www.curseforge.com/minecraft/mc-mods/in-control) | 为整合包提供控制怪物所有参数及行为的能力<br>[ 基础+ ]: 重新定义了怪物掉落物的数量, 且怪物掉落经验双倍 |
+| 控制 - [incontrol](https://www.curseforge.com/minecraft/mc-mods/in-control) | 为整合包提供控制怪物所有参数及行为的能力<br>[ 基础+ ]: 重新定义了怪物掉落物的数量, 且怪物掉落经验双倍<br>[ 增强 ]: 怪物均带有四级的力量和四级的抗性提升, 且怪物掉落经验四倍 |
 | 无限弓修复 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | 使用拥有无限附魔的弓时不再需要身上带着箭了 |
 | 更大堆叠数量 - [StackUp](https://www.curseforge.com/minecraft/mc-mods/stackup) | 使物品的 <b>最大堆叠数量值</b> 可以超过 64<br>目前物品的最大堆叠数量值为 6400000 |
 | 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 6400000 |
