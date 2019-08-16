@@ -112,6 +112,11 @@ key_neat.keybind.toggle:0
 key_openblocks.keybind.vario_switch:0
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
+key_pe.key.armor_toggle:0
+key_pe.key.charge:0
+key_pe.key.extra_function:0
+key_pe.key.fire_projectile:0
+key_pe.key.mode:0
 key_Autofish GUI:47
 key_smoothfont.key.guiOpen:0
 key_FpsReducer.key.guiOpen:0
