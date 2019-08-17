@@ -122,3 +122,9 @@
 | [ 前置 ] 开源方块核心 - [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib) | 开源方块模组的前置模组 |
 | [ 前置 ] 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 暮色森林模组的前置模组 |
 | [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) |等价交换扩展模组的前置模组 |
+
+<br>
+
+## 光影
+1. [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
+2. [Sildurs Vibrant Shaders](https://sildurs-shaders.github.io/)
