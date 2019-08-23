@@ -115,13 +115,10 @@
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
 | 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 有几率生成超大的树木 |
 | 暮色森林 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 增加了一个没有昼夜冒险的森林世界<br>充满了新的生物与新的植物以及各种探险要素和许多强大的 BOSS |
-| 等价交换 - [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) | 一种以物易物的新方式 |
-| 等价交换扩展 - [Expanded Equivalence](https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence) | 使更多物品拥有 EMC |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
 | [ 前置 ] 开源方块核心 - [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib) | 开源方块模组的前置模组 |
 | [ 前置 ] 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 暮色森林模组的前置模组 |
-| [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) |等价交换扩展模组的前置模组 |
 
 <br>
 
