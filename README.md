@@ -41,7 +41,7 @@
 | 血条 - [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 为其他生物显示血条 |
 | 苹果皮 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | 食品的饱食度饱腹度预览 |
 | [ 前置 ] 苹果核 - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) | AppleSkin 等模组的前置模组 |
-| [ 前置 ] 鸡骨头核心 - [CodeChickenLib](http://chickenbones.net/Pages/links.html) | NEI 等模组的前置模组 |
+| [ 前置 ] 鸡骨头核心 - [CodeChickenLib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) | NEI 等模组的前置模组 |
 
 <h3 align="center">
     <b>基础+</b>
@@ -55,10 +55,10 @@
 | 矿物开凿 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) | 按住键盘 <b>`~`</b> 键可以连锁 [ 挖矿 / 砍树 / 收获 ] |
 | 经典战斗 - [Classic Combat](https://www.curseforge.com/minecraft/mc-mods/classic-combat) | 攻击不再有冷却时间 |
 | 穿草攻击 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) | 攻击不再会被花草阻挡 |
-| 控制 - [incontrol](https://www.curseforge.com/minecraft/mc-mods/in-control) | 为整合包提供控制怪物所有参数及行为的能力<br>[ 基础+ ]: 重新定义了怪物掉落物的数量, 且怪物掉落经验双倍 |
+| 控制 - [incontrol](https://www.curseforge.com/minecraft/mc-mods/in-control) | 为整合包提供控制怪物所有参数及行为的能力<br>[ 基础+ ]: 重新定义了怪物掉落物的数量, 且怪物掉落经验双倍<br>[ 增强 ]: 怪物均带有四级的力量和四级的抗性提升, 且怪物掉落经验四倍 |
 | 无限弓修复 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | 使用拥有无限附魔的弓时不再需要身上带着箭了 |
-| 更大堆叠数量 - [StackUp](https://www.curseforge.com/minecraft/mc-mods/stackup) | 使物品的 <b>最大堆叠数量值</b> 可以超过 64<br>目前物品的最大堆叠数量值为 6400000 |
-| 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 6400000 |
+| 更大堆叠数量 - [StackUp](https://www.curseforge.com/minecraft/mc-mods/stackup) | 使物品的 <b>最大堆叠数量值</b> 可以超过 64<br>目前物品的最大堆叠数量值为 1000 |
+| 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 1000 |
 | 快速落叶 - [Quick Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) | 树叶腐烂速度加快 |
 | 更好的骨粉 - [ExpandedBonemeal](https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal) | 使骨粉可以催熟的植物更多 |
 | 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 `shift` 可以对树苗施肥 |
@@ -75,6 +75,7 @@
 | 搬运 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | 按住 `shift` 点击箱子可以对箱子进行搬运, 动物也可以<br>还有一些其他的方块比如熔炉,刷怪笼等等也可以搬运, 可以自行尝试 |
 | 悬挂火把 - [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) | 使火把及红石火把可以向下垂直安放 |
 | 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
+| 禁止末影人搬运 - [No Enderman Pickup](https://www.curseforge.com/minecraft/mc-mods/no-enderman-pickup) | 禁止末影人搬运方块 |
 | 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
 | 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>[ 基础+ ]: 只启用了一些实用性功能, 其他功能均被禁用<br>[ 增强 ]: 只启用了一些对原版道具的补充或升级的功能或道具 |
 | 随意的微调 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks) | 优化游戏的各种细节部分及添加了大量功能 |
@@ -88,17 +89,40 @@
 | 模组名称 | 功能介绍及备注 |
 | :- | :- |
 | 更多箱子 - [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 一些更高容量的箱子 |
-| 多页箱子 - [Multi Page Chest](https://www.curseforge.com/minecraft/mc-mods/multi-page-chest) | 一个五页储存空间的超大箱子 |
 | 存储抽屉 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | 视觉上更直观的储物系统, 且存储容量可变 |
+| 末影存储 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) | 新增了可跨世界的物品存储及液体存储<br>记得配合区块加载使用哦 |
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
 | 更好的附魔 - [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 添加了高级附魔台, 用于给武器及工具添加指定附魔 |
 | 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
+| 区块加载 - [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8) | 添加了区块加载器, 可以对非出生点区块进行强制加载 |
 | 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
 | 雕刻工艺 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) | 新增了凿子工具, 可以将方块雕刻成任何形状 |
+| 家具 - [Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 新增了各种各样美观的家具 |
+| 收藏馆 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 新增了各种各样的放置物品的展示架和其他装饰 |
+| 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
 | 更好的建筑魔杖 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands) | 新增了建筑魔杖工具, 可以根据已放置的方块批量放置方块<br>手持建筑魔杖使用 `G` 键可以切换放置模式<br>手持建筑魔杖使用 `H` 键可以切换对水流处理模式 |
-| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 6400000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| 饰品栏 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 添加饰品栏位 |
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
+| 开源方块 - [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) | 添加巨量的各种各样的实用工具 |
+| 无线红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
 | 树木盆栽 - [bonsaitrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | 使用盆栽很方便地种树或进行观赏 |
-| [ 前置 ] CXLibrary - [CXLibrary](https://www.curseforge.com/minecraft/mc-mods/cxlibrary) | 多页箱子模组的前置模组 |
+| 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
+| Dark 实用设备 - [DarkUtils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 另一个和刷怪塔相关的使用设备 |
+| 迷你刷怪场 - [Tiny Mob Farm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm) | 另一种全自动刷怪系统 |
+| 鸡窝 - [Roost](https://www.curseforge.com/minecraft/mc-mods/roost) | 鸡的繁殖生产自动化 |
+| 鸡 - [Chickens](https://www.curseforge.com/minecraft/mc-mods/chickens) | 增加各种类型的鸡, 与鸡窝模组联动使用 |
+| 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
+| 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 有几率生成超大的树木 |
+| 暮色森林 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 增加了一个没有昼夜冒险的森林世界<br>充满了新的生物与新的植物以及各种探险要素和许多强大的 BOSS |
+| 遗迹 - [Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system) | 为地图添加了更多遗迹建筑 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
+| [ 前置 ] 开源方块核心 - [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib) | 开源方块模组的前置模组 |
+| [ 前置 ] 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 暮色森林模组的前置模组 |
+
+<br>
+
+## 内置光影
+1. [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
+2. [Sildurs Vibrant Shaders](https://sildurs-shaders.github.io/)
