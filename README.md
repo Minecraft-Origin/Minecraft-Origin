@@ -57,8 +57,8 @@
 | 穿草攻击 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) | 攻击不再会被花草阻挡 |
 | 控制 - [incontrol](https://www.curseforge.com/minecraft/mc-mods/in-control) | 为整合包提供控制怪物所有参数及行为的能力<br>[ 基础+ ]: 重新定义了怪物掉落物的数量, 且怪物掉落经验双倍<br>[ 增强 ]: 怪物均带有四级的力量和四级的抗性提升, 且怪物掉落经验四倍 |
 | 无限弓修复 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | 使用拥有无限附魔的弓时不再需要身上带着箭了 |
-| 更大堆叠数量 - [StackUp](https://www.curseforge.com/minecraft/mc-mods/stackup) | 使物品的 <b>最大堆叠数量值</b> 可以超过 64<br>目前物品的最大堆叠数量值为 6400000 |
-| 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 6400000 |
+| 更大堆叠数量 - [StackUp](https://www.curseforge.com/minecraft/mc-mods/stackup) | 使物品的 <b>最大堆叠数量值</b> 可以超过 64<br>目前物品的最大堆叠数量值为 1000 |
+| 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 1000 |
 | 快速落叶 - [Quick Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) | 树叶腐烂速度加快 |
 | 更好的骨粉 - [ExpandedBonemeal](https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal) | 使骨粉可以催熟的植物更多 |
 | 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 `shift` 可以对树苗施肥 |
@@ -101,7 +101,7 @@
 | 收藏馆 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 新增了各种各样的放置物品的展示架和其他装饰 |
 | 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
 | 更好的建筑魔杖 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands) | 新增了建筑魔杖工具, 可以根据已放置的方块批量放置方块<br>手持建筑魔杖使用 `G` 键可以切换放置模式<br>手持建筑魔杖使用 `H` 键可以切换对水流处理模式 |
-| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 6400000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
 | 饰品栏 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 添加饰品栏位 |
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
 | 开源方块 - [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) | 添加巨量的各种各样的实用工具 |
