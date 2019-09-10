@@ -55,6 +55,14 @@ recipes.addShapeless(
             return null;
         }
 
+        var lure = <enchantment:minecraft:lure>;
+        var lureId = lure.id;
+
+        # 饵钓附魔不能超过五级, 否则会失效
+        if( oneEnchantment.id == lureId & oneEnchantment.lvl == 5 ){
+            return null;
+        }
+
         # 返回新等级的附魔书
         return <minecraft:enchanted_book>.withTag({
             StoredEnchantments: [{
