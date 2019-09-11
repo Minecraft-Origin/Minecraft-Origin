@@ -46,6 +46,33 @@ import crafttweaker.item.IItemStack;
 /**/     #<enchantment:minecraft:quick_charge>, # 快速装填
 /**/     <enchantment:minecraft:sweeping> # 横扫之刃
 /**/ ];
+
+    if( loadedMods in "openblocks" ){
+        enchantments += <enchantment:openblocks:flim_flam>; # 尔虞我诈
+        enchantments += <enchantment:openblocks:last_stand>; # 屹立不倒
+        enchantments += <enchantment:openblocks:explosive>; # 震荡不定
+    }
+
+    if( loadedMods in "bibliocraft" ){
+        enchantments += <enchantment:bibliocraft:bibliocraft.readingench>; # 读取
+        enchantments += <enchantment:bibliocraft:bibliocraft.deathcompassench>; # 永恒罗盘
+    }
+
+    if( loadedMods in "cyclicmagic" ){
+        enchantments += <enchantment:cyclicmagic:enchantment.lifeleech>; # 生命汲取
+        enchantments += <enchantment:cyclicmagic:enchantment.expboost>; # 经验提升
+        enchantments += <enchantment:cyclicmagic:enchantment.waterwalking>; # 水上行走
+        enchantments += <enchantment:cyclicmagic:enchantment.magnet>; # 磁引
+        enchantments += <enchantment:cyclicmagic:enchantment.reach>; # 范围扩展
+        enchantments += <enchantment:cyclicmagic:enchantment.multishot>; # 多重射击
+        enchantments += <enchantment:cyclicmagic:enchantment.beheading>; # 斩首
+        enchantments += <enchantment:cyclicmagic:enchantment.quickdraw>; # 快弓
+        enchantments += <enchantment:cyclicmagic:enchantment.autosmelt>; # 自动冶炼
+        enchantments += <enchantment:cyclicmagic:enchantment.excavation>; # 连锁采掘
+        enchantments += <enchantment:cyclicmagic:enchantment.launch>; # 多段跳
+        enchantments += <enchantment:cyclicmagic:enchantment.venom>; # 毒液
+    }
+
 /******************* 所有的附魔定义 *******************/
 
 
