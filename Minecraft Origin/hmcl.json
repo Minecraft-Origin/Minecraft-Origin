@@ -4,7 +4,7 @@
   "configurations": {
     "Default": {
       "global": {
-        "usesGlobal": false,
+        "usesGlobal": true,
         "maxMemory": 2048,
         "fullscreen": false,
         "noJVMArgs": false,
