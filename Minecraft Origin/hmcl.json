@@ -1,27 +1,19 @@
 {
   "last": "Default",
-  "proxyType": 0,
-  "enableShadow": false,
-  "enableBlur": false,
-  "enableAnimation": true,
-  "decorated": false,
   "theme": "green",
-  "logintype": 0,
-  "downloadtype": 0,
   "configurations": {
     "Default": {
-      "selectedMinecraftVersion": "1.12.2-forge1.12.2-14.23.5.2847",
-      "gameDir": ".minecraft",
-      "noCommon": true,
       "global": {
-        "usesGlobal": false,
-        "maxMemory": "1536",
+        "usesGlobal": true,
+        "maxMemory": 1536,
         "fullscreen": false,
         "noJVMArgs": false,
-        "notCheckGame": false,
         "launcherVisibility": 0,
         "gameDirType": 0
-      }
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": true,
+      "selectedMinecraftVersion": "1.12.2-forge1.12.2-14.23.5.2847"
     }
   }
 }
