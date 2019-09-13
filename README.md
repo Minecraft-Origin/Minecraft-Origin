@@ -98,6 +98,7 @@
 | 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
 | 雕刻工艺 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) | 新增了凿子工具, 可以将方块雕刻成任何形状 |
 | 凿子 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) | 使用用原版物品雕刻出更多的装饰方块 |
+| 建筑师工艺 - [ArchitectureCraft](https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev) | 为 Minecraft 添加了各种形状的方块 |
 | 家具 - [Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 新增了各种各样美观的家具 |
 | 收藏馆 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 新增了各种各样的放置物品的展示架和其他装饰 |
 | 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
