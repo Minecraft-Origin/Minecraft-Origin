@@ -1,11 +1,11 @@
 [
     {
-        "title": "所有生物 - 全面加强",
+        "title": "所有生物 - 护甲加强",
         "onjoin": true,
         "result": "default",
-        "potion": [
-            "minecraft:resistance,1000000,3",
-            "minecraft:strength,1000000,3"
-        ]
-    }
+        "armorhelmet": "minecraft:diamond_helmet/{ench:[{id:71,lvl:1}]}",
+        "armorchest": "minecraft:diamond_chestplate/{ench:[{id:71,lvl:1}]}",
+        "armorlegs": "minecraft:diamond_leggings/{ench:[{id:71,lvl:1}]}",
+        "armorboots": "minecraft:diamond_boots/{ench:[{id:71,lvl:1}]}"
+   }
 ]
