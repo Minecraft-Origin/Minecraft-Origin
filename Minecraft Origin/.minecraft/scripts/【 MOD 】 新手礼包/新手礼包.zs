@@ -58,7 +58,7 @@ events.onPlayerLoggedIn(
                     }
                     # 保护
                     if( index > 2 ){
-                        item.addEnchantment( <enchantment:minecraft:protection> * 5 );
+                        item.addEnchantment( <enchantment:minecraft:protection> * 2 );
                     }
                 }
 
@@ -73,7 +73,15 @@ events.onPlayerLoggedIn(
         }
 
         player.update({
-            loginCount: data.loginCount.asInt() + 1
+            loginCount: true
         });
+
+        print("666: onPlayerLoggedIn");
+    }
+);
+
+events.onPlayerLoggedOut(
+    function( event as crafttweaker.event.PlayerLoggedOutEvent ){
+        print("666: onPlayerLoggedOut");
     }
 );
