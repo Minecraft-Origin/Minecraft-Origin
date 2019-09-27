@@ -112,6 +112,13 @@
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
 | 开源方块 - [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) | 添加巨量的各种各样的实用工具 |
 | 无线红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
+| 红石计划 ( 基础 ) - [Project Red - Base](https://www.curseforge.com/minecraft/mc-mods/project-red-base/) |  |
+| 红石计划 ( 世界生成 ) - [Project Red - World](https://www.curseforge.com/minecraft/mc-mods/project-red-world) |  |
+| 红石计划 ( 机械 ) - [Project Red - Mechanical](https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical) |  |
+| 红石计划 ( 照明 ) - [Project Red - Lighting](https://www.curseforge.com/minecraft/mc-mods/project-red-lighting) |  |
+| 红石计划 ( 逻辑 ) - [Project Red - Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration) |  |
+| 红石计划 ( 数字集成电路 ) - [Project Red - Fabrication](https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication) |  |
+| 红石计划 ( 兼容 ) - [Project Red - Compat](https://www.curseforge.com/minecraft/mc-mods/project-red-compat) |  |
 | 树木盆栽 - [bonsaitrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | 使用盆栽很方便地种树或进行观赏 |
 | 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
 | Dark 实用设备 - [DarkUtils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 另一个和刷怪塔相关的使用设备 |
@@ -129,6 +136,7 @@
 | [ 前置 ] 开源方块核心 - [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib) | 开源方块模组的前置模组 |
 | [ 前置 ] 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 暮色森林模组的前置模组 |
 | [ 前置 ] 地幔 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) | 匠魂模组的前置模组 |
+| [ 前置 ] MrTJP - [MrTJP](https://www.curseforge.com/minecraft/mc-mods/mrtjpcore) | 红石计划模组的前置模组 |
 
 <br>
 
