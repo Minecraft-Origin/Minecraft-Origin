@@ -119,3 +119,5 @@ Minecraft Origin/.minecraft/hs_err_pid*.log
 Minecraft Origin/.minecraft/config/Lootbags_BagConfig.cfg
 Minecraft Origin/.minecraft/config/chisel.cfg
 Minecraft Origin/.minecraft/config/TinkerModules.cfg
+Minecraft Origin/.minecraft/config/ProjectRedRelocation.cfg
+Minecraft Origin/.minecraft/config/ProjectRed.cfg
