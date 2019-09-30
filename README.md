@@ -112,13 +112,14 @@
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
 | 开源方块 - [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) | 添加巨量的各种各样的实用工具 |
 | 无线红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
-| 红石计划 ( 基础 ) - [Project Red - Base](https://www.curseforge.com/minecraft/mc-mods/project-red-base/) |  |
-| 红石计划 ( 世界生成 ) - [Project Red - World](https://www.curseforge.com/minecraft/mc-mods/project-red-world) |  |
-| 红石计划 ( 机械 ) - [Project Red - Mechanical](https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical) |  |
-| 红石计划 ( 照明 ) - [Project Red - Lighting](https://www.curseforge.com/minecraft/mc-mods/project-red-lighting) |  |
-| 红石计划 ( 逻辑 ) - [Project Red - Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration) |  |
-| 红石计划 ( 数字集成电路 ) - [Project Red - Fabrication](https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication) |  |
-| 红石计划 ( 兼容 ) - [Project Red - Compat](https://www.curseforge.com/minecraft/mc-mods/project-red-compat) |  |
+| 红石计划 ( 基础 ) - [Project Red - Base](https://www.curseforge.com/minecraft/mc-mods/project-red-base/) | 原版红石的加强版, 紧凑的布线和集成逻辑门极大改进了红石控制 |
+| 红石计划 ( 世界生成 ) - [Project Red - World](https://www.curseforge.com/minecraft/mc-mods/project-red-world) | 添加了世界生成、工具还有装备 |
+| 红石计划 ( 机械 ) - [Project Red - Mechanical](https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical) | 添加了许多发动机、物品管道和机器 |
+| 红石计划 ( 照明 ) - [Project Red - Lighting](https://www.curseforge.com/minecraft/mc-mods/project-red-lighting) | 添加了许多受红石信号控制的远比火把照明效果来得好的灯 |
+| 红石计划 ( 逻辑 ) - [Project Red - Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration) | 添加了许多的红石门和能传递红石信号的线缆 |
+| 红石计划 ( 数字集成电路 ) - [Project Red - Fabrication](https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication) | 添加了集成电路 ( IC门 ), 能够将庞大的红石电路挤在一个方块中 |
+| 红石计划 ( 兼容 ) - [Project Red - Compat](https://www.curseforge.com/minecraft/mc-mods/project-red-compat) | 添加对其他模组的兼容 |
+| 黏性红石 - [Redstone Paste](https://www.curseforge.com/minecraft/mc-mods/redstone-paste) | 一种可以放在墙上的红石 |
 | 树木盆栽 - [bonsaitrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | 使用盆栽很方便地种树或进行观赏 |
 | 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
 | Dark 实用设备 - [DarkUtils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 另一个和刷怪塔相关的使用设备 |
