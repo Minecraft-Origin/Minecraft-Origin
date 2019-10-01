@@ -129,6 +129,7 @@
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
 | 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 有几率生成超大的树木 |
 | 暮色森林 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 增加了一个没有昼夜冒险的森林世界<br>充满了新的生物与新的植物以及各种探险要素和许多强大的 BOSS |
+| 稀有精英怪 - [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs) | 有概率赋予怪物随机的属性<br>已关闭某些影响游戏体验的负面 BUFF 如:<br>窒息,瞬移,忍者,粘性,复仇,织网 |
 | 遗迹 - [Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system) | 为地图添加了更多遗迹建筑 |
 | 战斗高塔 - [BattleTowers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers) | 地图上会随机生成战斗高塔 |
 | 战利品 - [LootBags](https://www.curseforge.com/minecraft/mc-mods/lootbags) | 家畜爆神装 |
