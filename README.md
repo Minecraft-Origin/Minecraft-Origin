@@ -133,6 +133,7 @@
 | 战斗高塔 - [BattleTowers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers) | 地图上会随机生成战斗高塔 |
 | 战利品 - [LootBags](https://www.curseforge.com/minecraft/mc-mods/lootbags) | 家畜爆神装 |
 | 无尽贪婪 - [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10) | 游戏的终点? |
+| 无尽贪婪扩展 - [More Avaritia](https://www.curseforge.com/minecraft/mc-mods/more-avaritia) | 添加许多物品在终极工作台的合成方式 |
 | 致密中子态素收集器 - [Dense Neutron Collectors](https://www.curseforge.com/minecraft/mc-mods/dense-neutron-collectors) | 无尽贪婪的中子态素收集器升级版 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
