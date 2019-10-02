@@ -3,9 +3,9 @@
         "title": "所有生物 - 护甲加强",
         "onjoin": true,
         "result": "default",
-        "armorhelmet": "minecraft:golden_helmet/{ench:[{id:71,lvl:1},{id:0,lvl:2}]}",
-        "armorchest": "minecraft:golden_chestplate/{ench:[{id:71,lvl:1},{id:0,lvl:2}]}",
-        "armorlegs": "minecraft:golden_leggings/{ench:[{id:71,lvl:1},{id:0,lvl:2}]}",
-        "armorboots": "minecraft:golden_boots/{ench:[{id:71,lvl:1},{id:0,lvl:2}]}"
+        "armorhelmet": "minecraft:leather_helmet/{ench:[{id:71,lvl:1},{id:0,lvl:3}]}",
+        "armorchest": "minecraft:leather_chestplate/{ench:[{id:71,lvl:1},{id:0,lvl:3}]}",
+        "armorlegs": "minecraft:leather_leggings/{ench:[{id:71,lvl:1},{id:0,lvl:3}]}",
+        "armorboots": "minecraft:leather_boots/{ench:[{id:71,lvl:1},{id:0,lvl:3}]}"
    }
 ]
