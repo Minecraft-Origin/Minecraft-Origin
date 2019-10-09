@@ -7,6 +7,6 @@ recipes.remove( <minecraft:ender_pearl> );
 
 recipes.addShaped( <minecraft:ender_pearl>, [
     [ <minecraft:dye:2>, <minecraft:dye:4>, <minecraft:dye:2> ],
-    [ <minecraft:dye:4>, <minecraft:gunpowder>, <minecraft:dye:4> ],
+    [ <minecraft:dye:4>, <minecraft:flint>, <minecraft:dye:4> ],
     [ <minecraft:dye:2>, <minecraft:dye:4>, <minecraft:dye:2> ]
 ]);
