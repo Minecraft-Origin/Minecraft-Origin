@@ -75,13 +75,13 @@ events.onPlayerLoggedIn(
         player.update({
             loginCount: true
         });
-
-        print("666: onPlayerLoggedIn");
     }
 );
 
 events.onPlayerLoggedOut(
     function( event as crafttweaker.event.PlayerLoggedOutEvent ){
-        print("666: onPlayerLoggedOut");
+        event.player.update({
+            loginCount: true
+        });
     }
 );
