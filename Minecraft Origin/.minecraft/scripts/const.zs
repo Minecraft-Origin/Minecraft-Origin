@@ -94,7 +94,8 @@ import crafttweaker.item.IItemStack;
 /**/     newItem.displayName = item.displayName;
 /**/ 
 /**/     # 匠魂支持
-/**/     if( item.definition.owner == "tconstruct" ){
+/**/     # 匠魂护甲支持
+/**/     if( item.definition.owner == "tconstruct" || item.definition.owner == "conarm" ){
 /**/         var tag = item.tag;
 /**/ 
 /**/        if( tag in "StatsOriginal" ){
