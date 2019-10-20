@@ -10,7 +10,7 @@ events.onPlayerLoggedIn(
         var player = event.player;
         var data = player.data;
 
-        if( ( data in "loginCount" ) == false ){
+        if( ( data in "PlayerRegistered" ) == false ){
             var items as IItemStack[] = [
                 <minecraft:wooden_sword>.withTag({
                     display: { Name: '新手木剑' }
@@ -20,6 +20,12 @@ events.onPlayerLoggedIn(
                 }),
                 <minecraft:wooden_pickaxe>.withTag({
                     display: { Name: '新手木镐' }
+                }),
+                <minecraft:wooden_shovel>.withTag({
+                    display: { Name: '新手木锹' }
+                }),
+                <minecraft:wooden_hoe>.withTag({
+                    display: { Name: '新手木锄' }
                 }),
                 <minecraft:leather_helmet>.withTag({
                     display: { Name: '新手帽子' }
@@ -39,7 +45,7 @@ events.onPlayerLoggedIn(
             ];
 
             for index, item in items{
-                if( index < 7 ){
+                if( index < 9 ){
                     # 经验修补
                     item.addEnchantment( <enchantment:minecraft:mending> * 1 );
                     # 耐久
@@ -50,12 +56,12 @@ events.onPlayerLoggedIn(
                         item.addEnchantment( <enchantment:minecraft:sharpness> * 5 );
                     }
                     # 效率
-                    if( index == 1 || index == 2 ){
+                    if( index > 0 && index < 5 ){
                         item.addEnchantment( <enchantment:minecraft:efficiency> * 5 );
                     }
                     # 保护
-                    if( index > 2 ){
-                        item.addEnchantment( <enchantment:minecraft:protection> * 5 );
+                    if( index > 4 ){
+                        item.addEnchantment( <enchantment:minecraft:protection> * 2 );
                     }
                 }
 
@@ -63,14 +69,22 @@ events.onPlayerLoggedIn(
             }
 
             player.update({
-                loginCount: 1
+                PlayerRegistered: true
             });
 
             return;
         }
 
         player.update({
-            loginCount: data.loginCount.asInt() + 1
+            PlayerRegistered: true
+        });
+    }
+);
+
+events.onPlayerLoggedOut(
+    function( event as crafttweaker.event.PlayerLoggedOutEvent ){
+        event.player.update({
+            PlayerRegistered: true
         });
     }
 );
