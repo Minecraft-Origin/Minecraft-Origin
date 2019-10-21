@@ -63,7 +63,6 @@
 | 更好的骨粉 - [ExpandedBonemeal](https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal) | 使骨粉可以催熟的植物更多 |
 | 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 `shift` 可以对树苗施肥 |
 | 收获经验 - [XP From Harvest](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest) | 1. 收获农作物将得到经验<br>2. 单击成熟作物将直接收获并重新种植 |
-| 防止踩踏 - [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper) | 耕地不会因踩踏而损坏 |
 | 保持库存 - [KeepingInventory](https://www.curseforge.com/minecraft/mc-mods/keeping-inventory) | 自动开启死亡不掉落和爆炸保护 |
 | 和平的饥饿 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace) | 和平模式也会消耗饱食度了 |
 | 越过围栏 - [Fence Jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper) | 使玩家可以越过栅栏和圆石墙等 1.5 格高的方块 |
