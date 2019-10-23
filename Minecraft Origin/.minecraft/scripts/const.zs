@@ -73,6 +73,10 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:cyclicmagic:enchantment.venom>; # 毒液
     }
 
+    if( loadedMods in "projectred-expansion" ){
+        enchantments += <enchantment:projectred-expansion:electric_efficiency>; # 燃油效率
+    }
+
 /******************* 所有的附魔定义 *******************/
 
 
