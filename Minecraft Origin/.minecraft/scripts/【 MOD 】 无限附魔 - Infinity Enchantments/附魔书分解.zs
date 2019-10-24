@@ -35,8 +35,8 @@ recipes.addShapeless(
                 var bookStoredEnchantments = bookTag.StoredEnchantments;
                 var bookStoredEnchantmentsLength = bookStoredEnchantments.length;
 
-                # 只允许有多个附魔属性的附魔书进行分解
-                if( bookStoredEnchantmentsLength <= 1 ){
+                # 只允许有附魔属性的附魔书进行分解
+                if( bookStoredEnchantmentsLength < 1 ){
                     return null;
                 }
 
@@ -47,7 +47,9 @@ recipes.addShapeless(
                 # 但是尝试了许久发现数组类型的 IData 是不支持使用 += 添加映射数组的
                 # 先暂时用这种方式吧
                 # 以后看看有没有什么解决方法
-                if( bookStoredEnchantmentsLength == 2 ){
+                if( bookStoredEnchantmentsLength == 1 ){
+                    return null;
+                }else if( bookStoredEnchantmentsLength == 2 ){
                     newBookStoredEnchantments = [
                         bookStoredEnchantments[1]
                     ];
@@ -91,8 +93,8 @@ recipes.addShapeless(
             return null;
         }
 
-        # 只允许有多个附魔属性的附魔书进行分解
-        if( bookTag.StoredEnchantments.length <= 1 ){
+        # 只允许有附魔属性的附魔书进行分解
+        if( bookTag.StoredEnchantments.length < 1 ){
             return null;
         }
 
