@@ -31,7 +31,6 @@
 | 平滑字体 - [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 游戏内字体优化 |
 | 合成界面调整 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | 更实用的合成界面 |
 | R 键整理 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 更方便的背包整理 |
-| 动态光源 - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights) | 使发光物品在任何时候都能发光 |
 | 第三人称视角修复 - [f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 |
 | 小地图 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 小地图 |
 | 万用皮肤补丁 - [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | 加载玩家皮肤, 不仅仅是史蒂夫了 |
@@ -63,7 +62,6 @@
 | 更好的骨粉 - [ExpandedBonemeal](https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal) | 使骨粉可以催熟的植物更多 |
 | 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 `shift` 可以对树苗施肥 |
 | 收获经验 - [XP From Harvest](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest) | 1. 收获农作物将得到经验<br>2. 单击成熟作物将直接收获并重新种植 |
-| 防止踩踏 - [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper) | 耕地不会因踩踏而损坏 |
 | 保持库存 - [KeepingInventory](https://www.curseforge.com/minecraft/mc-mods/keeping-inventory) | 自动开启死亡不掉落和爆炸保护 |
 | 和平的饥饿 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace) | 和平模式也会消耗饱食度了 |
 | 越过围栏 - [Fence Jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper) | 使玩家可以越过栅栏和圆石墙等 1.5 格高的方块 |
@@ -97,15 +95,28 @@
 | 区块加载 - [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8) | 添加了区块加载器, 可以对非出生点区块进行强制加载 |
 | 锯子 - [Forge MultiPart CBE](https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe) | 新增了锯子工具, 可以对方块切片, 还能对切出来的切片继续切片, 最终切成点状切片<br>不同的切片可以在同一个方块范围内被组装 |
 | 雕刻工艺 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) | 新增了凿子工具, 可以将方块雕刻成任何形状 |
+| 建筑师工艺 - [ArchitectureCraft](https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev) | 为 Minecraft 添加了各种形状的建筑方块 |
 | 家具 - [Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 新增了各种各样美观的家具 |
 | 收藏馆 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 新增了各种各样的放置物品的展示架和其他装饰 |
 | 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
 | 更好的建筑魔杖 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands) | 新增了建筑魔杖工具, 可以根据已放置的方块批量放置方块<br>手持建筑魔杖使用 `G` 键可以切换放置模式<br>手持建筑魔杖使用 `H` 键可以切换对水流处理模式 |
 | 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
 | 饰品栏 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 添加饰品栏位 |
+| 匠魂 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) | 增加了一整套从模具制造到金属冶炼再到工具武器制作的工艺系统 |
+| 匠魂护甲 - [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) | 为匠魂新增制作护甲的能力 |
+| 匠魂升级 - [Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling) | 匠魂工具可以升级了 |
+| 匠魂工具信息显示 - [Tinker's JEI](https://www.curseforge.com/minecraft/mc-mods/tinkers-jei) | 为 JEI 添加匠魂工具统计信息的显示 |
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
 | 开源方块 - [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) | 添加巨量的各种各样的实用工具 |
 | 无线红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
+| 红石计划 ( 基础 ) - [Project Red - Base](https://www.curseforge.com/minecraft/mc-mods/project-red-base/) | 原版红石的加强版, 紧凑的布线和集成逻辑门极大改进了红石控制 |
+| 红石计划 ( 世界生成 ) - [Project Red - World](https://www.curseforge.com/minecraft/mc-mods/project-red-world) | 添加了世界生成、工具还有装备 |
+| 红石计划 ( 机械 ) - [Project Red - Mechanical](https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical) | 添加了许多发动机、物品管道和机器 |
+| 红石计划 ( 照明 ) - [Project Red - Lighting](https://www.curseforge.com/minecraft/mc-mods/project-red-lighting) | 添加了许多受红石信号控制的远比火把照明效果来得好的灯 |
+| 红石计划 ( 逻辑 ) - [Project Red - Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration) | 添加了许多的红石门和能传递红石信号的线缆 |
+| 红石计划 ( 数字集成电路 ) - [Project Red - Fabrication](https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication) | 添加了集成电路 ( IC门 ), 能够将庞大的红石电路挤在一个方块中 |
+| 红石计划 ( 兼容 ) - [Project Red - Compat](https://www.curseforge.com/minecraft/mc-mods/project-red-compat) | 添加对其他模组的兼容 |
+| 黏性红石 - [Redstone Paste](https://www.curseforge.com/minecraft/mc-mods/redstone-paste) | 一种可以放在墙上的红石 |
 | 树木盆栽 - [bonsaitrees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) | 使用盆栽很方便地种树或进行观赏 |
 | 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
 | Dark 实用设备 - [DarkUtils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 另一个和刷怪塔相关的使用设备 |
@@ -115,14 +126,25 @@
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
 | 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 有几率生成超大的树木 |
 | 暮色森林 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 增加了一个没有昼夜冒险的森林世界<br>充满了新的生物与新的植物以及各种探险要素和许多强大的 BOSS |
-| 遗迹 - [Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system) | 为地图添加了更多遗迹建筑 |
+| 稀有精英怪 - [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs) | 有概率赋予怪物随机的属性<br>已关闭某些影响游戏体验的负面 BUFF 如:<br>窒息,瞬移,忍者,粘性,复仇,织网 |
+| 循环遗迹 - [Recurrent Complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) | 为地图添加了更多遗迹建筑 |
+| 战斗高塔 - [BattleTowers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers) | 地图上会随机生成战斗高塔 |
+| 战利品 - [LootBags](https://www.curseforge.com/minecraft/mc-mods/lootbags) | 家畜爆神装 |
+| 无尽贪婪 - [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10) | 游戏的终点? |
+| 无尽贪婪 - 扩展 - [More Avaritia](https://www.curseforge.com/minecraft/mc-mods/more-avaritia) | 添加许多物品在终极工作台的合成方式 |
+| 致密中子态素收集器 - [Dense Neutron Collectors](https://www.curseforge.com/minecraft/mc-mods/dense-neutron-collectors) | 无尽贪婪的中子态素收集器升级版 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
 | [ 前置 ] 开源方块核心 - [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib) | 开源方块模组的前置模组 |
 | [ 前置 ] 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 暮色森林模组的前置模组 |
+| [ 前置 ] 地幔 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) | 匠魂模组的前置模组 |
+| [ 前置 ] MrTJP - [MrTJP](https://www.curseforge.com/minecraft/mc-mods/mrtjpcore) | 红石计划模组的前置模组 |
+| [ 前置 ] IvToolkit - [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit) | 循环遗迹模组的前置模组 |
 
 <br>
 
 ## 内置光影
 1. [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
 2. [Sildurs Vibrant Shaders](https://sildurs-shaders.github.io/)
+3. OnlyWater
+4. [Chocapic13](https://www.minecraftforum.net/members/chocapic13/reputation)
