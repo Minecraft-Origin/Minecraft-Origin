@@ -86,9 +86,6 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_of.key.zoom:29
-key_key.conarm.toggle_helm.desc:34
-key_key.conarm.toggle_chest.desc:35
-key_key.conarm.toggle_leg.desc:36
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -107,6 +104,9 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_key.conarm.toggle_helm.desc:34
+key_key.conarm.toggle_chest.desc:35
+key_key.conarm.toggle_leg.desc:36
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_keybind.baublesinventory:0
@@ -121,6 +121,7 @@ key_FpsReducer.key.guiOpen:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
+key_key.jei.toggleEditMode:0
 key_key.jei.showRecipe:34
 key_key.jei.showUses:33
 key_key.jei.recipeBack:0
@@ -188,7 +189,6 @@ key_mod.chiselsandbits.other.offgrid:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
-key_Dynamic Lights toggle:0
 key_key.hudtoggle:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
