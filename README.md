@@ -31,7 +31,6 @@
 | 平滑字体 - [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 游戏内字体优化 |
 | 合成界面调整 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | 更实用的合成界面 |
 | R 键整理 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 更方便的背包整理 |
-| 动态光源 - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights) | 使发光物品在任何时候都能发光 |
 | 第三人称视角修复 - [f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 |
 | 小地图 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 小地图 |
 | 万用皮肤补丁 - [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | 加载玩家皮肤, 不仅仅是史蒂夫了 |
