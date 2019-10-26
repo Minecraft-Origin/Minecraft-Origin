@@ -108,6 +108,7 @@ key_key.craftingtweaks.refill_last_stack:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
+key_key.jei.toggleEditMode:0
 key_key.jei.showRecipe:34
 key_key.jei.showUses:33
 key_key.jei.recipeBack:0
@@ -128,7 +129,6 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-key_Dynamic Lights toggle:0
 key_key.hudtoggle:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
