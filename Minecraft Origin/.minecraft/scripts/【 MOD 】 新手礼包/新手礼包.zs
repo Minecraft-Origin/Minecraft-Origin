@@ -22,10 +22,10 @@ events.onPlayerLoggedIn(
                     display: { Name: '新手石镐' }
                 }),
                 <minecraft:stone_shovel>.withTag({
-                    display: { Name: '新手木锹' }
+                    display: { Name: '新手石锹' }
                 }),
                 <minecraft:stone_hoe>.withTag({
-                    display: { Name: '新手木锄' }
+                    display: { Name: '新手石锄' }
                 }),
                 <minecraft:chainmail_helmet>.withTag({
                     display: { Name: '新手帽子' }
