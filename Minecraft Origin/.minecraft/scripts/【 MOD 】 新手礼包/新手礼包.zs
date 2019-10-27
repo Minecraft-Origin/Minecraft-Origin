@@ -12,31 +12,31 @@ events.onPlayerLoggedIn(
 
         if( ( data in "PlayerRegistered" ) == false ){
             var items as IItemStack[] = [
-                <minecraft:stone_sword>.withTag({
-                    display: { Name: '新手石剑' }
+                <minecraft:iron_sword>.withTag({
+                    display: { Name: '新手铁剑' }
                 }),
-                <minecraft:stone_axe>.withTag({
-                    display: { Name: '新手石斧' }
+                <minecraft:iron_axe>.withTag({
+                    display: { Name: '新手铁斧' }
                 }),
-                <minecraft:stone_pickaxe>.withTag({
-                    display: { Name: '新手石镐' }
+                <minecraft:iron_pickaxe>.withTag({
+                    display: { Name: '新手铁镐' }
                 }),
-                <minecraft:stone_shovel>.withTag({
-                    display: { Name: '新手木锹' }
+                <minecraft:iron_shovel>.withTag({
+                    display: { Name: '新手铁锹' }
                 }),
-                <minecraft:stone_hoe>.withTag({
-                    display: { Name: '新手木锄' }
+                <minecraft:iron_hoe>.withTag({
+                    display: { Name: '新手铁锄' }
                 }),
-                <minecraft:chainmail_helmet>.withTag({
+                <minecraft:iron_helmet>.withTag({
                     display: { Name: '新手帽子' }
                 }),
-                <minecraft:chainmail_chestplate>.withTag({
+                <minecraft:iron_chestplate>.withTag({
                     display: { Name: '新手外套' }
                 }),
-                <minecraft:chainmail_leggings>.withTag({
+                <minecraft:iron_leggings>.withTag({
                     display: { Name: '新手裤子' }
                 }),
-                <minecraft:chainmail_boots>.withTag({
+                <minecraft:iron_boots>.withTag({
                     display: { Name: '新手靴子' }
                 }),
                 <minecraft:torch> * 64,
