@@ -182,7 +182,7 @@ key_mod.chiselsandbits.positivepatternmode.impose:0
 key_mod.chiselsandbits.tapemeasure.bit:0
 key_mod.chiselsandbits.tapemeasure.block:0
 key_mod.chiselsandbits.tapemeasure.distance:0
-key_mod.chiselsandbits.other.mode:56
+key_mod.chiselsandbits.other.mode:0
 key_mod.chiselsandbits.other.rotate.ccw:0
 key_mod.chiselsandbits.other.rotate.cw:0
 key_mod.chiselsandbits.other.pickbit:0
