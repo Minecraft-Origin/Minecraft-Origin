@@ -152,10 +152,12 @@
 | 热力膨胀 ( 农业 ) - [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation) | 热力膨胀的农业相关 |
 | 热力膨胀 ( 革新 ) - [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation) | 热力膨胀的工具和装备相关 |
 | 龙之研究 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) |  |
+| 末影接口 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) |  |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
 | [ 前置 ] Brandon's Core - [Brandon's Core](https://www.curseforge.com/minecraft/mc-mods/brandons-core) | 龙之研究模组的前置模组 |
+| [ 前置 ] 末影核心 - [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) | 末影接口模组的前置模组 |
 
 <br>
 
