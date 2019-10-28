@@ -104,9 +104,9 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_key.conarm.toggle_helm.desc:34
-key_key.conarm.toggle_chest.desc:35
-key_key.conarm.toggle_leg.desc:36
+key_key.conarm.toggle_helm.desc:0
+key_key.conarm.toggle_chest.desc:0
+key_key.conarm.toggle_leg.desc:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_keybind.baublesinventory:0
@@ -129,6 +129,7 @@ key_key.jei.previousPage:0
 key_key.jei.nextPage:0
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
+key_key.cofh.multimode:0
 key_invtweaks.key.sort:19
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
@@ -195,6 +196,14 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_key.placeItem:0
+key_key.toolConfig:0
+key_key.toolProfileChange:0
+key_key.armorProfileChange:0
+key_key.toggleFlight:0
+key_key.toggleDislocator:0
+key_key.cycleDigAOE:0
+key_key.cycleAttackAOE:0
 key_key.keyExtraInvo:19
 key_key.keyWheel:0
 key_key.keyExtraCraftin:0
