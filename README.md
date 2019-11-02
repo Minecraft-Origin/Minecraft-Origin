@@ -59,21 +59,21 @@
 | 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 1000 |
 | 快速落叶 - [Quick Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) | 树叶腐烂速度加快 |
 | 更好的骨粉 - [ExpandedBonemeal](https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal) | 使骨粉可以催熟的植物更多 |
-| 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 `shift` 可以对树苗施肥 |
+| 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 <b>`shift`</b> 可以对树苗施肥 |
 | 收获经验 - [XP From Harvest](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest) | 1. 收获农作物将得到经验<br>2. 单击成熟作物将直接收获并重新种植 |
 | 保持库存 - [KeepingInventory](https://www.curseforge.com/minecraft/mc-mods/keeping-inventory) | 自动开启死亡不掉落和爆炸保护 |
 | 和平的饥饿 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace) | 和平模式也会消耗饱食度了 |
 | 越过围栏 - [Fence Jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper) | 使玩家可以越过栅栏和圆石墙等 1.5 格高的方块 |
-| 更好的破坏半砖 - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) | 按住 `shift` 破坏由两块半砖叠成的方块时可以只破坏鼠标指向的那块半砖 |
+| 更好的破坏半砖 - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) | 按住 <b>`shift`</b> 破坏由两块半砖叠成的方块时可以只破坏鼠标指向的那块半砖 |
 | 快乐着陆 - [Happy Landings](https://www.curseforge.com/minecraft/mc-mods/happy-landings) | 防止玩家在飞行时撞墙造成的伤害 |
 | 无限岩浆 - [InstantLava](https://craft.mystia.org/InstantLava/) | 赋予岩浆和无限水一样的特性 |
 | 席地而坐 - [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) | 使玩家可以坐在半砖或台阶上 |
 | 基岩平铺 - [FlatBedrock](https://www.curseforge.com/minecraft/mc-mods/flatbedrockx) | 使游戏内的基岩不在坑坑洼洼 |
-| 搬运 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | 按住 `shift` 点击箱子可以对箱子进行搬运, 动物也可以<br>还有一些其他的方块比如熔炉,刷怪笼等等也可以搬运, 可以自行尝试 |
+| 搬运 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | 按住 <b>`shift`</b> 点击箱子可以对箱子进行搬运, 动物也可以<br>还有一些其他的方块比如熔炉,刷怪笼等等也可以搬运, 可以自行尝试 |
 | 悬挂火把 - [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) | 使火把及红石火把可以向下垂直安放 |
 | 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
 | 禁止末影人搬运 - [No Enderman Pickup](https://www.curseforge.com/minecraft/mc-mods/no-enderman-pickup) | 禁止末影人搬运方块 |
-| 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
+| 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 <b>`V`</b> 进行配置及禁用 |
 | 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>[ 基础+ ]: 只启用了一些实用性功能, 其他功能均被禁用<br>[ 增强 ]: 只启用了一些对原版道具的补充或升级的功能或道具 |
 | 随意的微调 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks) | 优化游戏的各种细节部分及添加了大量功能 |
 | 自我控制 - [Self Control](https://www.curseforge.com/minecraft/mc-mods/self-control) | 禁止通过创建局域网的方式开启作弊模式 |
@@ -99,7 +99,7 @@
 | 收藏馆 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 新增了各种各样的放置物品的展示架和其他装饰 |
 | 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
 | 更好的建筑魔杖 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands) | 新增了建筑魔杖工具, 可以根据已放置的方块批量放置方块<br>手持建筑魔杖使用 `G` 键可以切换放置模式<br>手持建筑魔杖使用 `H` 键可以切换对水流处理模式 |
-| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 <b>`C`</b> 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
 | 饰品栏 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 添加饰品栏位 |
 | 匠魂 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) | 增加了一整套从模具制造到金属冶炼再到工具武器制作的工艺系统 |
 | 匠魂护甲 - [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) | 为匠魂新增制作护甲的能力 |
