@@ -166,3 +166,8 @@
 2. [Sildurs Vibrant Shaders](https://sildurs-shaders.github.io/)
 3. OnlyWater
 4. [Chocapic13](https://www.minecraftforum.net/members/chocapic13/reputation)
+
+## 内置资源包
+1. 简体中文汉化资源包 - [Simplified Chinese Localization Resource Package](https://www.curseforge.com/minecraft/texture-packs/simplified-chinese-localization-resource-package)
+2. 原版高清材质 - [R3D CRAFT](https://r3dcraft.net/)
+3. 舒服细致材质 - [Soartex_Fanver](https://soartex.net/)
