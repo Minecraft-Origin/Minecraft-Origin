@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:[]
+resourcePacks:["Minecraft-Mod-Language-Package-2.2.75.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
