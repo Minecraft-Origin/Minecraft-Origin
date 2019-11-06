@@ -115,7 +115,6 @@ key_neat.keybind.toggle:0
 key_openblocks.keybind.vario_switch:0
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
-key_Autofish GUI:47
 key_smoothfont.key.guiOpen:0
 key_FpsReducer.key.guiOpen:0
 key_key.jei.toggleOverlay:0
@@ -159,6 +158,7 @@ key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
 key_key.carry.desc:42
+key_key.options:47
 key_bbw.key.mode:34
 key_bbw.key.fluidmode:35
 key_mod.chiselsandbits.chiselmode.single:0
