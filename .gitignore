@@ -124,3 +124,12 @@ Minecraft Origin/.minecraft/config/ProjectRed.cfg
 Minecraft Origin/.minecraft/config/redstonepaste.cfg
 Minecraft Origin/.minecraft/config/avaritia.cfg
 Minecraft Origin/.minecraft/config/denseneutroncollectors.cfg
+
+Minecraft Origin/.minecraft/journeymap/data/
+Minecraft Origin/.minecraft/journeymap/icon/
+Minecraft Origin/.minecraft/journeymap/server/
+Minecraft Origin/.minecraft/journeymap/colorpalette.html
+Minecraft Origin/.minecraft/journeymap/colorpalette.json
+Minecraft Origin/.minecraft/journeymap/journeymap.log
+Minecraft Origin/.minecraft/config/journeymap_server.cfg
+Minecraft Origin/.minecraft/config/journeymap_ModInfo.cfg
