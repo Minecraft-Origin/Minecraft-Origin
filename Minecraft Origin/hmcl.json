@@ -6,6 +6,8 @@
       "global": {
         "usesGlobal": true,
         "maxMemory": 1536,
+        "width": 1066,
+        "height": 600,
         "fullscreen": false,
         "noJVMArgs": false,
         "launcherVisibility": 0,
