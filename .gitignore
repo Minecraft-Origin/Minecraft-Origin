@@ -81,3 +81,12 @@ Minecraft Origin/.minecraft/config/oreexcavation_groups.json
 Minecraft Origin/.minecraft/config/oreexcavation_overrides.json
 
 Minecraft Origin/.minecraft/local/client/rtdata.json
+
+Minecraft Origin/.minecraft/journeymap/data/
+Minecraft Origin/.minecraft/journeymap/icon/
+Minecraft Origin/.minecraft/journeymap/server/
+Minecraft Origin/.minecraft/journeymap/colorpalette.html
+Minecraft Origin/.minecraft/journeymap/colorpalette.json
+Minecraft Origin/.minecraft/journeymap/journeymap.log
+Minecraft Origin/.minecraft/config/journeymap_server.cfg
+Minecraft Origin/.minecraft/config/journeymap_ModInfo.cfg
