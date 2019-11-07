@@ -1,72 +1,51 @@
 Minecraft Origin/hmcl.log
-
 Minecraft Origin/.minecraft/logs
 Minecraft Origin/.minecraft/saves
 Minecraft Origin/.minecraft/NVIDIA
 Minecraft Origin/.minecraft/crash-reports
 Minecraft Origin/.minecraft/.mixin.out
 Minecraft Origin/.minecraft/servers.dat
-
-
 Minecraft Origin/.minecraft/usercache.json
 Minecraft Origin/.minecraft/usernamecache.json
 Minecraft Origin/.minecraft/launcher_profiles.json
-
 Minecraft Origin/.minecraft/versions/1.12.2/logs
 Minecraft Origin/.minecraft/versions/1.12.2/1.12.2-natives
 Minecraft Origin/.minecraft/versions/1.12.2/resourcepacks
 Minecraft Origin/.minecraft/versions/1.12.2/hmclversion.cfg
-
 Minecraft Origin/.minecraft/versions/1.12.2-forge*/1.12.2-forge*natives
-
 Minecraft Origin/.minecraft/assets/skins/
-
 Minecraft Origin/.minecraft/config/forge.cfg
 Minecraft Origin/.minecraft/config/forgeChunkLoading.cfg
 Minecraft Origin/.minecraft/config/splash.properties
-
 Minecraft Origin/.minecraft/config/appleskin.cfg
 Minecraft Origin/.minecraft/config/foamfix.cfg
-
 Minecraft Origin/.minecraft/config/jei/worldSettings.cfg
 Minecraft Origin/.minecraft/config/jei/bookmarks.ini
 Minecraft Origin/.minecraft/config/jei/searchColors.cfg
-
 Minecraft Origin/.minecraft/chooser_0.png
 Minecraft Origin/.minecraft/mobs_0.png
 Minecraft Origin/.minecraft/waypoints_0.png
-
 Minecraft Origin/.minecraft/crafttweaker.log
 Minecraft Origin/.minecraft/scripts/MineTweakerRecipeMaker.zs
-
 Minecraft Origin/.minecraft/config/wawla.cfg
 Minecraft Origin/.minecraft/config/waila/waila.cfg
 Minecraft Origin/.minecraft/config/waila/theme/vanilla.json
 Minecraft Origin/.minecraft/config/waila/theme/dark.json
-
 Minecraft Origin/.minecraft/config/FlatBedrock/dimensions/nether.json
 Minecraft Origin/.minecraft/config/FlatBedrock/dimensions/overworld.json
-
 Minecraft Origin/.minecraft/config/craftingtweaks.cfg
-
 Minecraft Origin/.minecraft/mods/memory_repo/
-
 Minecraft Origin/.minecraft/liteconfig/liteloader.log
 Minecraft Origin/.minecraft/liteconfig/liteloader.properties
 Minecraft Origin/.minecraft/liteconfig/liteloader.profiles.json
 Minecraft Origin/.minecraft/liteconfig/common/liteloader.keys.properties
 Minecraft Origin/.minecraft/liteconfig/common/autofish_clearlag
-
 Minecraft Origin/.minecraft/mods/VoxelMods/voxelMap
-
 Minecraft Origin/.minecraft/config/chanceglobe.cfg
-
 Minecraft Origin/.minecraft/config/codechickenlib.cfg
 Minecraft Origin/.minecraft/config/codechicken/
-
 Minecraft Origin/.minecraft/CustomSkinLoader/
 Minecraft Origin/.minecraft/tv-cache/
-
 Minecraft Origin/.minecraft/config/dynamiclights.cfg
 Minecraft Origin/.minecraft/config/dynamiclights_dropitems.cfg
 Minecraft Origin/.minecraft/config/dynamiclights_floodlights.cfg
@@ -75,16 +54,12 @@ Minecraft Origin/.minecraft/config/dynamiclights_otherplayers.cfg
 Minecraft Origin/.minecraft/config/dynamiclights_theplayer.cfg
 Minecraft Origin/.minecraft/config/dynamiclights_entityclasses.cfg
 Minecraft Origin/.minecraft/config/dynamiclights_onfire.cfg
-
 Minecraft Origin/.minecraft/config/neat.cfg
-
 Minecraft Origin/.minecraft/config/oreexcavation_groups.json
 Minecraft Origin/.minecraft/config/oreexcavation_overrides.json
-
 Minecraft Origin/.minecraft/config/microblocks.cfg
 Minecraft Origin/.minecraft/config/multipart.cfg
 Minecraft Origin/.minecraft/mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar
-
 Minecraft Origin/.minecraft/config/translocators.cfg
 Minecraft Origin/.minecraft/config/ironchest.cfg
 Minecraft Origin/.minecraft/config/furnaceoverhaul.cfg
@@ -96,9 +71,7 @@ Minecraft Origin/.minecraft/config/betterbuilderswands.cfg
 Minecraft Origin/.minecraft/config/cyclic_ores.cfg
 Minecraft Origin/.minecraft/config/bookshelf.cfg
 Minecraft Origin/.minecraft/config/eplus.cfg
-
 Minecraft Origin/.minecraft/local/client/rtdata.json
-
 Minecraft Origin/.minecraft/config/WirelessRedstone.cfg
 Minecraft Origin/.minecraft/config/baubles.cfg
 Minecraft Origin/.minecraft/config/roost.cfg
@@ -124,7 +97,6 @@ Minecraft Origin/.minecraft/config/ProjectRed.cfg
 Minecraft Origin/.minecraft/config/redstonepaste.cfg
 Minecraft Origin/.minecraft/config/avaritia.cfg
 Minecraft Origin/.minecraft/config/denseneutroncollectors.cfg
-
 Minecraft Origin/.minecraft/journeymap/data/
 Minecraft Origin/.minecraft/journeymap/icon/
 Minecraft Origin/.minecraft/journeymap/server/
@@ -133,3 +105,4 @@ Minecraft Origin/.minecraft/journeymap/colorpalette.json
 Minecraft Origin/.minecraft/journeymap/journeymap.log
 Minecraft Origin/.minecraft/config/journeymap_server.cfg
 Minecraft Origin/.minecraft/config/journeymap_ModInfo.cfg
+Minecraft Origin/.minecraft/config/fastbench.cfg
