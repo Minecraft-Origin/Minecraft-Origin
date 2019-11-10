@@ -154,8 +154,9 @@
 | 热力膨胀 ( 革新 ) - [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation) | 热力膨胀的工具和装备相关 |
 | 龙之研究 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | 以龙为核心, 增加了许多后期用的工具以及设备, 十分昂贵却也实用 |
 | 末影接口 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) | 模组提供了非常多新的机械, 并且提供了一套先进的运输方案 |
-| 末影接口 - 扩展 - [Ender IO Endergy](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy) | 末影接口的管道及电容的扩展 |
+| 末影接口 - 管道拓展 - [Ender IO Endergy](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy) | 末影接口的管道及电容的扩展 |
 | 无中生有 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) | 空岛模式必备模组 |
+| 无中生有 - 压缩工具 - [Ex Compressum](https://www.curseforge.com/minecraft/mc-mods/ex-compressum) | 无中生有的附属模组 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
