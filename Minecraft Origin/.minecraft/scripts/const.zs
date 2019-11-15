@@ -77,6 +77,40 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:projectred-expansion:electric_efficiency>; # 燃油效率
     }
 
+    if( loadedMods in "endercore" ){
+        enchantments += <enchantment:endercore:autosmelt>; # 自动冶炼
+        enchantments += <enchantment:endercore:xpboost>; # 经验汲取
+    }
+
+    if( loadedMods in "enderio" ){
+        enchantments += <enchantment:enderio:repellent>; # 驱散传送
+        enchantments += <enchantment:enderio:witherarrow>; # 凋零
+        enchantments += <enchantment:enderio:witherweapon>; # 腐烂
+        enchantments += <enchantment:enderio:soulbound>; # 灵魂绑定
+        enchantments += <enchantment:enderio:shimmer>; # 微光
+    }
+
+    if( loadedMods in "cofhcore" ){
+        enchantments += <enchantment:cofhcore:holding>; # 扩容
+        enchantments += <enchantment:cofhcore:leech>; # 吸血
+        enchantments += <enchantment:cofhcore:insight>; # 洞察
+        enchantments += <enchantment:cofhcore:soulbound>; # 灵魂绑定
+        enchantments += <enchantment:cofhcore:smashing>; # 粉碎
+        enchantments += <enchantment:cofhcore:multishot>; # 万箭
+        enchantments += <enchantment:cofhcore:vorpal>; # 斩首
+        enchantments += <enchantment:cofhcore:smelting>; # 冶炼
+    }
+
+    if( loadedMods in "draconicevolution" ){
+        enchantments += <enchantment:draconicevolution:enchant_reaper>; # 收割者
+    }
+
+    if( loadedMods in "exnihilocreatio" ){
+        enchantments += <enchantment:exnihilocreatio:sieve_luck_of_the_sea>; # 筛网海之眷顾
+        enchantments += <enchantment:exnihilocreatio:sieve_efficiency>; # 筛网效率
+        enchantments += <enchantment:exnihilocreatio:sieve_fortune>; # 筛网时运
+    }
+
 /******************* 所有的附魔定义 *******************/
 
 
