@@ -100,7 +100,6 @@ Minecraft Origin/.minecraft/config/denseneutroncollectors.cfg
 Minecraft Origin/.minecraft/config/cofh/
 Minecraft Origin/.minecraft/config/brandon3055/
 Minecraft Origin/.minecraft/config/endercore/
-Minecraft Origin/.minecraft/config/enderio/
 Minecraft Origin/.minecraft/journeymap/data/
 Minecraft Origin/.minecraft/journeymap/icon/
 Minecraft Origin/.minecraft/journeymap/server/
@@ -111,3 +110,10 @@ Minecraft Origin/.minecraft/config/journeymap_server.cfg
 Minecraft Origin/.minecraft/config/journeymap_ModInfo.cfg
 Minecraft Origin/.minecraft/config/fastbench.cfg
 Minecraft Origin/.minecraft/config/ExCompressum/
+Minecraft Origin/.minecraft/config/enderio/recipes/
+Minecraft Origin/.minecraft/config/enderio/enderio.cfg
+Minecraft Origin/.minecraft/config/enderio/enderiopowertools.cfg
+Minecraft Origin/.minecraft/config/enderio/enderioendergy.cfg
+Minecraft Origin/.minecraft/config/enderio/enderioendergy.cfg
+Minecraft Origin/.minecraft/config/enderio/enderiointegrationforestry.cfg
+Minecraft Origin/.minecraft/config/enderio/painter_paint_sources_*.xml
