@@ -121,4 +121,6 @@ Minecraft Origin/.minecraft/config/laser_drill_ores/
 Minecraft Origin/.minecraft/config/industrialforegoing.cfg
 Minecraft Origin/.minecraft/config/teslacorelib.cfg
 Minecraft Origin/.minecraft/config/extrautils2.cfg
-Minecraft Origin/.minecraft/config/AppliedEnergistics2/
+Minecraft Origin/.minecraft/config/AppliedEnergistics2/items.csv
+Minecraft Origin/.minecraft/config/AppliedEnergistics2/CustomRecipes.cfg
+Minecraft Origin/.minecraft/config/AppliedEnergistics2/Facades.cfg
