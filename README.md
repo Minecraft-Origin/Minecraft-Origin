@@ -158,6 +158,7 @@
 | 无中生有 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) | 空岛模式必备模组 |
 | 压缩工具 - [Ex Compressum](https://www.curseforge.com/minecraft/mc-mods/ex-compressum) | 无中生有的附属模组 |
 | 工业先锋 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) | 巨多超好用的自动化机器 |
+| 更多使用设备2 - [Extra Utilities](https://www.curseforge.com/minecraft/mc-mods/extra-utilities) | 无线能量系统及许多实用设备 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
