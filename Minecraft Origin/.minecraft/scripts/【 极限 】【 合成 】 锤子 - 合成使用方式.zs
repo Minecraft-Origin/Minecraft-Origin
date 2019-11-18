@@ -72,8 +72,8 @@ for compressedHammer in compressedHammers {
     recipes.addShapeless( <excompressum:compressed_block:3>, [ anyCompressedHammer, <excompressum:compressed_block:2> ]);
     # 压缩沙子 -> 压缩粉尘
     recipes.addShapeless( <excompressum:compressed_block:0>, [ anyCompressedHammer, <excompressum:compressed_block:3> ]);
-    # 压缩地狱岩 -> 粉碎的地狱岩
+    # 压缩地狱岩 -> 压缩地狱岩砂砾
     recipes.addShapeless( <excompressum:compressed_block:6>, [ anyCompressedHammer, <excompressum:compressed_block:9> ]);
-    # 末地石 -> 粉碎的末地石
+    # 压缩末地石 -> 压缩末地石砂砾
     recipes.addShapeless( <excompressum:compressed_block:7>, [ anyCompressedHammer, <excompressum:compressed_block:10> ]);
 }
