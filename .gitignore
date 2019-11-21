@@ -1,6 +1,9 @@
+Minecraft Origin/.minecraft/saves/*
+!Minecraft Origin/.minecraft/saves/基岩起源
+!Minecraft Origin/.minecraft/saves/空岛起源
+
 Minecraft Origin/hmcl.log
 Minecraft Origin/.minecraft/logs
-Minecraft Origin/.minecraft/saves
 Minecraft Origin/.minecraft/NVIDIA
 Minecraft Origin/.minecraft/crash-reports
 Minecraft Origin/.minecraft/.mixin.out
