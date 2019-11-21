@@ -12,31 +12,31 @@ events.onPlayerLoggedIn(
 
         if( ( data in "PlayerRegistered" ) == false ){
             var items as IItemStack[] = [
-                <minecraft:iron_sword>.withTag({
-                    display: { Name: '新手铁剑' }
+                <minecraft:stone_sword>.withTag({
+                    display: { Name: '新手石剑' }
                 }),
-                <minecraft:iron_axe>.withTag({
-                    display: { Name: '新手铁斧' }
+                <minecraft:stone_axe>.withTag({
+                    display: { Name: '新手石斧' }
                 }),
-                <minecraft:iron_pickaxe>.withTag({
-                    display: { Name: '新手铁镐' }
+                <minecraft:stone_pickaxe>.withTag({
+                    display: { Name: '新手石镐' }
                 }),
-                <minecraft:iron_shovel>.withTag({
-                    display: { Name: '新手铁锹' }
+                <minecraft:stone_shovel>.withTag({
+                    display: { Name: '新手石锹' }
                 }),
-                <minecraft:iron_hoe>.withTag({
-                    display: { Name: '新手铁锄' }
+                <minecraft:stone_hoe>.withTag({
+                    display: { Name: '新手石锄' }
                 }),
-                <minecraft:iron_helmet>.withTag({
+                <minecraft:chainmail_helmet>.withTag({
                     display: { Name: '新手帽子' }
                 }),
-                <minecraft:iron_chestplate>.withTag({
+                <minecraft:chainmail_chestplate>.withTag({
                     display: { Name: '新手外套' }
                 }),
-                <minecraft:iron_leggings>.withTag({
+                <minecraft:chainmail_leggings>.withTag({
                     display: { Name: '新手裤子' }
                 }),
-                <minecraft:iron_boots>.withTag({
+                <minecraft:chainmail_boots>.withTag({
                     display: { Name: '新手靴子' }
                 }),
                 <minecraft:torch> * 64,
@@ -64,7 +64,7 @@ events.onPlayerLoggedIn(
                     }
                     # 保护
                     if( index > 4 ){
-                        item.addEnchantment( <enchantment:minecraft:protection> * 2 );
+                        item.addEnchantment( <enchantment:minecraft:protection> * 3 );
                     }
                 }
 
