@@ -61,6 +61,8 @@ for hammer in hammers {
     recipes.addShapeless( <minecraft:concrete_powder:13>, [ anyHammer, <minecraft:concrete:13> ]);
     recipes.addShapeless( <minecraft:concrete_powder:14>, [ anyHammer, <minecraft:concrete:14> ]);
     recipes.addShapeless( <minecraft:concrete_powder:15>, [ anyHammer, <minecraft:concrete:15> ]);
+    # 陨石 -> 粉碎陨石
+    recipes.addShapeless( <exnihilocreatio:block_skystone_crushed>, [ anyHammer, <appliedenergistics2:sky_stone_block> ]);
 }
 
 for compressedHammer in compressedHammers {
