@@ -162,6 +162,7 @@
 | 应用能源2 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | 一整套完整的物品存储系统及自动化 |
 | 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
 | 植物魔法 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) | 一个披着魔法外壳的科技向模组 |
+| 植物学拓展 [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions) | 植物魔法的附属模组 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
@@ -169,6 +170,7 @@
 | [ 前置 ] 末影核心 - [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) | 末影接口模组的前置模组 |
 | [ 前置 ] Forgelin - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin) | 无中生有模组的前置模组 |
 | [ 前置 ] 特斯拉核心 - [Tesla Core Lib](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib) | 工业先锋模组的前置模组 |
+| [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) | 植物学拓展模组的前置模组 |
 
 <br>
 
