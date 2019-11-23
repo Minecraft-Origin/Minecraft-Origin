@@ -163,6 +163,7 @@
 | 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
 | 植物魔法 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) | 一个披着魔法外壳的科技向模组 |
 | 植物学拓展 [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions) | 植物魔法的附属模组 |
+| 工业时代2 - [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft) | 老牌科技模组 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
