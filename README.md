@@ -166,6 +166,7 @@
 | 植物学拓展 [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions) | 植物魔法的附属模组 |
 | 工业时代2 - [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft) | 老牌科技模组 |
 | 高级太阳能 - [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels) | 工业时代2的附属模组 |
+| 环境科技 - [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) | 从虚空中提取资源 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
@@ -174,6 +175,7 @@
 | [ 前置 ] Forgelin - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin) | 无中生有模组的前置模组 |
 | [ 前置 ] 特斯拉核心 - [Tesla Core Lib](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib) | 工业先锋模组的前置模组 |
 | [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) | 植物学拓展模组的前置模组 |
+| [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
 
 <br>
 
