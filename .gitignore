@@ -2,8 +2,9 @@ Minecraft Origin/.minecraft/saves/*
 
 !Minecraft Origin/.minecraft/saves/基岩起源
 Minecraft Origin/.minecraft/saves/基岩起源/session.lock
-Minecraft Origin/.minecraft/saves/基岩起源/BattletowerPositionsFile.txt
 Minecraft Origin/.minecraft/saves/基岩起源/multipart.dat
+Minecraft Origin/.minecraft/saves/基岩起源/forcedchunks.dat
+Minecraft Origin/.minecraft/saves/基岩起源/BattletowerPositionsFile.txt
 Minecraft Origin/.minecraft/saves/基岩起源/playerdata/
 Minecraft Origin/.minecraft/saves/基岩起源/data/
 Minecraft Origin/.minecraft/saves/基岩起源/DIM*/
