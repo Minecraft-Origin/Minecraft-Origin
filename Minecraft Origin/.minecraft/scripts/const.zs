@@ -111,6 +111,14 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:exnihilocreatio:sieve_fortune>; # 筛网时运
     }
 
+    if( loadedMods in "extrautils2" ){
+        enchantments += <enchantment:extrautils2:xu.burnerang>; # 回旋燃烧
+        enchantments += <enchantment:extrautils2:xu.boomereaperang>; # 回旋收割
+        enchantments += <enchantment:extrautils2:xu.bladerang>; # 回旋锋利
+        enchantments += <enchantment:extrautils2:xu.kaboomerang>; # 回旋爆炸
+        enchantments += <enchantment:extrautils2:xu.zoomerang>; # 回旋提速
+    }
+
 /******************* 所有的附魔定义 *******************/
 
 
