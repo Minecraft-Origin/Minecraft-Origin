@@ -65,17 +65,24 @@ for hammer in hammers {
     recipes.addShapeless( <exnihilocreatio:block_skystone_crushed>, [ anyHammer, <appliedenergistics2:sky_stone_block> ]);
 }
 
-for compressedHammer in compressedHammers {
+for index, compressedHammer in compressedHammers {
     var anyCompressedHammer = compressedHammer.anyDamage().transformDamage(2);
 
     # 压缩圆石 -> 压缩砂砾
     recipes.addShapeless( <excompressum:compressed_block:2>, [ anyCompressedHammer, <excompressum:compressed_block:1> ]);
+    recipes.addShapeless( <excompressum:compressed_block:2>, [ anyCompressedHammer, <extrautils2:compressedcobblestone> ]);
     # 压缩砂砾 -> 压缩沙子
     recipes.addShapeless( <excompressum:compressed_block:3>, [ anyCompressedHammer, <excompressum:compressed_block:2> ]);
+    recipes.addShapeless( <excompressum:compressed_block:3>, [ anyCompressedHammer, <extrautils2:compressedgravel> ]);
     # 压缩沙子 -> 压缩粉尘
     recipes.addShapeless( <excompressum:compressed_block:0>, [ anyCompressedHammer, <excompressum:compressed_block:3> ]);
+    recipes.addShapeless( <excompressum:compressed_block:0>, [ anyCompressedHammer, <extrautils2:compressedsand> ]);
     # 压缩地狱岩 -> 压缩地狱岩砂砾
     recipes.addShapeless( <excompressum:compressed_block:6>, [ anyCompressedHammer, <excompressum:compressed_block:9> ]);
     # 压缩末地石 -> 压缩末地石砂砾
     recipes.addShapeless( <excompressum:compressed_block:7>, [ anyCompressedHammer, <excompressum:compressed_block:10> ]);
+
+
+    # 压缩工具的耐久值等于普通工具的耐久值
+    compressedHammer.maxDamage = hammers[ index ].maxDamage;
 }
