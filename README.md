@@ -156,6 +156,7 @@
 | 龙之研究 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | 以龙为核心, 增加了许多后期用的工具以及设备, 十分昂贵却也实用 |
 | 末影接口 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) | 模组提供了非常多新的机械, 并且提供了一套先进的运输方案 |
 | 末影接口 - 管道拓展 - [Ender IO Endergy](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy) | 末影接口的管道及电容的扩展 |
+| RF工具箱 - [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) | 添加了许多与 RF 有关的工具 |
 | 无中生有 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) | 空岛模式必备模组 |
 | 压缩工具 - [Ex Compressum](https://www.curseforge.com/minecraft/mc-mods/ex-compressum) | 无中生有的附属模组 |
 | 工业先锋 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) | 巨多超好用的自动化机器 |
@@ -178,6 +179,7 @@
 | [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) | 植物学拓展模组的前置模组 |
 | [ 前置 ] Aroma1997Core - [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | TATW 模组的前置模组 |
 | [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
+| [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
 
 <br>
 
