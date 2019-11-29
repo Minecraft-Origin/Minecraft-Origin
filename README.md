@@ -171,6 +171,7 @@
 | 环境科技 - [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) | 从虚空中提取资源 |
 | 沉浸工程 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | 多方块结构科技模组 |
 | 建筑 - [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft) | 添加了大量自动化相关机器 |
+| 铁路 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft) | 与铁路相关的科技模组 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
