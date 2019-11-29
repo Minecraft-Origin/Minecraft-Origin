@@ -169,6 +169,7 @@
 | 高级太阳能 - [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels) | 工业时代2的附属模组 |
 | TATW - [TATW](https://www.curseforge.com/minecraft/mc-mods/tatw) | 使工业时代的机器可以使用 RF 能源 |
 | 环境科技 - [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) | 从虚空中提取资源 |
+| 沉浸工程 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | 多方块结构科技模组 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
