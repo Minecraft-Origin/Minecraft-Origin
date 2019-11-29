@@ -119,6 +119,7 @@ key_oreexcavation.key.shape:0
 key_key.fart.desc:0
 key_neat.keybind.toggle:0
 key_key.xu2.searchforitems:0
+key_keybind.railcraft.cart.bed:0
 key_openblocks.keybind.vario_switch:0
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
@@ -259,6 +260,11 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
+key_keybind.railcraft.loco.reverse:0
+key_keybind.railcraft.loco.faster:0
+key_keybind.railcraft.loco.slower:0
+key_keybind.railcraft.loco.mode:0
+key_keybind.railcraft.loco.whistle:0
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
