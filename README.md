@@ -91,6 +91,7 @@
 | 末影存储 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) | 新增了可跨世界的物品存储及液体存储<br>记得配合区块加载使用哦 |
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
 | 更多铁砧 - [Extra Anvils](https://www.curseforge.com/minecraft/mc-mods/extra-anvils) | 一些更高级的铁砧 |
+| 黏土桶 - [Clay Bucket](https://www.curseforge.com/minecraft/mc-mods/clay-bucket) | 添加了使用黏土制作的桶 |
 | 更好的附魔 - [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 添加了高级附魔台, 用于给武器及工具添加指定附魔 |
 | 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
 | 区块加载 - [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8) | 添加了区块加载器, 可以对非出生点区块进行强制加载 |
