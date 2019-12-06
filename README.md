@@ -179,6 +179,7 @@
 | 通用机械矿石 - [MekanismOres](https://www.curseforge.com/minecraft/mc-mods/mekanismores) | 通用机械扩展模组 |
 | 能量桥接器 - [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 用于转换各种不同模组的能量 |
 | 自动打包机 - [AutoPackager](https://www.curseforge.com/minecraft/mc-mods/autopackager) | 快速处理 1*1, 2*2, 3*3 的合成 |
+| 矿辞统一 - [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 多科技类兼容补丁 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
@@ -190,6 +191,7 @@
 | [ 前置 ] Aroma1997Core - [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | TATW 模组的前置模组 |
 | [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
 | [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
+| [ 前置 ] WanionLib - [WanionLib](https://www.curseforge.com/minecraft/mc-mods/wanionlib) | 矿辞统一模组的前置模组 |
 
 <br>
 
