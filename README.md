@@ -8,9 +8,8 @@
 | :-: | :- | :- |
 | [基础](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/基础) | 原版 | 不对原版进行任何修改, 进行游戏体验及界面视听进行优化, 可以直接进入纯净服 |
 | [基础+](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/基础+) | 原版扩展 | 不对游戏添加任何物品, 对游戏玩法进行大幅改善优化, 降低游戏难度, 获得全新的体验 |
-| 增强 | 游戏增强 | 添加各种模组, 对游戏各个方面进行强化, 同时增强游戏难度 |
-| 极限 | 科技 | 添加大量科技模组, 再度增强游戏难度 |
-
+| [增强](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/增强) | 游戏增强 | 添加各种模组, 对游戏各个方面进行强化, 同时增强游戏难度 |
+| [极限](https://github.com/Minecraft-Origin/Minecraft-Origin/tree/极限) | 科技 | 添加大量科技模组, 再度增强游戏难度 |
 <br>
 
 ## 模组列表
@@ -58,23 +57,24 @@
 | 无限弓修复 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) | 使用拥有无限附魔的弓时不再需要身上带着箭了 |
 | 更大堆叠数量 - [StackUp](https://www.curseforge.com/minecraft/mc-mods/stackup) | 使物品的 <b>最大堆叠数量值</b> 可以超过 64<br>目前物品的最大堆叠数量值为 1000 |
 | 更大堆叠数量 - [Stacksize](https://www.curseforge.com/minecraft/mc-mods/stacksize) | 提升 <b>物品</b> 的最大堆叠数量, 可将不能堆叠的物品可以进行堆叠<br>目前的物品最大堆叠数量为 1000 |
+| 工作台性能优化 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | 优化原版工作台合成性能 |
 | 快速落叶 - [Quick Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) | 树叶腐烂速度加快 |
 | 更好的骨粉 - [ExpandedBonemeal](https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal) | 使骨粉可以催熟的植物更多 |
-| 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 `shift` 可以对树苗施肥 |
+| 跳舞树成长 - [TreeGrowingSimulator](https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator) | 在树苗附近狂按 <b>`shift`</b> 可以对树苗施肥 |
 | 收获经验 - [XP From Harvest](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest) | 1. 收获农作物将得到经验<br>2. 单击成熟作物将直接收获并重新种植 |
 | 保持库存 - [KeepingInventory](https://www.curseforge.com/minecraft/mc-mods/keeping-inventory) | 自动开启死亡不掉落和爆炸保护 |
 | 和平的饥饿 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace) | 和平模式也会消耗饱食度了 |
 | 越过围栏 - [Fence Jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper) | 使玩家可以越过栅栏和圆石墙等 1.5 格高的方块 |
-| 更好的破坏半砖 - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) | 按住 `shift` 破坏由两块半砖叠成的方块时可以只破坏鼠标指向的那块半砖 |
+| 更好的破坏半砖 - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) | 按住 <b>`shift`</b> 破坏由两块半砖叠成的方块时可以只破坏鼠标指向的那块半砖 |
 | 快乐着陆 - [Happy Landings](https://www.curseforge.com/minecraft/mc-mods/happy-landings) | 防止玩家在飞行时撞墙造成的伤害 |
 | 无限岩浆 - [InstantLava](https://craft.mystia.org/InstantLava/) | 赋予岩浆和无限水一样的特性 |
 | 席地而坐 - [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) | 使玩家可以坐在半砖或台阶上 |
 | 基岩平铺 - [FlatBedrock](https://www.curseforge.com/minecraft/mc-mods/flatbedrockx) | 使游戏内的基岩不在坑坑洼洼 |
-| 搬运 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | 按住 `shift` 点击箱子可以对箱子进行搬运, 动物也可以<br>还有一些其他的方块比如熔炉,刷怪笼等等也可以搬运, 可以自行尝试 |
+| 搬运 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | 按住 <b>`shift`</b> 点击箱子可以对箱子进行搬运, 动物也可以<br>还有一些其他的方块比如熔炉,刷怪笼等等也可以搬运, 可以自行尝试 |
 | 悬挂火把 - [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) | 使火把及红石火把可以向下垂直安放 |
 | 经验机制改革 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | 相近的经验球会合并为一个更高经验的经验球, 不再满地都是经验了 |
 | 禁止末影人搬运 - [No Enderman Pickup](https://www.curseforge.com/minecraft/mc-mods/no-enderman-pickup) | 禁止末影人搬运方块 |
-| 自动钓鱼 - [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 `V` 进行配置及禁用 |
+| 自动钓鱼 - [Autofish](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2530407-autofish-forge-mod-for-minecraft-1-14-1-13-1-12-1) | 拿着钓竿钓鱼时上钩后会自动收杆并在此抛出, 使用快捷键 <b>`V`</b> 进行配置及禁用 |
 | 夸克 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | 包含了各种各样对原版游玩元素的改良<br>[ 基础+ ]: 只启用了一些实用性功能, 其他功能均被禁用<br>[ 增强 ]: 只启用了一些对原版道具的补充或升级的功能或道具 |
 | 随意的微调 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks) | 优化游戏的各种细节部分及添加了大量功能 |
 | 自我控制 - [Self Control](https://www.curseforge.com/minecraft/mc-mods/self-control) | 禁止通过创建局域网的方式开启作弊模式 |
@@ -90,6 +90,8 @@
 | 存储抽屉 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | 视觉上更直观的储物系统, 且存储容量可变 |
 | 末影存储 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) | 新增了可跨世界的物品存储及液体存储<br>记得配合区块加载使用哦 |
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
+| 更多铁砧 - [Extra Anvils](https://www.curseforge.com/minecraft/mc-mods/extra-anvils) | 一些更高级的铁砧 |
+| 黏土桶 - [Clay Bucket](https://www.curseforge.com/minecraft/mc-mods/clay-bucket) | 添加了使用黏土制作的桶 |
 | 更好的附魔 - [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 添加了高级附魔台, 用于给武器及工具添加指定附魔 |
 | 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
 | 区块加载 - [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8) | 添加了区块加载器, 可以对非出生点区块进行强制加载 |
@@ -100,7 +102,7 @@
 | 收藏馆 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 新增了各种各样的放置物品的展示架和其他装饰 |
 | 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
 | 更好的建筑魔杖 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands) | 新增了建筑魔杖工具, 可以根据已放置的方块批量放置方块<br>手持建筑魔杖使用 `G` 键可以切换放置模式<br>手持建筑魔杖使用 `H` 键可以切换对水流处理模式 |
-| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 `C` 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 <b>`C`</b> 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
 | 饰品栏 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 添加饰品栏位 |
 | 匠魂 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) | 增加了一整套从模具制造到金属冶炼再到工具武器制作的工艺系统 |
 | 匠魂护甲 - [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) | 为匠魂新增制作护甲的能力 |
@@ -141,6 +143,50 @@
 | [ 前置 ] MrTJP - [MrTJP](https://www.curseforge.com/minecraft/mc-mods/mrtjpcore) | 红石计划模组的前置模组 |
 | [ 前置 ] IvToolkit - [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit) | 循环遗迹模组的前置模组 |
 
+<h3 align="center">
+    <b>极限</b>
+</h3>
+
+| 模组名称 | 功能介绍及备注 |
+| :- | :- |
+| 热力膨胀 - [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) | 老牌科技模组 |
+| 热力膨胀 ( 基础 ) - [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation) | 热力膨胀模组系列的基础 MOD |
+| 热力膨胀 ( 动力学 ) - [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics) | 热力膨胀的物流系统 |
+| 热力膨胀 ( 农业 ) - [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation) | 热力膨胀的农业相关 |
+| 热力膨胀 ( 革新 ) - [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation) | 热力膨胀的工具和装备相关 |
+| 龙之研究 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | 以龙为核心, 增加了许多后期用的工具以及设备, 十分昂贵却也实用 |
+| 末影接口 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) | 模组提供了非常多新的机械, 并且提供了一套先进的运输方案 |
+| 末影接口 - 管道拓展 - [Ender IO Endergy](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy) | 末影接口的管道及电容的扩展 |
+| RF工具箱 - [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) | 添加了许多与 RF 有关的工具 |
+| 无中生有 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) | 空岛模式必备模组 |
+| 压缩工具 - [Ex Compressum](https://www.curseforge.com/minecraft/mc-mods/ex-compressum) | 无中生有的附属模组 |
+| 工业先锋 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) | 巨多超好用的自动化机器 |
+| 更多实用设备2 - [Extra Utilities](https://www.curseforge.com/minecraft/mc-mods/extra-utilities) | 无线能量系统及许多实用设备 |
+| 应用能源2 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | 一整套完整的物品存储系统及自动化 |
+| 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
+| 植物魔法 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) | 一个披着魔法外壳的科技向模组 |
+| 植物学拓展 [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions) | 植物魔法的附属模组 |
+| 工业时代2 - [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft) | 老牌科技模组 |
+| 高级太阳能 - [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels) | 工业时代2的附属模组 |
+| TATW - [TATW](https://www.curseforge.com/minecraft/mc-mods/tatw) | 使工业时代的机器可以使用 RF 能源 |
+| 环境科技 - [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) | 从虚空中提取资源 |
+| 沉浸工程 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | 多方块结构科技模组 |
+| 建筑 - [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft) | 添加了大量自动化相关机器 |
+| 铁路 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft) | 与铁路相关的科技模组 |
+| 能量桥接器 - [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 用于转换各种不同模组的能量 |
+| 自动打包机 - [AutoPackager](https://www.curseforge.com/minecraft/mc-mods/autopackager) | 快速处理 1*1, 2*2, 3*3 的合成 |
+| [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
+| [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
+| [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
+| [ 前置 ] Brandon's Core - [Brandon's Core](https://www.curseforge.com/minecraft/mc-mods/brandons-core) | 龙之研究模组的前置模组 |
+| [ 前置 ] 末影核心 - [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) | 末影接口模组的前置模组 |
+| [ 前置 ] Forgelin - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin) | 无中生有模组的前置模组 |
+| [ 前置 ] 特斯拉核心 - [Tesla Core Lib](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib) | 工业先锋模组的前置模组 |
+| [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) | 植物学拓展模组的前置模组 |
+| [ 前置 ] Aroma1997Core - [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | TATW 模组的前置模组 |
+| [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
+| [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
+
 <br>
 
 ## 内置光影
@@ -148,3 +194,8 @@
 2. [Sildurs Vibrant Shaders](https://sildurs-shaders.github.io/)
 3. OnlyWater
 4. [Chocapic13](https://www.minecraftforum.net/members/chocapic13/reputation)
+
+## 内置资源包
+1. 简体中文汉化资源包 - [Simplified Chinese Localization Resource Package](https://www.curseforge.com/minecraft/texture-packs/simplified-chinese-localization-resource-package)
+2. 原版高清材质 - [R3D CRAFT](https://r3dcraft.net/)
+3. 舒服细致材质 - [Soartex_Fanver](https://soartex.net/)
