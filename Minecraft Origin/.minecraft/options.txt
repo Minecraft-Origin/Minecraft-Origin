@@ -145,6 +145,14 @@ key_key.toggleFlight:0
 key_key.toggleDislocator:0
 key_key.cycleDigAOE:0
 key_key.cycleAttackAOE:0
+key_key.keyExtraInvo:19
+key_key.keyWheel:0
+key_key.keyExtraCraftin:0
+key_key.keySkills:0
+key_mekanism.key.mode:0
+key_mekanism.key.armorMode:0
+key_mekanism.key.feetMode:0
+key_mekanism.key.voice:0
 key_invtweaks.key.sort:19
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
@@ -218,10 +226,6 @@ key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0
 key_key.toggle_focus.desc:0
 key_nei.options.keys.gui.botania_corporea_request:0
-key_key.keyExtraInvo:19
-key_key.keyWheel:0
-key_key.keyExtraCraftin:0
-key_key.keySkills:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.craftingGrid:46
