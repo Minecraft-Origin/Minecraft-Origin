@@ -175,6 +175,8 @@
 | 铁路 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft) | 与铁路相关的科技模组 |
 | 通用机械 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | 一款提供超强矿物处理的科技模组 |
 | 通用机械发电机 - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) | 通用机械扩展模组 |
+| 通用机械工具 - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) | 通用机械扩展模组 |
+| 通用机械矿石 - [MekanismOres](https://www.curseforge.com/minecraft/mc-mods/mekanismores) | 通用机械扩展模组 |
 | 能量桥接器 - [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 用于转换各种不同模组的能量 |
 | 自动打包机 - [AutoPackager](https://www.curseforge.com/minecraft/mc-mods/autopackager) | 快速处理 1*1, 2*2, 3*3 的合成 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
