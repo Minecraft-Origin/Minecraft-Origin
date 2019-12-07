@@ -77,17 +77,17 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:projectred-expansion:electric_efficiency>; # 燃油效率
     }
 
-    if( loadedMods in "endercore" ){
-        enchantments += <enchantment:endercore:autosmelt>; # 自动冶炼
-        enchantments += <enchantment:endercore:xpboost>; # 经验汲取
-    }
+#   if( loadedMods in "endercore" ){
+#       enchantments += <enchantment:endercore:autosmelt>; # 自动冶炼 ( 已禁用 )
+#       enchantments += <enchantment:endercore:xpboost>; # 经验汲取 ( 已禁用 )
+#   }
 
     if( loadedMods in "enderio" ){
         enchantments += <enchantment:enderio:repellent>; # 驱散传送
         enchantments += <enchantment:enderio:witherarrow>; # 凋零
         enchantments += <enchantment:enderio:witherweapon>; # 腐烂
-        enchantments += <enchantment:enderio:soulbound>; # 灵魂绑定 ( 已禁用 )
-        enchantments += <enchantment:enderio:shimmer>; # 微光 ( 已禁用 )
+#       enchantments += <enchantment:enderio:soulbound>; # 灵魂绑定 ( 已禁用 )
+#       enchantments += <enchantment:enderio:shimmer>; # 微光 ( 已禁用 )
     }
 
     if( loadedMods in "cofhcore" ){
