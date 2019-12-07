@@ -165,7 +165,6 @@
 | 应用能源2 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | 一整套完整的物品存储系统及自动化 |
 | 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
 | 植物魔法 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) | 一个披着魔法外壳的科技向模组 |
-| 植物学拓展 [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions) | 植物魔法的附属模组 |
 | 工业时代2 - [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft) | 老牌科技模组 |
 | 高级太阳能 - [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels) | 工业时代2的附属模组 |
 | TATW - [TATW](https://www.curseforge.com/minecraft/mc-mods/tatw) | 使工业时代的机器可以使用 RF 能源 |
@@ -187,7 +186,6 @@
 | [ 前置 ] 末影核心 - [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) | 末影接口模组的前置模组 |
 | [ 前置 ] Forgelin - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin) | 无中生有模组的前置模组 |
 | [ 前置 ] 特斯拉核心 - [Tesla Core Lib](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib) | 工业先锋模组的前置模组 |
-| [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) | 植物学拓展模组的前置模组 |
 | [ 前置 ] Aroma1997Core - [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | TATW 模组的前置模组 |
 | [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
 | [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
