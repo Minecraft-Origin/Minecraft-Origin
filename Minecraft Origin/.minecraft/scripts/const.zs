@@ -87,7 +87,7 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:enderio:witherarrow>; # 凋零
         enchantments += <enchantment:enderio:witherweapon>; # 腐烂
         enchantments += <enchantment:enderio:soulbound>; # 灵魂绑定
-        enchantments += <enchantment:enderio:shimmer>; # 微光
+        enchantments += <enchantment:enderio:shimmer>; # 微光 ( 已禁用 )
     }
 
     if( loadedMods in "cofhcore" ){
