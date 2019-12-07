@@ -113,7 +113,6 @@ key_quark.emote.zombie:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
-key_keybind.hammercorerenderstack:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_key.fart.desc:0
