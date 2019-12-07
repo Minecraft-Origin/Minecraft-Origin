@@ -148,7 +148,8 @@ import crafttweaker.item.IItemStack;
 /**/ 
 /**/     # 匠魂支持
 /**/     # 匠魂护甲支持
-/**/     if( item.definition.owner == "tconstruct" || item.definition.owner == "conarm" ){
+/**/     # 无中生有模组 "碎矿锤" / "钩子" 支持
+/**/     if( item.definition.owner == "tconstruct" || item.definition.owner == "conarm" || item.definition.owner == "exnihilocreatio" ){
 /**/         var tag = item.tag;
 /**/ 
 /**/        if( tag in "StatsOriginal" ){
