@@ -119,6 +119,13 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:extrautils2:xu.zoomerang>; # 回旋提速
     }
 
+    if( loadedMods in "railcraft" ){
+        enchantments += <enchantment:railcraft:destruction>; # 拆除
+        enchantments += <enchantment:railcraft:implosion>; # 克爆
+        enchantments += <enchantment:railcraft:wrecking>; # 破击
+        enchantments += <enchantment:railcraft:smack>; # 推车
+    }
+
 /******************* 所有的附魔定义 *******************/
 
 
