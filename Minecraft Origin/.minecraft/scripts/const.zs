@@ -132,9 +132,13 @@ import crafttweaker.item.IItemStack;
 /******************* 所有的附魔的 ID 与对应的附魔定义映射 *******************/
 /**/ global enchantmentsMap as IEnchantmentDefinition[string] = {};
 /**/ 
-/**/ for index, enchantment in enchantments{
-/**/     enchantmentsMap[ enchantment.id ] = enchantment;
-/**/ }
+/**/ events.onPlayerLoggedIn(
+/**/     function( event as crafttweaker.event.PlayerLoggedInEvent ){
+/**/         for index, enchantment in enchantments{
+/**/             enchantmentsMap[ enchantment.id ] = enchantment;
+/**/         }
+/**/     }
+/**/ );
 /******************* 所有的附魔的 ID 与对应的附魔定义映射 *******************/
 
 
