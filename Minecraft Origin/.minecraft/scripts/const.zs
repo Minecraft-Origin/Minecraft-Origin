@@ -77,15 +77,68 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:projectred-expansion:electric_efficiency>; # 燃油效率
     }
 
+#   if( loadedMods in "endercore" ){
+#       enchantments += <enchantment:endercore:autosmelt>; # 自动冶炼 ( 已禁用 )
+#       enchantments += <enchantment:endercore:xpboost>; # 经验汲取 ( 已禁用 )
+#   }
+
+    if( loadedMods in "enderio" ){
+        enchantments += <enchantment:enderio:repellent>; # 驱散传送
+        enchantments += <enchantment:enderio:witherarrow>; # 凋零
+        enchantments += <enchantment:enderio:witherweapon>; # 腐烂
+        enchantments += <enchantment:enderio:soulbound>; # 灵魂绑定 ( 已禁用 )
+        enchantments += <enchantment:enderio:shimmer>; # 微光 ( 已禁用 )
+    }
+
+    if( loadedMods in "cofhcore" ){
+        enchantments += <enchantment:cofhcore:holding>; # 扩容
+        enchantments += <enchantment:cofhcore:leech>; # 吸血
+        enchantments += <enchantment:cofhcore:insight>; # 洞察
+        enchantments += <enchantment:cofhcore:soulbound>; # 灵魂绑定
+        enchantments += <enchantment:cofhcore:smashing>; # 粉碎
+        enchantments += <enchantment:cofhcore:multishot>; # 万箭
+        enchantments += <enchantment:cofhcore:vorpal>; # 斩首
+        enchantments += <enchantment:cofhcore:smelting>; # 冶炼
+    }
+
+    if( loadedMods in "draconicevolution" ){
+        enchantments += <enchantment:draconicevolution:enchant_reaper>; # 收割者
+    }
+
+    if( loadedMods in "exnihilocreatio" ){
+        enchantments += <enchantment:exnihilocreatio:sieve_luck_of_the_sea>; # 筛网海之眷顾
+        enchantments += <enchantment:exnihilocreatio:sieve_efficiency>; # 筛网效率
+        enchantments += <enchantment:exnihilocreatio:sieve_fortune>; # 筛网时运
+    }
+
+    if( loadedMods in "extrautils2" ){
+        enchantments += <enchantment:extrautils2:xu.burnerang>; # 回旋燃烧
+        enchantments += <enchantment:extrautils2:xu.boomereaperang>; # 回旋收割
+        enchantments += <enchantment:extrautils2:xu.bladerang>; # 回旋锋利
+        enchantments += <enchantment:extrautils2:xu.kaboomerang>; # 回旋爆炸
+        enchantments += <enchantment:extrautils2:xu.zoomerang>; # 回旋提速
+    }
+
+    if( loadedMods in "railcraft" ){
+        enchantments += <enchantment:railcraft:destruction>; # 拆除
+        enchantments += <enchantment:railcraft:implosion>; # 克爆
+        enchantments += <enchantment:railcraft:wrecking>; # 破击
+        enchantments += <enchantment:railcraft:smack>; # 推车
+    }
+
 /******************* 所有的附魔定义 *******************/
 
 
 /******************* 所有的附魔的 ID 与对应的附魔定义映射 *******************/
 /**/ global enchantmentsMap as IEnchantmentDefinition[string] = {};
 /**/ 
-/**/ for index, enchantment in enchantments{
-/**/     enchantmentsMap[ enchantment.id ] = enchantment;
-/**/ }
+/**/ events.onPlayerLoggedIn(
+/**/     function( event as crafttweaker.event.PlayerLoggedInEvent ){
+/**/         for index, enchantment in enchantments{
+/**/             enchantmentsMap[ enchantment.id ] = enchantment;
+/**/         }
+/**/     }
+/**/ );
 /******************* 所有的附魔的 ID 与对应的附魔定义映射 *******************/
 
 
@@ -99,7 +152,8 @@ import crafttweaker.item.IItemStack;
 /**/ 
 /**/     # 匠魂支持
 /**/     # 匠魂护甲支持
-/**/     if( item.definition.owner == "tconstruct" || item.definition.owner == "conarm" ){
+/**/     # 无中生有模组 "碎矿锤" / "钩子" 支持
+/**/     if( item.definition.owner == "tconstruct" || item.definition.owner == "conarm" || item.definition.owner == "exnihilocreatio" ){
 /**/         var tag = item.tag;
 /**/ 
 /**/        if( tag in "StatsOriginal" ){
