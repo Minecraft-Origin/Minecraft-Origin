@@ -165,7 +165,6 @@
 | 应用能源2 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | 一整套完整的物品存储系统及自动化 |
 | 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
 | 植物魔法 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) | 一个披着魔法外壳的科技向模组 |
-| 植物学拓展 [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions) | 植物魔法的附属模组 |
 | 工业时代2 - [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft) | 老牌科技模组 |
 | 高级太阳能 - [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels) | 工业时代2的附属模组 |
 | TATW - [TATW](https://www.curseforge.com/minecraft/mc-mods/tatw) | 使工业时代的机器可以使用 RF 能源 |
@@ -173,8 +172,13 @@
 | 沉浸工程 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | 多方块结构科技模组 |
 | 建筑 - [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft) | 添加了大量自动化相关机器 |
 | 铁路 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft) | 与铁路相关的科技模组 |
+| 通用机械 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | 一款提供超强矿物处理的科技模组 |
+| 通用机械发电机 - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) | 通用机械扩展模组 |
+| 通用机械工具 - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) | 通用机械扩展模组 |
+| 通用机械矿石 - [MekanismOres](https://www.curseforge.com/minecraft/mc-mods/mekanismores) | 通用机械扩展模组 |
 | 能量桥接器 - [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 用于转换各种不同模组的能量 |
 | 自动打包机 - [AutoPackager](https://www.curseforge.com/minecraft/mc-mods/autopackager) | 快速处理 1*1, 2*2, 3*3 的合成 |
+| 矿辞统一 - [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 多科技类兼容补丁 |
 | [ 前置 ] Redstone Flux - [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH Core - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) | 热力膨胀模组的前置模组 |
 | [ 前置 ] CoFH World - [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) | 热力膨胀模组的前置模组 |
@@ -182,10 +186,10 @@
 | [ 前置 ] 末影核心 - [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) | 末影接口模组的前置模组 |
 | [ 前置 ] Forgelin - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin) | 无中生有模组的前置模组 |
 | [ 前置 ] 特斯拉核心 - [Tesla Core Lib](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib) | 工业先锋模组的前置模组 |
-| [ 前置 ] 锤子核心 - [Hammer (Lib) Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib) | 植物学拓展模组的前置模组 |
 | [ 前置 ] Aroma1997Core - [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | TATW 模组的前置模组 |
 | [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
 | [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
+| [ 前置 ] WanionLib - [WanionLib](https://www.curseforge.com/minecraft/mc-mods/wanionlib) | 矿辞统一模组的前置模组 |
 
 <br>
 
