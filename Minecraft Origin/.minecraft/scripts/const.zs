@@ -59,7 +59,7 @@ import crafttweaker.item.IItemStack;
     }
 
     if( loadedMods in "cyclicmagic" ){
-        enchantments += <enchantment:cyclicmagic:enchantment.lifeleech>; # 生命汲取
+#       enchantments += <enchantment:cyclicmagic:enchantment.lifeleech>; # 生命汲取
         enchantments += <enchantment:cyclicmagic:enchantment.expboost>; # 经验提升
         enchantments += <enchantment:cyclicmagic:enchantment.waterwalking>; # 水上行走
         enchantments += <enchantment:cyclicmagic:enchantment.magnet>; # 磁引
