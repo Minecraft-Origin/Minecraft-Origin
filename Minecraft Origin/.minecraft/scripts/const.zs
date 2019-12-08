@@ -64,7 +64,7 @@ import crafttweaker.item.IItemStack;
         enchantments += <enchantment:cyclicmagic:enchantment.waterwalking>; # 水上行走
         enchantments += <enchantment:cyclicmagic:enchantment.magnet>; # 磁引
         enchantments += <enchantment:cyclicmagic:enchantment.reach>; # 范围扩展
-        enchantments += <enchantment:cyclicmagic:enchantment.multishot>; # 多重射击
+#       enchantments += <enchantment:cyclicmagic:enchantment.multishot>; # 多重射击 ( 已禁用 )
         enchantments += <enchantment:cyclicmagic:enchantment.beheading>; # 斩首
         enchantments += <enchantment:cyclicmagic:enchantment.quickdraw>; # 快弓
         enchantments += <enchantment:cyclicmagic:enchantment.autosmelt>; # 自动冶炼
