@@ -31,7 +31,7 @@
 | 合成界面调整 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | 更实用的合成界面 |
 | R 键整理 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 更方便的背包整理 |
 | 第三人称视角修复 - [f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 |
-| 小地图 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 小地图 |
+| 小地图 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | 小地图 |
 | 万用皮肤补丁 - [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | 加载玩家皮肤, 不仅仅是史蒂夫了 |
 | 高亮显示 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) | 屏幕上方显示鼠标指向的物品的信息 |
 | 高亮显示 - 加强 - [Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at) | 更加详细的物品信息显示 |
