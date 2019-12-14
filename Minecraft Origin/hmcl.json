@@ -5,7 +5,7 @@
     "Default": {
       "global": {
         "usesGlobal": true,
-        "maxMemory": 2048,
+        "maxMemory": 2304,
         "width": 1066,
         "height": 600,
         "fullscreen": false,
