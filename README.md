@@ -166,6 +166,7 @@
 | 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
 | ME功能适配器 - [ME Capability Adapter](https://www.curseforge.com/minecraft/mc-mods/capability-adapter) | 应用能源2和更多空间的联动模组 |
 | 懒惰的AE2 - [Lazy AE2](https://www.curseforge.com/minecraft/mc-mods/lazy-ae2) | 应用能源2的扩展模组 |
+| 无线合成终端 - [Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal) | 添加了一个可以跨世界使用的无线终端 |
 | 植物魔法 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) | 一个披着魔法外壳的科技向模组 |
 | 工业时代2 - [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft) | 老牌科技模组 |
 | 高级太阳能 - [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels) | 工业时代2的附属模组 |
@@ -194,6 +195,8 @@
 | [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
 | [ 前置 ] WanionLib - [WanionLib](https://www.curseforge.com/minecraft/mc-mods/wanionlib) | 矿辞统一模组的前置模组 |
 | [ 前置 ] LibNine - [LibNine](https://www.curseforge.com/minecraft/mc-mods/libnine) | 懒惰的AE2模组的前置模组 |
+| [ 前置 ] p455w0rd's Library - [p455w0rd's Library](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library) | 无线合成终端模组的前置模组 |
+| [ 前置 ] AE2WTLib - [AE2 Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib) | 无线合成终端模组的前置模组 |
 
 <br>
 
