@@ -113,10 +113,13 @@ key_quark.emote.zombie:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
+key_key.toggle_shaders:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_key.fart.desc:0
 key_neat.keybind.toggle:0
+key_key.open_wct.desc:0
+key_key.cycle_magnet_mode.desc:0
 key_key.xu2.searchforitems:0
 key_keybind.railcraft.cart.bed:0
 key_openblocks.keybind.vario_switch:0
@@ -144,6 +147,7 @@ key_key.toggleFlight:0
 key_key.toggleDislocator:0
 key_key.cycleDigAOE:0
 key_key.cycleAttackAOE:0
+key_key.toggle_focus.desc:0
 key_key.keyExtraInvo:19
 key_key.keyWheel:0
 key_key.keyExtraCraftin:0
@@ -223,7 +227,6 @@ key_key.porterNextDestination:0
 key_key.porterPrevDestination:0
 key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0
-key_key.toggle_focus.desc:0
 key_nei.options.keys.gui.botania_corporea_request:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
