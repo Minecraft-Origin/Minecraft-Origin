@@ -128,6 +128,7 @@
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
 | 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 有几率生成超大的树木 |
 | 暮色森林 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 增加了一个没有昼夜冒险的森林世界<br>充满了新的生物与新的植物以及各种探险要素和许多强大的 BOSS |
+| 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 用于优化暮色森林中的材质展示 |
 | 稀有精英怪 - [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs) | 有概率赋予怪物随机的属性<br>已关闭某些影响游戏体验的负面 BUFF 如:<br>窒息,瞬移,忍者,粘性,复仇,织网 |
 | 循环遗迹 - [Recurrent Complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) | 为地图添加了更多遗迹建筑 |
 | 战斗高塔 - [BattleTowers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers) | 地图上会随机生成战斗高塔 |
@@ -138,7 +139,6 @@
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
 | [ 前置 ] 开源方块核心 - [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib) | 开源方块模组的前置模组 |
-| [ 前置 ] 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 暮色森林模组的前置模组 |
 | [ 前置 ] 地幔 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) | 匠魂模组的前置模组 |
 | [ 前置 ] MrTJP - [MrTJP](https://www.curseforge.com/minecraft/mc-mods/mrtjpcore) | 红石计划模组的前置模组 |
 | [ 前置 ] IvToolkit - [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit) | 循环遗迹模组的前置模组 |
