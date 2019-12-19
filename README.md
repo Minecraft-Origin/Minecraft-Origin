@@ -31,7 +31,7 @@
 | 合成界面调整 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | 更实用的合成界面 |
 | R 键整理 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 更方便的背包整理 |
 | 第三人称视角修复 - [f5fix](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix) | 修复第三人称视角在高草等方块中会挡住头部的问题 |
-| 小地图 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 小地图 |
+| 小地图 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | 小地图 |
 | 万用皮肤补丁 - [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | 加载玩家皮肤, 不仅仅是史蒂夫了 |
 | 高亮显示 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) | 屏幕上方显示鼠标指向的物品的信息 |
 | 高亮显示 - 加强 - [Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at) | 更加详细的物品信息显示 |
@@ -128,6 +128,7 @@
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
 | 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 有几率生成超大的树木 |
 | 暮色森林 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 增加了一个没有昼夜冒险的森林世界<br>充满了新的生物与新的植物以及各种探险要素和许多强大的 BOSS |
+| 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 用于优化暮色森林中的材质展示 |
 | 稀有精英怪 - [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs) | 有概率赋予怪物随机的属性<br>已关闭某些影响游戏体验的负面 BUFF 如:<br>窒息,瞬移,忍者,粘性,复仇,织网 |
 | 循环遗迹 - [Recurrent Complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) | 为地图添加了更多遗迹建筑 |
 | 战斗高塔 - [BattleTowers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers) | 地图上会随机生成战斗高塔 |
@@ -138,7 +139,6 @@
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
 | [ 前置 ] 开源方块核心 - [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib) | 开源方块模组的前置模组 |
-| [ 前置 ] 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 暮色森林模组的前置模组 |
 | [ 前置 ] 地幔 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) | 匠魂模组的前置模组 |
 | [ 前置 ] MrTJP - [MrTJP](https://www.curseforge.com/minecraft/mc-mods/mrtjpcore) | 红石计划模组的前置模组 |
 | [ 前置 ] IvToolkit - [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit) | 循环遗迹模组的前置模组 |
@@ -164,6 +164,9 @@
 | 更多实用设备2 - [Extra Utilities](https://www.curseforge.com/minecraft/mc-mods/extra-utilities) | 无线能量系统及许多实用设备 |
 | 应用能源2 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | 一整套完整的物品存储系统及自动化 |
 | 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
+| ME功能适配器 - [ME Capability Adapter](https://www.curseforge.com/minecraft/mc-mods/capability-adapter) | 应用能源2和更多空间的联动模组 |
+| 懒惰的AE2 - [Lazy AE2](https://www.curseforge.com/minecraft/mc-mods/lazy-ae2) | 应用能源2的扩展模组 |
+| 无线合成终端 - [Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal) | 添加了一个可以跨世界使用的无线终端 |
 | 植物魔法 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) | 一个披着魔法外壳的科技向模组 |
 | 工业时代2 - [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft) | 老牌科技模组 |
 | 高级太阳能 - [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels) | 工业时代2的附属模组 |
@@ -176,6 +179,7 @@
 | 通用机械发电机 - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) | 通用机械扩展模组 |
 | 通用机械工具 - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) | 通用机械扩展模组 |
 | 通用机械矿石 - [MekanismOres](https://www.curseforge.com/minecraft/mc-mods/mekanismores) | 通用机械扩展模组 |
+| 林业 - [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry) | 农林业方面的拓展模组 |
 | 能量桥接器 - [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 用于转换各种不同模组的能量 |
 | 自动打包机 - [AutoPackager](https://www.curseforge.com/minecraft/mc-mods/autopackager) | 快速处理 1*1, 2*2, 3*3 的合成 |
 | 矿辞统一 - [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 多科技类兼容补丁 |
@@ -190,6 +194,9 @@
 | [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
 | [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
 | [ 前置 ] WanionLib - [WanionLib](https://www.curseforge.com/minecraft/mc-mods/wanionlib) | 矿辞统一模组的前置模组 |
+| [ 前置 ] LibNine - [LibNine](https://www.curseforge.com/minecraft/mc-mods/libnine) | 懒惰的AE2模组的前置模组 |
+| [ 前置 ] p455w0rd's Library - [p455w0rd's Library](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library) | 无线合成终端模组的前置模组 |
+| [ 前置 ] AE2WTLib - [AE2 Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib) | 无线合成终端模组的前置模组 |
 
 <br>
 
