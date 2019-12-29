@@ -92,6 +92,7 @@
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
 | 更多铁砧 - [Extra Anvils](https://www.curseforge.com/minecraft/mc-mods/extra-anvils) | 一些更高级的铁砧 |
 | 黏土桶 - [Clay Bucket](https://www.curseforge.com/minecraft/mc-mods/clay-bucket) | 添加了使用黏土制作的桶 |
+| 液体漏斗 - [Flopper](https://www.curseforge.com/minecraft/mc-mods/flopper) | 添加了一个简单易用的液体传输装置 |
 | 更好的附魔 - [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 添加了高级附魔台, 用于给武器及工具添加指定附魔 |
 | 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
 | 区块加载 - [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8) | 添加了区块加载器, 可以对非出生点区块进行强制加载 |
@@ -142,6 +143,7 @@
 | [ 前置 ] 地幔 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) | 匠魂模组的前置模组 |
 | [ 前置 ] MrTJP - [MrTJP](https://www.curseforge.com/minecraft/mc-mods/mrtjpcore) | 红石计划模组的前置模组 |
 | [ 前置 ] IvToolkit - [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit) | 循环遗迹模组的前置模组 |
+| [ 前置 ] Cyclops Core - [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) | 液体漏斗模组的前置模组 |
 
 <h3 align="center">
     <b>极限</b>
