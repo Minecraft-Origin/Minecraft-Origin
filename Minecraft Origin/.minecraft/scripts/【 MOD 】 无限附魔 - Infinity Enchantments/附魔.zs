@@ -51,6 +51,13 @@ recipes.addShapeless(
 
         var bookTag = ins.book.tag;
 
+        # 和带有无法破坏标记的附魔书进行附魔
+        if( bookTag in "Unbreakable" ){
+            return scripts.const.intactCopy( item ).updateTag({
+                Unbreakable: 1
+            });
+        }
+
         # 只允许和有附魔属性的附魔书进行附魔
         if( ( bookTag in "StoredEnchantments" ) == false ){
             return null;
@@ -87,6 +94,11 @@ recipes.addShapeless(
         # 将所有附魔属性添加到新物品上
         for enchantment in itemEnchantments{
             newItem.addEnchantment( enchantment );
+        }
+
+        # 保留物品的无法破坏标记
+        if( itemTag in "Unbreakable" ){
+            newItem = newItem.updateTag({ Unbreakable: itemTag.Unbreakable });
         }
 
         return newItem;
