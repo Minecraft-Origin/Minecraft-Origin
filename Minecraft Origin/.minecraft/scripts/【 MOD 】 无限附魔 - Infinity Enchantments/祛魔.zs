@@ -51,6 +51,7 @@ recipes.addShapeless(
         # 也可能是我没用对哈哈
         ore.marked("item").transformNew(function( item ){
 
+            var itemTag = item.tag;
             var newItem = scripts.const.copy( item );
             var itemEnchantments as IEnchantment[] = [];
 
@@ -62,6 +63,11 @@ recipes.addShapeless(
                 if( index != 0 ){
                     newItem.addEnchantment( enchantment );
                 }
+            }
+
+            # 保留物品的无法破坏标记
+            if( itemTag in "Unbreakable" && itemEnchantments.length > 0 ){
+                newItem = newItem.updateTag({ Unbreakable: itemTag.Unbreakable });
             }
 
             return newItem;
@@ -88,6 +94,12 @@ recipes.addShapeless(
 
         # 物品没有可以祛除的附魔属性
         if( itemEnchantments.length == 0 ){
+            # 提取出物品中的无法破坏标记
+            if( itemTag in "Unbreakable" ){
+                return <minecraft:enchanted_book>.withTag({
+                    Unbreakable: 1
+                });
+            }
             return null;
         }
 

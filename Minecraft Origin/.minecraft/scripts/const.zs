@@ -178,4 +178,15 @@ import crafttweaker.item.IItemStack;
 /**/ 
 /**/     return newItem;
 /**/ }
+/**/ 
+/**/ function intactCopy( item as IItemStack ) as IItemStack {
+/**/     var newItem = copy( item );
+/**/ 
+/**/     # 取出原物品上附魔属性添加到新物品上
+/**/     for enchantment in item.enchantments{
+/**/         newItem.addEnchantment( enchantment );
+/**/     }
+/**/ 
+/**/     return newItem;
+/**/ }
 /******************* 对物品进行拷贝的方法 *******************/
