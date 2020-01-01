@@ -55,12 +55,16 @@ recipes.addShapeless(
             return null;
         }
 
-        var lure = <enchantment:minecraft:lure>;
-        var lureId = lure.id;
-
         # 饵钓附魔不能超过五级, 否则会失效
-        if( oneEnchantment.id == lureId & oneEnchantment.lvl == 5 ){
+        if( oneEnchantment.id == <enchantment:minecraft:lure>.id & oneEnchantment.lvl == 5 ){
             return null;
+        }
+
+        # 耐久附魔合成到十二级时, 会得到带有无法破坏标记的附魔书
+        if( oneEnchantment.id == <enchantment:minecraft:unbreaking>.id & oneEnchantment.lvl == 11 ){
+            return <minecraft:enchanted_book>.withTag({
+                Unbreakable: 1
+            });
         }
 
         # 返回新等级的附魔书
