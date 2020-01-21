@@ -3,9 +3,9 @@
         "title": "所有生物 - 护甲加强",
         "onjoin": true,
         "result": "default",
-        "armorhelmet": "minecraft:leather_helmet/{ench:[{id:71,lvl:1},{id:34,lvl:666},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}]}",
-        "armorchest": "minecraft:leather_chestplate/{ench:[{id:71,lvl:1},{id:34,lvl:666},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}]}",
-        "armorlegs": "minecraft:leather_leggings/{ench:[{id:71,lvl:1},{id:34,lvl:666},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}]}",
-        "armorboots": "minecraft:leather_boots/{ench:[{id:71,lvl:1},{id:34,lvl:666},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}]}"
+        "armorhelmet": "minecraft:leather_helmet/{ench:[{id:71,lvl:1},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}],Unbreakable:1}",
+        "armorchest": "minecraft:leather_chestplate/{ench:[{id:71,lvl:1},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}],Unbreakable:1}",
+        "armorlegs": "minecraft:leather_leggings/{ench:[{id:71,lvl:1},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}],Unbreakable:1}",
+        "armorboots": "minecraft:leather_boots/{ench:[{id:71,lvl:1},{id:0,lvl:4},{id:1,lvl:1},{id:2,lvl:1},{id:3,lvl:1}],Unbreakable:1}"
    }
 ]
