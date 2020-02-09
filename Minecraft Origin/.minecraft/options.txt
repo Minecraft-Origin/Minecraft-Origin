@@ -119,7 +119,7 @@ key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_key.fart.desc:0
 key_neat.keybind.toggle:0
-key_key.open_wct.desc:0
+key_key.open_wct.desc:18:CONTROL
 key_key.cycle_magnet_mode.desc:0
 key_key.xu2.searchforitems:0
 key_keybind.railcraft.cart.bed:0
@@ -140,7 +140,7 @@ key_key.jei.nextPage:0
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_key.cofh.multimode:0
-key_key.placeItem:0
+key_key.placeItem:25
 key_key.toolConfig:0
 key_key.toolProfileChange:0
 key_key.armorProfileChange:0
