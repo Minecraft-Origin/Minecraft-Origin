@@ -52,8 +52,8 @@ enableWeakAttacks:false
 autoJump:false
 narrator:0
 tutorialStep:none
-key_key.attack:-99
-key_key.use:-100
+key_key.attack:-100
+key_key.use:-99
 key_key.forward:17
 key_key.left:30
 key_key.back:31
@@ -91,7 +91,7 @@ key_Boost Key:0
 key_Mode Switch Key:0
 key_Side Inventory Key:0
 key_Hub Expand Key:0
-key_key.torcherino.useage_key:42
+key_key.torcherino.useage_key:0
 key_keybind.baublesinventory:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
