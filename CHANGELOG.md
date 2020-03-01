@@ -5,7 +5,7 @@
   - 💄 [ 极限 ] 禁用 `< 应用能源2 / Applied Energistics 2 >` 频道的概念, 新手更加容易上手
   - 🆙 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 更新 `< 物品管理器 / Just Enough Items >`, `< 拼音搜索 / JustEnoughCharacters >`, `< FPS 减速器 / FPS Reducer >`, `< 泡沫修复 / Foam Fix >`, `< 小地图 / JourneyMap >`, `< 高亮显示 - 加强 / Wawla >` 模组
   - 🆙 [ 基础+ ] [ 增强 ] [ 极限 ] 更新 `< 悬挂火把 / Ceiling Torch >`, `< 夸克 / Quark >` 模组
-  - 🆙 [ 增强 ] [ 极限 ] 更新 `< 存储抽屉 / Storage Drawers >` 模组
+  - 🆙 [ 增强 ] [ 极限 ] 更新 `< 存储抽屉 / Storage Drawers >`, `< 匠魂 / TConstruct >` 模组
   - 🐞 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 还原鼠标左右按键为默认按键功能
   - 🐞 [ 增强 ] [ 极限 ] 修改夸克模组中的雪砖的合成方式以修复与冰的合成冲突
   - 🐞 [ 极限 ] 修复史莱姆发电机合成方式无效的问题
