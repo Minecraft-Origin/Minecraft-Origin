@@ -131,10 +131,10 @@ key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
 key_key.hudtoggle:0
 key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
+key_waila.keybind.wailadisplay:0
+key_waila.keybind.liquid:0
+key_waila.keybind.recipe:0
+key_waila.keybind.usage:0
 key_key.journeymap.zoom_in:44
 key_key.journeymap.zoom_out:45
 key_key.journeymap.minimap_type:0
