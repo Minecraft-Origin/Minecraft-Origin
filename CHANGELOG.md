@@ -1,6 +1,7 @@
   - 💄 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 延长 `< FPS 减速器 / FPS Reducer >` 模组进入省电模式的时间至 10 分钟
   - 💄 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 添加 `< 小地图 / JourneyMap >` 模组到服务端, 支持传送功能
   - 💄 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 修改 `< 高亮显示 - 加强 / Wawla >` 配置, 默认显示流体, 机器能量, 储罐容量
+  - 💄 [ 增强 ] [ 极限 ] 略微提高 `< 液体漏斗 / Flopper >` 的工作速度
   - 💄 [ 极限 ] 更换 `< 应用能源2 / Applied Energistics 2 >` 的能量单位从 `RF` 为 `AE`
   - 💄 [ 极限 ] 禁用 `< 应用能源2 / Applied Energistics 2 >` 频道的概念, 新手更加容易上手
   - 🆙 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 更新 `< 物品管理器 / Just Enough Items >`, `< 拼音搜索 / JustEnoughCharacters >`, `< FPS 减速器 / FPS Reducer >`, `< 泡沫修复 / Foam Fix >`, `< 小地图 / JourneyMap >`, `< 高亮显示 - 加强 / Wawla >` 模组
