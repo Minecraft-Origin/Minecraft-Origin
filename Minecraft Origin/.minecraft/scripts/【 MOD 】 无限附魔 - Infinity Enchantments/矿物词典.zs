@@ -34,14 +34,9 @@ for mod in loadedMods {
                 break;
             }
         }
-        # 不知为何骷髅头也会混进来
-        else if ( modID == "minecraft" ) {
-            if ( itemID == "minecraft:skull" ) {
-                break;
-            }
-        }
+
         # 只有可附魔和有耐久的物品才可被添加到矿物词典中
-        else if ( item.itemEnchantability > 0 || item.maxDamage > 1 ){
+        if ( item.itemEnchantability > 0 || item.maxDamage > 1 ){
             ore.add( item );
         }
     }
