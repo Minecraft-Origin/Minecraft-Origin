@@ -12,7 +12,7 @@ for mod in loadedMods {
 
         # 忽略对匠魂的支持
         if ( modID == "tconstruct" ){
-            if ( itemID == "tconstruct:pickaxe" || itemID == "tconstruct:shovel" || itemID == "tconstruct:hatchet" || itemID == "tconstruct:mattock" || itemID == "tconstruct:kama" || itemID == "tconstruct:hammer" || itemID == "tconstruct:excavator" || itemID == "tconstruct:lumberaxe" || itemID == "tconstruct:scythe" || itemID == "tconstruct:broadsword" || itemID == "tconstruct:longsword" || itemID == "tconstruct:rapier" || itemID == "tconstruct:frypan" || itemID == "tconstruct:battlesign" || itemID == "tconstruct:cleaver" || itemID == "tconstruct:shortbow" || itemID == "tconstruct:crossbow" || itemID == "tconstruct:arrow" || itemID == "tconstruct:shuriken" ) {
+            if ( itemID == "tconstruct:pickaxe" || itemID == "tconstruct:shovel" || itemID == "tconstruct:hatchet" || itemID == "tconstruct:mattock" || itemID == "tconstruct:kama" || itemID == "tconstruct:hammer" || itemID == "tconstruct:excavator" || itemID == "tconstruct:lumberaxe" || itemID == "tconstruct:scythe" || itemID == "tconstruct:broadsword" || itemID == "tconstruct:longsword" || itemID == "tconstruct:rapier" || itemID == "tconstruct:frypan" || itemID == "tconstruct:battlesign" || itemID == "tconstruct:cleaver" || itemID == "tconstruct:shortbow" || itemID == "tconstruct:longbow" || itemID == "tconstruct:crossbow" || itemID == "tconstruct:arrow" || itemID == "tconstruct:bolt" || itemID == "tconstruct:shuriken" ) {
                 break;
             }
         }
