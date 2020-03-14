@@ -5,19 +5,10 @@
 import crafttweaker.enchantments.IEnchantment;
 
 
-/******************* 所有物品的矿物词典 *******************/
-/**/ var ore = <ore:minecraft_origin_infinity_enchantments_zhang_wei_666>;
-/**/ var book = <minecraft:enchanted_book>;
-/**/
-/**/ for mod in loadedMods {
-/**/     ore.addItems( mod.items );
-/**/ }
-/**/
-/**/ # 除了附魔书
-/**/ ore.remove( book );
-/******************* 所有物品的矿物词典 *******************/
-
-
+# 所有可附魔物品的矿物词典
+var ore = <ore:minecraft_origin_infinity_enchantments_zhang_wei_666>;
+# 附魔书
+var book = <minecraft:enchanted_book>;
 # 使用说明书
 var tips = <minecraft:book>.withTag({
     display: {

@@ -150,32 +150,6 @@ import crafttweaker.item.IItemStack;
 /**/ 
 /**/     newItem.displayName = item.displayName;
 /**/ 
-/**/     # 匠魂支持
-/**/     # 匠魂护甲支持
-/**/     # 无中生有模组 "碎矿锤" / "钩子" 支持
-/**/     if( item.definition.owner == "tconstruct" || item.definition.owner == "conarm" || item.definition.owner == "exnihilocreatio" ){
-/**/         var tag = item.tag;
-/**/ 
-/**/        if( tag in "StatsOriginal" ){
-/**/            newItem = newItem.updateTag({ StatsOriginal: tag.StatsOriginal });
-/**/        }
-/**/        if( tag in "Stats" ){
-/**/            newItem = newItem.updateTag({ Stats: tag.Stats });
-/**/        }
-/**/        if( tag in "Special" ){
-/**/            newItem = newItem.updateTag({ Special: tag.Special });
-/**/        }
-/**/        if( tag in "TinkerData" ){
-/**/            newItem = newItem.updateTag({ TinkerData: tag.TinkerData });
-/**/        }
-/**/        if( tag in "Modifiers" ){
-/**/            newItem = newItem.updateTag({ Modifiers: tag.Modifiers });
-/**/        }
-/**/        if( tag in "Traits" ){
-/**/            newItem = newItem.updateTag({ Traits: tag.Traits });
-/**/        }
-/**/     }
-/**/ 
 /**/     return newItem;
 /**/ }
 /**/ 
