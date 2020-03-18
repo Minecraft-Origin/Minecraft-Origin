@@ -148,6 +148,7 @@ key_key.toggleFlight:0
 key_key.toggleDislocator:0
 key_key.cycleDigAOE:0
 key_key.cycleAttackAOE:0
+key_key.toggleShields:0
 key_key.toggle_focus.desc:0
 key_key.keyExtraInvo:19
 key_key.keyWheel:0
@@ -188,6 +189,14 @@ key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
 key_key.carry.desc:42
 key_key.options:47
+key_key.settings_menu:34
+key_key.range:0
+key_key.undo:0
+key_key.anchor:0
+key_key.fuzzy:0
+key_key.connected_area:0
+key_key.rotate_mirror:0
+key_key.material_list:0
 key_bbw.key.mode:34
 key_bbw.key.fluidmode:35
 key_mod.chiselsandbits.chiselmode.single:0
