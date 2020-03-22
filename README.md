@@ -109,6 +109,7 @@
 | 匠魂 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) | 增加了一整套从模具制造到金属冶炼再到工具武器制作的工艺系统 |
 | 匠魂护甲 - [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) | 为匠魂新增制作护甲的能力 |
 | 匠魂升级 - [Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling) | 匠魂工具可以升级了 |
+| 匠魂合金附加 - [TAIGA ( Tinkers alloying addon )](https://www.curseforge.com/minecraft/mc-mods/taiga-tinkers-alloying-addon) | 为匠魂添加了许多强大的合金 |
 | 匠魂工具信息显示 - [Tinker's JEI](https://www.curseforge.com/minecraft/mc-mods/tinkers-jei) | 为 JEI 添加匠魂工具统计信息的显示 |
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
 | 开源方块 - [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) | 添加巨量的各种各样的实用工具 |
