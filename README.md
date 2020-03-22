@@ -160,6 +160,7 @@
 | 热力膨胀 ( 农业 ) - [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation) | 热力膨胀的农业相关 |
 | 热力膨胀 ( 革新 ) - [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation) | 热力膨胀的工具和装备相关 |
 | 龙之研究 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | 以龙为核心, 增加了许多后期用的工具以及设备, 十分昂贵却也实用 |
+| 龙之研究拓展 - [Draconic Additions](https://www.curseforge.com/minecraft/mc-mods/draconicadditions) | 龙之研究的附属模组 |
 | 末影接口 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) | 模组提供了非常多新的机械, 并且提供了一套先进的运输方案 |
 | 末影接口 - 管道拓展 - [Ender IO Endergy](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy) | 末影接口的管道及电容的扩展 |
 | RF工具箱 - [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) | 添加了许多与 RF 有关的工具 |
