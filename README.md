@@ -105,6 +105,7 @@
 | 收藏馆 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 新增了各种各样的放置物品的展示架和其他装饰 |
 | 更多光源 - [Multiple Lights](https://www.curseforge.com/minecraft/mc-mods/multiple-lights) | 新增了各种木质及石质材质的光源 |
 | 转运器 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8) | 一格方块内的超快物品传输系统, 对着地面按 <b>`C`</b> 键还有一个简易的合成格模块<br>使用以下物品点击转运器可以增强其功能: ( 按住 `shift` 点击可取出 )<br>红石粉: 允许通过红石信号指定输入或输出模式<br>萤石粉: 每次传输可传输一个堆叠数量 ( 1000 个 ) 的物品而不只是一个<br>钻石粒: 可以保证容器内物品的数量始终保持在某个数量 |
+| 搬箱器 - [Chest Transporter](https://www.curseforge.com/minecraft/mc-mods/chest-transporter) | 简单方便运输箱子的方法 |
 | 饰品栏 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 添加饰品栏位 |
 | 匠魂 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) | 增加了一整套从模具制造到金属冶炼再到工具武器制作的工艺系统 |
 | 匠魂护甲 - [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) | 为匠魂新增制作护甲的能力 |
