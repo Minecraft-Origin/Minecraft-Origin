@@ -1,6 +1,7 @@
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 匠魂合金附加 / TAIGA ( Tinkers alloying addon ) >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 龙之研究拓展 / Draconic Additions >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 搬箱器 / Chest Transporter >` 模组
+  - 🌟 [ 增强 ] [ 极限 ] 新增 `< Aroma1997的维度世界 / Aroma1997s Dimensional World >` 模组
 
 # 3.2.0
   - 📅 2020-03-15
