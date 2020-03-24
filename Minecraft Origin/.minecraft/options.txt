@@ -149,6 +149,7 @@ key_key.toggleDislocator:0
 key_key.cycleDigAOE:0
 key_key.cycleAttackAOE:0
 key_key.toggleShields:0
+key_key.taiga.alt_action:0
 key_key.toggle_focus.desc:0
 key_key.keyExtraInvo:19
 key_key.keyWheel:0
@@ -238,6 +239,7 @@ key_key.porterPrevDestination:0
 key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0
 key_nei.options.keys.gui.botania_corporea_request:0
+key_key.overload:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.craftingGrid:46
