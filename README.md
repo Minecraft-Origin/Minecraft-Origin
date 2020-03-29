@@ -128,6 +128,7 @@
 | 刷怪塔实用设备 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | 新增了一系列可用于更好的搭建刷怪塔的实用设备 |
 | Dark 实用设备 - [DarkUtils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 另一个和刷怪塔相关的使用设备 |
 | 迷你刷怪场 - [Tiny Mob Farm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm) | 另一种全自动刷怪系统 |
+| 自动连点器 - [Click Machine](https://www.curseforge.com/minecraft/mc-mods/click-machine) | 模拟玩家点击操作 |
 | 鸡窝 - [Roost](https://www.curseforge.com/minecraft/mc-mods/roost) | 鸡的繁殖生产自动化 |
 | 鸡 - [Chickens](https://www.curseforge.com/minecraft/mc-mods/chickens) | 增加各种类型的鸡, 与鸡窝模组联动使用 |
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
@@ -150,6 +151,7 @@
 | [ 前置 ] MrTJP - [MrTJP](https://www.curseforge.com/minecraft/mc-mods/mrtjpcore) | 红石计划模组的前置模组 |
 | [ 前置 ] IvToolkit - [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit) | 循环遗迹模组的前置模组 |
 | [ 前置 ] Cyclops Core - [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) | 液体漏斗模组的前置模组 |
+| [ 前置 ] Placebo - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) | 自动连点器模组的前置模组 |
 
 <h3 align="center">
     <b>极限</b>
