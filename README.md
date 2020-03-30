@@ -92,6 +92,7 @@
 | 熔炉改革 - [Furnace Overhaul](https://www.curseforge.com/minecraft/mc-mods/furnace-overhaul) | 一些更高级的熔炉 |
 | 更多铁砧 - [Extra Anvils](https://www.curseforge.com/minecraft/mc-mods/extra-anvils) | 一些更高级的铁砧 |
 | 黏土桶 - [Clay Bucket](https://www.curseforge.com/minecraft/mc-mods/clay-bucket) | 添加了使用黏土制作的桶 |
+| 陶瓷器 - [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics) | 添加了一系列黏土制品及陶瓷制品, 包括黏土桶 |
 | 液体漏斗 - [Flopper](https://www.curseforge.com/minecraft/mc-mods/flopper) | 添加了一个简单易用的液体传输装置 |
 | 更好的附魔 - [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 添加了高级附魔台, 用于给武器及工具添加指定附魔 |
 | 更多空间 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) | 新增了几种不同容量大小的, 安全独立的空间体, 可以作为庇护所 |
