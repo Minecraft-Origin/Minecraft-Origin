@@ -1,5 +1,5 @@
 <h1 align="center">Minecraft Origin ( 1.12.2 )</h1>
-<p align="center">一款开源的 Minecraft 模组整合包, 整合包有多个版本可供选择, 面向不同人群</p>
+<p align="center">一款 Minecraft 模组整合包, 整合包有多个版本可供选择, 面向不同人群</p>
 
 <br>
 
