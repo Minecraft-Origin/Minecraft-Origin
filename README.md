@@ -210,6 +210,7 @@
 | [ 前置 ] LibNine - [LibNine](https://www.curseforge.com/minecraft/mc-mods/libnine) | 懒惰的AE2模组的前置模组 |
 | [ 前置 ] p455w0rd's Library - [p455w0rd's Library](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library) | 无线合成终端模组的前置模组 |
 | [ 前置 ] AE2WTLib - [AE2 Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib) | 无线合成终端模组的前置模组 |
+| [ 前置 ] ModelLoader - [ModelLoader](https://www.curseforge.com/minecraft/mc-mods/modelloader) | 磁场工艺模组的前置模组 |
 
 <br>
 
