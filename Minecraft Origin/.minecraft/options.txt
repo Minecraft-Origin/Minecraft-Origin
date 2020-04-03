@@ -122,6 +122,8 @@ key_neat.keybind.toggle:0
 key_key.open_wct.desc:18:CONTROL
 key_key.cycle_magnet_mode.desc:0
 key_key.xu2.searchforitems:0
+key_enderutilities.key.activate_unselected:0
+key_enderutilities.key.togglemode:0
 key_keybind.railcraft.cart.bed:0
 key_openblocks.keybind.vario_switch:0
 key_openblocks.keybind.vario_vol_up:0
