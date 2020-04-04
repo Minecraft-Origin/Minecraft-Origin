@@ -10,6 +10,7 @@
   - 🌟 [ 极限 ] 新增 `< 龙之研究拓展 / Draconic Additions >` 模组
   - 🌟 [ 极限 ] 新增 `< 磁场工艺 / Magneticraft >`, `< ModelLoader >` 模组
   - 🌟 [ 极限 ] 新增 `< 末影设备 / Ender Utilities >` 模组
+  - 🌟 [ 极限 ] 新增 `< 实用拓展 / Actually Additions >` 模组
   - 💄 [ 增强 ] 禁用增强版本中 `< 循环 / Cyclic >` 模组使用电量的相关机器
   - 💄 [ 极限 ] 启用极限版本中 `< 循环 / Cyclic >` 模组中使用电量的相关机器的能耗需求
   - 💄 [ 增强 ] [ 极限 ] 禁用 `< 循环 / Cyclic >` 模组在地狱和末地生成的原版矿物
