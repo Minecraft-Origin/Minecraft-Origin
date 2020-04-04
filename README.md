@@ -175,6 +175,7 @@
 | 压缩工具 - [Ex Compressum](https://www.curseforge.com/minecraft/mc-mods/ex-compressum) | 无中生有的附属模组 |
 | 工业先锋 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) | 巨多超好用的自动化机器 |
 | 更多实用设备2 - [Extra Utilities](https://www.curseforge.com/minecraft/mc-mods/extra-utilities) | 无线能量系统及许多实用设备 |
+| 实用拓展 - [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions) | 提供了诸多实用物品, 方便了玩家的生活 |
 | 应用能源2 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | 一整套完整的物品存储系统及自动化 |
 | 更多存储单元2 - [ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2) | 应用能源2的扩展模组 |
 | ME功能适配器 - [ME Capability Adapter](https://www.curseforge.com/minecraft/mc-mods/capability-adapter) | 应用能源2和更多空间的联动模组 |
