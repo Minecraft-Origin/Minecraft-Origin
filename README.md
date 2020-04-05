@@ -116,6 +116,7 @@
 | 循环 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) | 添加巨量的各种各样的实用工具 |
 | 开源方块 - [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks) | 添加巨量的各种各样的实用工具 |
 | 随意作品 - [Random Things](https://www.curseforge.com/minecraft/mc-mods/random-things) | 增加了许多有趣的玩意 |
+| 微型自动化 - [Tiny Progressions](https://www.curseforge.com/minecraft/mc-mods/tiny-progressions) | 添加了一些简易的自动化及实用道具 |
 | 无线红石 - [Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe) | 新增了可以无线传输红石能量的道具 |
 | 红石计划 ( 基础 ) - [Project Red - Base](https://www.curseforge.com/minecraft/mc-mods/project-red-base/) | 原版红石的加强版, 紧凑的布线和集成逻辑门极大改进了红石控制 |
 | 红石计划 ( 世界生成 ) - [Project Red - World](https://www.curseforge.com/minecraft/mc-mods/project-red-world) | 添加了世界生成、工具还有装备 |
