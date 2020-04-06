@@ -8,6 +8,7 @@
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 交错次元 / The Betweenlands >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 随意作品 / Random Things >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 微型自动化 / Tiny Progressions >` 模组
+  - 🌟 [ 增强 ] [ 极限 ] 新增 `< 药剂环 / Potion Rings >` 模组
   - 🌟 [ 极限 ] 新增 `< 龙之研究拓展 / Draconic Additions >` 模组
   - 🌟 [ 极限 ] 新增 `< 磁场工艺 / Magneticraft >`, `< ModelLoader >` 模组
   - 🌟 [ 极限 ] 新增 `< 末影设备 / Ender Utilities >` 模组
