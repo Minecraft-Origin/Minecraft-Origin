@@ -143,6 +143,7 @@
 | 循环遗迹 - [Recurrent Complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) | 为地图添加了更多遗迹建筑 |
 | 战斗高塔 - [BattleTowers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers) | 地图上会随机生成战斗高塔 |
 | 战利品 - [LootBags](https://www.curseforge.com/minecraft/mc-mods/lootbags) | 家畜爆神装 |
+| 药剂环 - [Potion Rings](https://www.curseforge.com/minecraft/mc-mods/potion-fingers-redux) | 添加了可以提供永久的药水效果的戒指 |
 | 无尽贪婪 - [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10) | 游戏的终点? |
 | 无尽贪婪 - 扩展 - [More Avaritia](https://www.curseforge.com/minecraft/mc-mods/more-avaritia) | 添加许多物品在终极工作台的合成方式 |
 | 致密中子态素收集器 - [Dense Neutron Collectors](https://www.curseforge.com/minecraft/mc-mods/dense-neutron-collectors) | 无尽贪婪的中子态素收集器升级版 |
