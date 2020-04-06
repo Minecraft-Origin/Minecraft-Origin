@@ -9,4 +9,4 @@ git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/c
 git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/config/5.7/journeymap.topo.config"
 git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/config/5.7/journeymap.waypoint.config"
 git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/journeymap/config/5.7/journeymap.webmap.config"
-git update-index --no-assume-unchanged "inecraft Origin/.minecraft/config/cyclicmagic.cfg"
+git update-index --no-assume-unchanged "Minecraft Origin/.minecraft/config/cyclicmagic.cfg"
