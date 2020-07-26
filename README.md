@@ -146,7 +146,7 @@
 | 药剂环 - [Potion Rings](https://www.curseforge.com/minecraft/mc-mods/potion-fingers-redux) | 添加了可以提供永久的药水效果的戒指 |
 | 无尽贪婪 - [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10) | 游戏的终点? |
 | 无尽贪婪 - 扩展 - [More Avaritia](https://www.curseforge.com/minecraft/mc-mods/more-avaritia) | 添加许多物品在终极工作台的合成方式 |
-| 致密中子态素收集器 - [Dense Neutron Collectors](https://www.curseforge.com/minecraft/mc-mods/dense-neutron-collectors) | 无尽贪婪的中子态素收集器升级版 |
+| 无尽贪婪 - 致密中子态素收集器 - [Dense Neutron Collectors](https://www.curseforge.com/minecraft/mc-mods/dense-neutron-collectors) | 无尽贪婪的中子态素收集器升级版 |
 | 加速火把 - [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino) | 添加了在一定范围内调整机器运转速度的火把 |
 | [ 前置 ] 变色龙 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) | 存储抽屉模组的前置模组 |
 | [ 前置 ] 书架 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | 更好的附魔模组的前置模组 |
