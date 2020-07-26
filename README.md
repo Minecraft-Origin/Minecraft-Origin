@@ -156,6 +156,7 @@
 | [ 前置 ] IvToolkit - [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit) | 循环遗迹模组的前置模组 |
 | [ 前置 ] Cyclops Core - [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) | 液体漏斗模组的前置模组 |
 | [ 前置 ] Placebo - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) | 自动连点器模组的前置模组 |
+| [ 前置 ] Aroma1997Core - [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | Aroma1997的维度世界模组的前置模组 |
 
 <h3 align="center">
     <b>极限</b>
@@ -208,7 +209,6 @@
 | [ 前置 ] 末影核心 - [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) | 末影接口模组的前置模组 |
 | [ 前置 ] Forgelin - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin) | 无中生有模组的前置模组 |
 | [ 前置 ] 特斯拉核心 - [Tesla Core Lib](https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib) | 工业先锋模组的前置模组 |
-| [ 前置 ] Aroma1997Core - [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | TATW 模组的前置模组 |
 | [ 前置 ] ValkyrieLib - [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) | 环境科技模组的前置模组 |
 | [ 前置 ] McJtyLib - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | RF工具箱模组的前置模组 |
 | [ 前置 ] WanionLib - [WanionLib](https://www.curseforge.com/minecraft/mc-mods/wanionlib) | 矿辞统一模组的前置模组 |
