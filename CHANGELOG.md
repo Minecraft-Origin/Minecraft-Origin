@@ -17,7 +17,7 @@
   - 💄 [ 极限 ] 启用极限版本中 `< 循环 / Cyclic >` 模组中使用电量的相关机器的能耗需求
   - 💄 [ 极限 ] 提高极限版本内存选项
   - 🐞 [ 极限 ] 修复 `< 矿辞统一 / UniDict >` 模组在某些物品上不生效的问题
-  - 🆙 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 更新 `< FPS 减速器 / FPS Reducer >`, `< 平滑字体 / Smooth Font >`, `< 小地图 / JourneyMap >`, `< 物品管理器 / Just Enough Items >`, `< 万用皮肤补丁 / CustomSkinLoader >`, `< 苹果核 / AppleCore >`, `< 苹果皮 / AppleSkin >` 模组
+  - 🆙 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 更新 `< FPS 减速器 / FPS Reducer >`, `< 平滑字体 / Smooth Font >`, `< 小地图 / JourneyMap >`, `< 物品管理器 / Just Enough Items >`, `< 万用皮肤补丁 / CustomSkinLoader >`, `< 苹果核 / AppleCore >`, `< 苹果皮 / AppleSkin >`, `< 高亮显示 - 加强 / Wawla >` 模组
   - ⚠️ [ 增强 ] [ 极限 ] 移除 `< 匠魂 / Tinkers Construct >` 中的 `木漏斗` 合成方式, 可使用 `< 木质漏斗 / Wopper >` 中的 `木质漏斗`, 合成方式一致, 速度更快
   - ⚠️ [ 增强 ] [ 极限 ] 移除 `< 黏土桶 / Clay Bucket >` 模组, 可使用 `< 陶瓷器 / Ceramics >` 模组, 合成方式一致, 功能更加强大
   - ⚠️ [ 增强 ] [ 极限 ] 禁用 `< 循环 / Cyclic >` 模组在地狱和末地生成的原版矿物
