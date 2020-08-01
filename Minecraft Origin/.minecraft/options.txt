@@ -89,6 +89,7 @@ key_of.key.zoom:29
 key_neat.keybind.toggle:0
 key_smoothfont.key.guiOpen:0
 key_FpsReducer.key.guiOpen:0
+key_FpsReducer.key.forceIdle:197
 key_invtweaks.key.sort:19
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
