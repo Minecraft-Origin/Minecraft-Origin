@@ -109,6 +109,7 @@ key_oreexcavation.key.shape:0
 key_neat.keybind.toggle:0
 key_smoothfont.key.guiOpen:0
 key_FpsReducer.key.guiOpen:0
+key_FpsReducer.key.forceIdle:197
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
