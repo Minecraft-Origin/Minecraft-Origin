@@ -20,6 +20,7 @@
   - 🐞 [ 极限 ] 修复 `< 矿辞统一 / UniDict >` 模组在某些物品上不生效的问题
   - 🆙 [ 基础 ] [ 基础+ ] [ 增强 ] [ 极限 ] 更新 `< FPS 减速器 / FPS Reducer >`, `< 平滑字体 / Smooth Font >`, `< 小地图 / JourneyMap >`, `< 物品管理器 / Just Enough Items >`, `< 万用皮肤补丁 / CustomSkinLoader >`, `< 苹果核 / AppleCore >`, `< 苹果皮 / AppleSkin >`, `< 高亮显示 - 加强 / Wawla >`, `< R 键整理 / Inventory Tweaks >` 模组
   - 🆙 [ 基础+ ] [ 增强 ] [ 极限 ] 更新 `< 矿物开凿 / Ore Excavation >`, `< 更大堆叠数量 / StackUp >`, `< 控制 / InControl >`, `< 席地而坐 / sit >`, `< 夸克 / Quark >`, `< 随意的微调 / RandomTweaks >`, `< 搬运 / CarryOn >`, `< 收获经验 / XPFromHarvest >`, `< 合成修改 / CraftTweaker2 >` 模组
+  - 🆙 [ 增强 ] [ 极限 ] 更新 `< 存储抽屉 / StorageDrawers >` 模组
   - ⚠️ [ 增强 ] [ 极限 ] 移除 `< 匠魂 / Tinkers Construct >` 中的 `木漏斗` 合成方式, 可使用 `< 木质漏斗 / Wopper >` 中的 `木质漏斗`, 合成方式一致, 速度更快
   - ⚠️ [ 增强 ] [ 极限 ] 移除 `< 黏土桶 / Clay Bucket >` 模组, 可使用 `< 陶瓷器 / Ceramics >` 模组, 合成方式一致, 功能更加强大
   - ⚠️ [ 增强 ] [ 极限 ] 禁用 `< 循环 / Cyclic >` 模组在地狱和末地生成的原版矿物
