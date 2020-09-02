@@ -198,7 +198,6 @@
 | 通用机械矿石 - [MekanismOres](https://www.curseforge.com/minecraft/mc-mods/mekanismores) | 通用机械扩展模组 |
 | 磁场工艺 - [Magneticraft](https://www.curseforge.com/minecraft/mc-mods/magneticraft) | 追求更逼真的机器与工厂的科技模组 |
 | 末影设备 - [Ender Utilities](https://www.curseforge.com/minecraft/mc-mods/ender-utilities) | 和末影相关的实用物品和方块 |
-| 林业 - [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry) | 农林业方面的拓展模组 |
 | 能量桥接器 - [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 用于转换各种不同模组的能量 |
 | 自动打包机 - [AutoPackager](https://www.curseforge.com/minecraft/mc-mods/autopackager) | 快速处理 1*1, 2*2, 3*3 的合成 |
 | 矿辞统一 - [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 多科技类兼容补丁 |
