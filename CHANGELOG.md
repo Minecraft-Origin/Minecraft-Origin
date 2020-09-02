@@ -5,7 +5,6 @@
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 木质漏斗 / Wopper >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 自动连点器 / Click Machine >`, `< Placebo >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 陶瓷器 / Ceramics >` 模组
-  - 🌟 [ 增强 ] [ 极限 ] 新增 `< 交错次元 / The Betweenlands >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 随意作品 / Random Things >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 微型自动化 / Tiny Progressions >` 模组
   - 🌟 [ 增强 ] [ 极限 ] 新增 `< 药剂环 / Potion Rings >` 模组
