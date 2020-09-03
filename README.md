@@ -136,7 +136,6 @@
 | 更多鸡 - [More Chickens](https://www.curseforge.com/minecraft/mc-mods/more-chickens) | 再度增加更多类型的鸡, 与更多模组的联动 |
 | 巨大树木 - [BigTrees](https://www.curseforge.com/minecraft/mc-mods/bigtrees) | 民间版本 - 原有模组作者不更新了<br>有几率生成超大的树木 |
 | 暮色森林 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 增加了一个没有昼夜冒险的森林世界<br>充满了新的生物与新的植物以及各种探险要素和许多强大的 BOSS |
-| 交错次元 - [The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod) | 又一款剧情向冒险模组, 添加了一个新的冒险世界 |
 | Aroma1997的维度世界 - [Aroma1997s Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world) | 添加了一个超平坦世界 |
 | 无缝连接材质 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) | 用于优化暮色森林中的材质展示 |
 | 稀有精英怪 - [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs) | 有概率赋予怪物随机的属性<br>已关闭某些影响游戏体验的负面 BUFF 如:<br>窒息,瞬移,忍者,粘性,复仇,织网 |
