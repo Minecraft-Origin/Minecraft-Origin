@@ -246,11 +246,6 @@ key_key.overload:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.craftingGrid:46
-key_key.radial_menu:0
-key_key.use_ring:0
-key_key.use_secondary_ring:0
-key_key.open_pouch:0
-key_key.connect_caving_rope:0
 key_enderio.keybind.inventory:0
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:0
