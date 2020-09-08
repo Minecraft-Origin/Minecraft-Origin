@@ -157,7 +157,6 @@ key_key.toggle_focus.desc:0
 key_key.keyExtraInvo:19
 key_key.keyWheel:0
 key_key.keyExtraCraftin:0
-key_key.keySkills:0
 key_mekanism.key.mode:0
 key_mekanism.key.armorMode:0
 key_mekanism.key.feetMode:0
