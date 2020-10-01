@@ -91,7 +91,7 @@ key_Boost Key:0
 key_Mode Switch Key:0
 key_Side Inventory Key:0
 key_Hub Expand Key:0
-key_key.torcherino.useage_key:42
+key_key.torcherino.useage_key:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -115,6 +115,7 @@ key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
 key_key.toggle_shaders:0
+key_key.betterquesting.quests:20
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_key.fart.desc:0
@@ -244,7 +245,7 @@ key_nei.options.keys.gui.botania_corporea_request:0
 key_key.overload:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
-key_key.craftingGrid:46
+key_key.craftingGrid:0
 key_enderio.keybind.inventory:0
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:0
