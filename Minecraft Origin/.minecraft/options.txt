@@ -210,7 +210,7 @@ key_waila.keybind.usage:0
 key_key.keyExtraInvo:19
 key_key.keyWheel:0
 key_key.keyExtraCraftin:0
-key_key.craftingGrid:0
+key_key.craftingGrid:46
 key_key.control:0
 key_key.journeymap.zoom_in:44
 key_key.journeymap.zoom_out:45
