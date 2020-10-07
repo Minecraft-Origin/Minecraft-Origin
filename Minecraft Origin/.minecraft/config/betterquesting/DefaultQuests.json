@@ -83,9 +83,31 @@
               "tag:10": {
                 "ench:9": {
                   "0:10": {
-                    "lvl:2": 1,
-                    "id:2": 70
+                    "lvl:2": 3,
+                    "id:2": 34
+                  },
+                  "1:10": {
+                    "lvl:2": 3,
+                    "id:2": 32
                   }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:flint",
+              "Count:3": 2,
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 19
+                  }
+                },
+                "author:8": "Zhang-Wei-666",
+                "display:10": {
+                  "Name:8": "祛魔石"
                 }
               },
               "Damage:2": 0,
@@ -126,9 +148,9 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
-          "ismain:1": 1,
+          "ismain:1": 0,
           "name:8": "祛魔",
-          "desc:8": "将附魔物品和祛魔石放在工作台中,\n可以对附魔物品进行祛魔,\n然后得到对应的附魔书"
+          "desc:8": "将附魔物品和祛魔石放在工作台中,\n可以对附魔物品进行逐个祛魔,\n然后得到对应的附魔书\n\n§2- 物品奖励可用于下一个任务"
         }
       },
       "tasks:9": {
@@ -146,8 +168,22 @@
               "tag:10": {
                 "StoredEnchantments:9": {
                   "0:10": {
-                    "lvl:2": 1,
-                    "id:2": 70
+                    "lvl:3": 3,
+                    "id:3": 34
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:3": 3,
+                    "id:3": 32
                   }
                 }
               },
@@ -164,18 +200,28 @@
           "index:3": 2,
           "rewards:9": {
             "0:10": {
-              "id:8": "minecraft:flint",
-              "Count:3": 10,
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
               "tag:10": {
-                "ench:9": {
+                "StoredEnchantments:9": {
                   "0:10": {
-                    "lvl:2": 1,
-                    "id:2": 19
+                    "lvl:3": 3,
+                    "id:3": 34
                   }
-                },
-                "author:8": "Zhang-Wei-666",
-                "display:10": {
-                  "Name:8": "祛魔石"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:3": 3,
+                    "id:3": 32
+                  }
                 }
               },
               "Damage:2": 0,
@@ -206,13 +252,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:leather_helmet",
+            "id:8": "minecraft:enchanted_book",
             "Count:3": 1,
             "tag:10": {
-              "ench:9": {
+              "StoredEnchantments:9": {
                 "0:10": {
-                  "lvl:2": 1,
-                  "id:2": 70
+                  "lvl:3": 4,
+                  "id:3": 34
                 }
               }
             },
@@ -224,9 +270,9 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
-          "ismain:1": 1,
-          "name:8": "附魔",
-          "desc:8": "将满耐久的物品与附魔书一起放在工作台中,\n可以对物品进行附魔\n\n§1§2§f§2- 物品奖励可用于下一个任务"
+          "ismain:1": 0,
+          "name:8": "附魔书合并",
+          "desc:8": "可以对相同属性相同等级的单属性附魔书进行合成,\n从而得到更高等级的附魔书\n\n§2- 物品奖励可用于下一个任务"
         }
       },
       "tasks:9": {
@@ -239,13 +285,27 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:leather_helmet",
+              "id:8": "minecraft:enchanted_book",
               "Count:3": 1,
               "tag:10": {
-                "ench:9": {
+                "StoredEnchantments:9": {
                   "0:10": {
-                    "lvl:2": 1,
-                    "id:2": 70
+                    "lvl:3": 4,
+                    "id:3": 34
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:3": 4,
+                    "id:3": 32
                   }
                 }
               },
@@ -267,8 +327,8 @@
               "tag:10": {
                 "StoredEnchantments:9": {
                   "0:10": {
-                    "lvl:2": 11,
-                    "id:2": 34
+                    "lvl:3": 4,
+                    "id:3": 34
                   }
                 }
               },
@@ -281,8 +341,8 @@
               "tag:10": {
                 "StoredEnchantments:9": {
                   "0:10": {
-                    "lvl:2": 11,
-                    "id:2": 34
+                    "lvl:3": 4,
+                    "id:3": 32
                   }
                 }
               },
@@ -292,7 +352,208 @@
           }
         },
         "1:10": {
-          "amount:3": 30,
+          "amount:3": 40,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 0,
+          "index:3": 1
+        }
+      }
+    },
+    "3:10": {
+      "questID:3": 3,
+      "preRequisites:11": [
+        2
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:leather_helmet",
+            "Count:3": 1,
+            "tag:10": {
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 5,
+                  "id:2": 32
+                },
+                "1:10": {
+                  "lvl:2": 5,
+                  "id:2": 34
+                }
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "附魔",
+          "desc:8": "将满耐久的物品与附魔书一起放在工作台中,\n可以对物品进行附魔\n\n§2- 物品奖励可用于下一个任务"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "allowSmelt:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:leather_helmet",
+              "Count:3": 1,
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 32
+                  },
+                  "1:10": {
+                    "lvl:2": 5,
+                    "id:2": 34
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:3": 12,
+                    "id:8": "34"
+                  },
+                  "1:10": {
+                    "lvl:3": 1,
+                    "id:8": "33"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        },
+        "1:10": {
+          "amount:3": 80,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 0,
+          "index:3": 1
+        }
+      }
+    },
+    "4:10": {
+      "questID:3": 4,
+      "preRequisites:11": [
+        3
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:enchanted_book",
+            "Count:3": 1,
+            "tag:10": {
+              "StoredEnchantments:9": {
+                "0:10": {
+                  "lvl:3": 12,
+                  "id:8": "34"
+                }
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "附魔书分解",
+          "desc:8": "将多属性附魔书放到工作台中,\n可以对多属性的附魔书进行逐个分解"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "allowSmelt:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:3": 12,
+                    "id:8": "34"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "Unbreakable:3": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:totem_of_undying",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        },
+        "1:10": {
+          "amount:3": 160,
           "rewardID:8": "bq_standard:xp",
           "isLevels:1": 0,
           "index:3": 1
@@ -305,23 +566,37 @@
       "quests:9": {
         "0:10": {
           "sizeX:3": 24,
-          "x:3": -444,
-          "y:3": -96,
+          "x:3": 0,
+          "y:3": 0,
           "id:3": 0,
           "sizeY:3": 24
         },
         "1:10": {
           "sizeX:3": 24,
-          "x:3": -408,
-          "y:3": -96,
+          "x:3": 36,
+          "y:3": 0,
           "id:3": 1,
           "sizeY:3": 24
         },
         "2:10": {
           "sizeX:3": 24,
-          "x:3": -372,
-          "y:3": -96,
+          "x:3": 72,
+          "y:3": 0,
           "id:3": 2,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 108,
+          "y:3": 0,
+          "id:3": 3,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 0,
+          "id:3": 4,
           "sizeY:3": 24
         }
       },
